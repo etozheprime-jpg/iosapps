@@ -1,0 +1,36 @@
+name: Šurmulys — probe
+on:
+  workflow_dispatch:
+  push:
+    paths: ['surmulys/tools/probe.mjs', '.github/workflows/surmulys-probe.yml']
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: node surmulys/tools/probe.mjs
+        env:
+          URLS: >-
+            https://www.bilietai.lt/lit/renginiai/
+            https://www.bilietai.lt/
+            https://www.tiketa.lt/
+            https://www.piletilevi.lt/
+            https://kakava.lt/
+            https://www.govilnius.lt/
+            https://www.vilnius.lt/lt/renginiai/
+            https://www.vilnius.lt/en/events/
+            https://renginiai.kasvyksta.lt/
+            https://www.kasvyksta.lt/
+            https://www.eventbrite.com/d/lithuania--vilnius/events/
+            https://allevents.in/vilnius
+            https://www.songkick.com/search?query=vilnius
+            https://www.ticketmaster.lt/
+            https://www.livetickets.lt/
+            https://zalgiris.lt/en/
+            https://www.lnob.lt/
+            https://www.filharmonija.lt/lt/renginiai
+            https://www.mo.lt/
+            https://vilnius.lt/lt/
