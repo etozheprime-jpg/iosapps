@@ -1,0 +1,47 @@
+name: Šurmulys — обновление событий
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'   # каждые 6 часов (UTC)
+  workflow_dispatch:
+  push:
+    paths:
+      - 'surmulys/tools/**'
+      - '.github/workflows/surmulys-events.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: surmulys-events
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Собрать события
+        env:
+          TICKETMASTER_KEY: ${{ secrets.TICKETMASTER_KEY }}
+        run: node surmulys/tools/fetch-events.mjs
+      - name: Статус GitHub Pages (для диагностики)
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api "repos/${{ github.repository }}/pages" --jq '{url: .html_url, status, source}' || echo "Pages API недоступен для этого токена"
+      - name: Закоммитить, если данные изменились
+        run: |
+          if git diff --quiet -- surmulys/data/events.json; then
+            echo "Изменений нет"; exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add surmulys/data/events.json
+          git commit -m "data: обновление событий Вильнюса"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

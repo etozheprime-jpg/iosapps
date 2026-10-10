@@ -1,0 +1,12 @@
+{
+  "_comment": "Каждый источник: страница-список. Сборщик берёт из неё schema.org/Event (JSON-LD), а если в списке только ссылки — заходит по ссылкам, подходящим под linkPattern (до maxLinks). assumeVilnius: считать событие вильнюсским, если адрес не указан.",
+  "sources": [
+    { "name": "Go Vilnius", "url": "https://www.govilnius.lt/visit-vilnius/whats-on", "linkPattern": "/whats-on/[^\"'#?\\s]+", "maxLinks": 40, "assumeVilnius": true },
+    { "name": "Bilietai.lt", "url": "https://www.bilietai.lt/lit/renginiai/", "linkPattern": "/lit/renginiai/[^\"'#?\\s]{6,}", "maxLinks": 40 },
+    { "name": "Tiketa", "url": "https://www.tiketa.lt/LT/home", "linkPattern": "/LT/[^\"'#?\\s]*[0-9]{3,}[^\"'#?\\s]*", "maxLinks": 40 },
+    { "name": "Piletilevi", "url": "https://www.piletilevi.lt/", "linkPattern": "/lit/[^\"'#?\\s]*[0-9]{3,}[^\"'#?\\s]*", "maxLinks": 30 },
+    { "name": "Kakava", "url": "https://kakava.lt/", "linkPattern": "/[a-z0-9-]+/[a-z0-9-]{8,}", "maxLinks": 30 },
+    { "name": "Vilniaus filharmonija", "url": "https://www.filharmonija.lt/", "linkPattern": "/[^\"'#?\\s]*(koncert|event|renginiai)[^\"'#?\\s]*", "maxLinks": 20, "assumeVilnius": true },
+    { "name": "Opera ir baletas", "url": "https://www.opera.lt/", "linkPattern": "/[^\"'#?\\s]*(spektakl|repertuar|event)[^\"'#?\\s]*", "maxLinks": 20, "assumeVilnius": true }
+  ]
+}
