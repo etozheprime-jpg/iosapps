@@ -98,7 +98,7 @@ function renderChips() {
 
 function cardHtml(e, i) {
   const c = CATS[e.category] || CATS.other, img = safeUrl(e.image), url = safeUrl(e.url);
-  const when = e._multi ? `до ${fmtShort.format(new Date(e._k1 + 'T12:00:00Z'))}` : (e._time || 'весь день');
+  const when = e._multi ? `до ${fmtShort.format(new Date(e._k1 + 'T12:00:00Z'))}` : (e._time || 'время на сайте');
   const extra = '';
   return `<article class="card" style="--c:${c.color};--i:${i}" data-id="${esc(e.id)}">
     ${img ? `<div class="bgimg" style="background-image:url('${esc(img)}')"></div>` : ''}

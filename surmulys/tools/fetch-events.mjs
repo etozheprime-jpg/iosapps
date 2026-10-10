@@ -162,20 +162,21 @@ async function ticketmaster() {
 
 // ---------- категории ----------
 const CATS = [
-  ['concert',  /koncert|concert|gig|live music|dj set|jazz|d[žz]iaz|rock|рок|концерт|simfon|choir|choras|orkestr|recitalis|tour\b/i],
-  ['theatre',  /spektakl|teatr|theat|opera|baletas|ballet|театр|спектакл|balet|miuzikl|musical|stand.?up|komedij/i],
-  ['expo',     /parod|exhib|muziej|museum|galerij|gallery|выставк|ekspozic|instaliacij/i],
-  ['festival', /festival|fest\b|šventė|sventė|jomark|mugė|muge|market|fair|фестивал|ярмарк/i],
-  ['film',     /kino|film|cinema|kinas|фильм|premjer/i],
-  ['sport',    /krepšin|krepsin|futbol|football|basket|sport|marathon|maratonas|bėgim|begim|run\b|žalgir|zalgir|ritulys|tenis/i],
-  ['kids',     /vaik|kids|children|šeim|family|детск|lėlių|lelių|pasak/i],
-  ['night',    /party|vakarėl|vakarel|club|klubas|night|вечеринк|after.?party/i],
-  ['talk',     /paskait|lecture|conference|konferenc|workshop|dirbtuv|seminar|meetup|forum|diskusij|knyg|book|лекци/i],
+  ['kids',     /vaik|kids|children|šeim|seim|family|детск|lėlių|lelių|pasak|mažyl|mazyl|su vaikais|multfilm|trolia|pukuotuk/i],
+  ['sport',    /krepšin|krepsin|futbol|football|basket|sport|marathon|maratonas|bėgim|begim|\brun\b|žalgir|zalgir|ritulys|teniso|euroleague|rytas|velo|joga|yoga|treniruot/i],
+  ['film',     /kino\b|kino teatr|film|cinema|kinas|фильм|premjer|pasaka\b|skalvij|forum cinemas/i],
+  ['theatre',  /spektakl|teatr|theat|opera|baletas|ballet|театр|спектакл|balet|miuzikl|musical|stand.?up|komedij|comedy|improv|impro|šokio|sokio|dance/i],
+  ['expo',     /parod|exhib|muziej|museum|galerij|gallery|выставк|ekspozic|instaliacij|atidarym|ekskurs|excursion|tour of|pėsčiom|walking tour|menų|art\b/i],
+  ['festival', /festival|\bfest\b|šventė|sventė|jomark|mugė|muge|market|\bfair\b|фестивал|ярмарк|helovin|halloween/i],
+  ['night',    /party|vakarėl|vakarel|club|klubas|\bnight\b|naktis|nacht|вечеринк|after.?party|\bdj\b|techno|rave|elastica|loftas|tamsta|bix|kablys|jam session|karaoke/i],
+  ['concert',  /koncert|concert|gig|live\b|jazz|d[žz]iaz|rock\b|рок|концерт|simfon|choir|choras|orkestr|recitalis|\btour\b|lvso|filharmon|kamerin|vargon|candlelight|album|dainų|dainu|muzik|music|band\b|quartet|kvartet|trio\b|symphon/i],
+  ['talk',     /paskait|lecture|conference|konferenc|workshop|dirbtuv|seminar|meetup|forum|diskusij|knyg|book|лекци|summit|mokym|training|networking|webinar|kursai|pristatym|susitikim/i],
 ];
 function categorize(e) {
   if (e.category && CATS.some(([k]) => k === e.category)) return e.category;
-  const t = `${e.title} ${e.description || ''} ${e.category || ''}`;
-  for (const [k, re] of CATS) if (re.test(t)) return k;
+  // сначала заголовок, затем заголовок+описание+зал (так «Compensa» не превращает всё в концерты раньше времени)
+  const t1 = `${e.title}`, t2 = `${e.title} ${e.venue || ''} ${e.description || ''}`;
+  for (const t of [t1, t2]) for (const [k, re] of CATS) if (re.test(t)) return k;
   return 'other';
 }
 
@@ -203,14 +204,19 @@ if (TM_KEY) {
 // окно: от «вчера» (чтобы идущие сейчас не пропадали) до HORIZON_DAYS
 const from = Date.now() - 864e5, to = Date.now() + HORIZON_DAYS * 864e5;
 const seen = new Map();
+const noTime = iso => /T00:00(:00)?(\.000)?([+-]\d\d:\d\d|Z)?$/.test(iso);
 for (const e of all) {
   const t = Date.parse(e.start);
   const endT = e.end ? Date.parse(e.end) : t;
-  if (isNaN(t) || endT < from - 0 || t > to) continue;
-  const key = [e.title.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim(), e.start.slice(0, 10), (e.venue || '').toLowerCase().slice(0, 12)].join('|');
-  if (!seen.has(key)) seen.set(key, { ...e, category: categorize(e) });
-  else { const o = seen.get(key); for (const k of Object.keys(e)) if (!o[k] && e[k]) o[k] = e[k]; }
+  if (isNaN(t) || endT < from || t > to) continue;
+  // ключ: нормализованное название + день (залы на разных сайтах пишутся по-разному)
+  const key = e.title.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim().slice(0, 60) + '|' + e.start.slice(0, 10);
+  if (!seen.has(key)) { seen.set(key, { ...e }); continue; }
+  const o = seen.get(key);
+  if (noTime(o.start) && !noTime(e.start)) o.start = e.start;   // предпочитаем запись, где известно время
+  for (const k of Object.keys(e)) if (!o[k] && e[k]) o[k] = e[k];
 }
+for (const o of seen.values()) o.category = categorize(o);
 let events = [...seen.values()].sort((a, b) => Date.parse(a.start) - Date.parse(b.start)).slice(0, 800);
 const ids = new Set();
 events = events.map(e => {

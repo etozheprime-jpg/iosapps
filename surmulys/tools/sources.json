@@ -5,14 +5,14 @@
    "name": "Tiketa",
    "url": "https://www.tiketa.lt/",
    "linkPattern": "/LT/Event/\\d+",
-   "maxLinks": 80,
+   "maxLinks": 120,
    "needVilniusVenue": true
   },
   {
    "name": "AllEvents",
    "url": "https://allevents.in/vilnius",
    "linkPattern": "/vilnius/[^/]+/\\d{10,}",
-   "maxLinks": 70,
+   "maxLinks": 260,
    "assumeVilnius": true,
    "rssLinks": [
     "https://allevents.in/vilnius/RSS",
@@ -20,8 +20,70 @@
     "https://allevents.in/rss3.php?city=vilnius&category=performing-arts",
     "https://allevents.in/rss3.php?city=vilnius&category=nightlife",
     "https://allevents.in/rss3.php?city=vilnius&category=sports",
-    "https://allevents.in/rss3.php?city=vilnius&category=arts"
+    "https://allevents.in/rss3.php?city=vilnius&category=arts",
+    "https://allevents.in/rss3.php?city=vilnius&category=festivals",
+    "https://allevents.in/rss3.php?city=vilnius&category=kids",
+    "https://allevents.in/rss3.php?city=vilnius&category=community",
+    "https://allevents.in/rss3.php?city=vilnius&category=food-drink",
+    "https://allevents.in/rss3.php?city=vilnius&category=business",
+    "https://allevents.in/rss3.php?city=vilnius&category=film"
    ]
+  },
+  {
+   "name": "Bilietai",
+   "url": "https://www.bilietai.lt/renginiai/visi?locations=Vilnius&sortOrder=date_asc",
+   "linkPattern": "/(?:renginiai|series)/[A-Z0-9]{10}/[^\"'#?\\s/]+",
+   "maxLinks": 60,
+   "needVilniusVenue": true
+  },
+  {
+   "name": "Bilietai",
+   "url": "https://www.bilietai.lt/renginiai/koncertai?locations=Vilnius&sortOrder=date_asc",
+   "linkPattern": "/(?:renginiai|series)/[A-Z0-9]{10}/[^\"'#?\\s/]+",
+   "maxLinks": 60,
+   "needVilniusVenue": true
+  },
+  {
+   "name": "Bilietai",
+   "url": "https://www.bilietai.lt/renginiai/teatras?locations=Vilnius&sortOrder=date_asc",
+   "linkPattern": "/(?:renginiai|series)/[A-Z0-9]{10}/[^\"'#?\\s/]+",
+   "maxLinks": 60,
+   "needVilniusVenue": true
+  },
+  {
+   "name": "Bilietai",
+   "url": "https://www.bilietai.lt/renginiai/sportas?locations=Vilnius&sortOrder=date_asc",
+   "linkPattern": "/(?:renginiai|series)/[A-Z0-9]{10}/[^\"'#?\\s/]+",
+   "maxLinks": 60,
+   "needVilniusVenue": true
+  },
+  {
+   "name": "Bilietai",
+   "url": "https://www.bilietai.lt/renginiai/festivaliai?locations=Vilnius&sortOrder=date_asc",
+   "linkPattern": "/(?:renginiai|series)/[A-Z0-9]{10}/[^\"'#?\\s/]+",
+   "maxLinks": 60,
+   "needVilniusVenue": true
+  },
+  {
+   "name": "Bilietai",
+   "url": "https://www.bilietai.lt/renginiai/parodos?locations=Vilnius&sortOrder=date_asc",
+   "linkPattern": "/(?:renginiai|series)/[A-Z0-9]{10}/[^\"'#?\\s/]+",
+   "maxLinks": 60,
+   "needVilniusVenue": true
+  },
+  {
+   "name": "Bilietai",
+   "url": "https://www.bilietai.lt/renginiai/kita?locations=Vilnius&sortOrder=date_asc",
+   "linkPattern": "/(?:renginiai|series)/[A-Z0-9]{10}/[^\"'#?\\s/]+",
+   "maxLinks": 60,
+   "needVilniusVenue": true
+  },
+  {
+   "name": "Vilnius Events",
+   "url": "https://www.vilnius-events.lt/",
+   "linkPattern": "/renginiai/[^/\"'#?\\s]+/?$",
+   "maxLinks": 80,
+   "assumeVilnius": true
   }
  ]
 }
