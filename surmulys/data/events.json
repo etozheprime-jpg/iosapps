@@ -1,1 +1,42 @@
-{"generatedAt":null,"city":"Vilnius","sources":[],"events":[]}
+{
+ "generatedAt": "2026-10-10T19:14:26.794Z",
+ "city": "Vilnius",
+ "sources": [
+  {
+   "source": "Go Vilnius",
+   "ok": false,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "Bilietai.lt",
+   "ok": true,
+   "count": 0
+  },
+  {
+   "source": "Tiketa",
+   "ok": false,
+   "error": "HTTP 404"
+  },
+  {
+   "source": "Piletilevi",
+   "ok": false,
+   "error": "fetch failed"
+  },
+  {
+   "source": "Kakava",
+   "ok": true,
+   "count": 0
+  },
+  {
+   "source": "Vilniaus filharmonija",
+   "ok": true,
+   "count": 0
+  },
+  {
+   "source": "Opera ir baletas",
+   "ok": true,
+   "count": 0
+  }
+ ],
+ "events": []
+}
