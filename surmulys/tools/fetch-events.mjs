@@ -44,7 +44,8 @@ function* walk(node) {
 const isEvent = n => [].concat(n['@type'] || []).some(t => /Event$/i.test(String(t))) || (n.startDate && n.name && n.location);
 
 const txt = v => (v == null ? '' : typeof v === 'string' ? v : Array.isArray(v) ? txt(v[0]) : v.name || v.url || v['@id'] || '');
-const clean = s => String(s || '').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&')
+const decodeNum = s => s.replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n)).replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)));
+const clean = s => decodeNum(String(s || '')).replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&')
   .replace(/&quot;/g, '"').replace(/&#0?39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/\s+/g, ' ').trim();
 
 function abs(u, base) { try { return new URL(u, base).href; } catch { return ''; } }
@@ -180,6 +181,11 @@ function categorize(e) {
   return 'other';
 }
 
+// ---------- локальное время Вильнюса ----------
+const locFmt = new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Vilnius', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hourCycle: 'h23' });
+const loc = iso => { const p = locFmt.format(new Date(iso)); return { day: p.slice(0, 10), hm: p.slice(11, 16) }; };
+const CANCELLED = /atšauk|atsauk|cancel|отмен|nukelt|neįvyks/i;
+
 // ---------- main ----------
 const cfg = JSON.parse(await readFile(process.env.SOURCES || path.join(here, 'sources.json'), 'utf8'));
 let all = [];
@@ -204,13 +210,15 @@ if (TM_KEY) {
 // окно: от «вчера» (чтобы идущие сейчас не пропадали) до HORIZON_DAYS
 const from = Date.now() - 864e5, to = Date.now() + HORIZON_DAYS * 864e5;
 const seen = new Map();
-const noTime = iso => /T00:00(:00)?(\.000)?([+-]\d\d:\d\d|Z)?$/.test(iso);
+const noTime = iso => loc(iso).hm === '00:00';
 for (const e of all) {
   const t = Date.parse(e.start);
   const endT = e.end ? Date.parse(e.end) : t;
   if (isNaN(t) || endT < from || t > to) continue;
-  // ключ: нормализованное название + день (залы на разных сайтах пишутся по-разному)
-  const key = e.title.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim().slice(0, 60) + '|' + e.start.slice(0, 10);
+  if (CANCELLED.test(e.title)) continue;                       // отменённые не показываем
+  if (endT - t > 150 * 864e5) continue;                        // «вечные» позиции (проездные, абонементы на год)
+  // ключ: нормализованное название + день по Вильнюсу (залы на разных сайтах пишутся по-разному)
+  const key = e.title.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim().slice(0, 60) + '|' + loc(e.start).day;
   if (!seen.has(key)) { seen.set(key, { ...e }); continue; }
   const o = seen.get(key);
   if (noTime(o.start) && !noTime(e.start)) o.start = e.start;   // предпочитаем запись, где известно время

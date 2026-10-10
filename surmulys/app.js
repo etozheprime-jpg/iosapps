@@ -4,7 +4,7 @@ const TZ = 'Europe/Vilnius';
 const CATS = {
   concert:  { label: 'Концерты',   icon: '🎤', color: '#ff4f8b' },
   theatre:  { label: 'Театр',      icon: '🎭', color: '#b47cff' },
-  expo:     { label: 'Выставки',   icon: '🖼️', color: '#35e0d0' },
+  expo:     { label: 'Выставки и туры',  icon: '🖼️', color: '#35e0d0' },
   festival: { label: 'Фестивали',  icon: '🎪', color: '#ffb547' },
   film:     { label: 'Кино',       icon: '🎬', color: '#5aa8ff' },
   sport:    { label: 'Спорт',      icon: '🏀', color: '#7ee06a' },
