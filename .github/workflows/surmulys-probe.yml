@@ -14,9 +14,10 @@ jobs:
       - run: node surmulys/tools/probe.mjs
         env:
           URLS: >-
-            https://allevents.in/vilnius/RSS@@HEAD
-            https://allevents.in/vilnius@@"@type":\s*"Event"
-            https://www.tiketa.lt/LT/Event/5379@@2026-10-23T18:00
-            https://www.vilnius-events.lt/@@HEAD
-            https://www.vilnius-events.lt/lt/renginiai/@@HEAD
-            https://www.govilnius.lt/renginiai-vilniuje@@HEAD
+            https://www.vilnius-events.lt/renginiai/banchetto-musicale-tarptautinis-senosios-muzikos-festivalis-2026/@@startDate|"Event"|data-date|date
+            https://www.vilnius-events.lt/wp-json/wp/v2/types@@HEAD
+            https://www.vilnius-events.lt/feed/@@HEAD
+            https://www.bilietai.lt/renginiai/PSEYOS2ASK/vilniaus-rytas-rungtyniu-abonementas@@"@type"\s*:\s*"[A-Za-z]*Event"
+            https://www.bilietai.lt/series/O75TMBRU7Q/chris-norman-band-koncertas@@"@type"\s*:\s*"[A-Za-z]*Event"
+            https://allevents.in/vilnius/candlelight-geriausi-hans-zimmer-k%C5%ABriniai/2700030035755043@@startDate
+            https://allevents.in/rss3.php?city=vilnius&category=music@@HEAD

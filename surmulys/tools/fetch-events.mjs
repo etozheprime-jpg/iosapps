@@ -41,13 +41,15 @@ function* walk(node) {
   yield node;
   for (const k of ['@graph', 'itemListElement', 'item', 'subEvent', 'event']) if (node[k]) yield* walk(node[k]);
 }
-const isEvent = n => [].concat(n['@type'] || []).some(t => /Event$/i.test(String(t)));
+const isEvent = n => [].concat(n['@type'] || []).some(t => /Event$/i.test(String(t))) || (n.startDate && n.name && n.location);
 
 const txt = v => (v == null ? '' : typeof v === 'string' ? v : Array.isArray(v) ? txt(v[0]) : v.name || v.url || v['@id'] || '');
 const clean = s => String(s || '').replace(/<[^>]+>/g, ' ').replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&')
   .replace(/&quot;/g, '"').replace(/&#0?39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/\s+/g, ' ').trim();
 
 function abs(u, base) { try { return new URL(u, base).href; } catch { return ''; } }
+
+const VILNIUS_VENUES = /compensa|avia solutions|siemens|ledo|nacionalin|operos ir baleto|filharmonij|skalvij|forum palace|kino pasaulis|menų spaustuv|lukiškių|palėp|tamsta|kablys|pakaln|vingio|sporto rūmai|\bmo muziej|rotuš|vilniaus|\blrt\b|ožio|\bbix\b|loft|pylimo|rūmai|kultūros ir sporto|arkikatedr|bernardin|kongres|litexpo|lvso|ltmc|jaunimo teatr|rusų dramos|mažasis|oskaro korš|keistuolių|menų fabrik|užupio|gedimino|trakų|bažnyči|šv\. kotryn|vilnius/i;
 
 function fromLd(n, src, pageUrl) {
   const start = toIso(n.startDate);
@@ -61,7 +63,8 @@ function fromLd(n, src, pageUrl) {
   const inVilnius = /vilni|вильн/.test(hay);
   const knownElsewhere = /kaun|klaip|šiaul|siaul|panevėž|panevez|palang|alyt|trakai|ryga|riga|warsaw|varšuv/.test(hay) && !inVilnius;
   if (knownElsewhere) return null;
-  if (!inVilnius && !src.assumeVilnius && addrText) return null;       // адрес есть, но не Вильнюс
+  if (src.needVilniusVenue && !inVilnius && !VILNIUS_VENUES.test(place + ' ' + addrText)) return null;
+  if (!inVilnius && !src.assumeVilnius && !src.needVilniusVenue && addrText) return null;       // адрес есть, но не Вильнюс
   if (!inVilnius && !src.assumeVilnius && !addrText && !place) return null; // вообще нет места — не берём
   const offers = [].concat(n.offers || [])[0] || {};
   const price = offers.lowPrice || offers.price;
@@ -106,8 +109,16 @@ async function scrapeSource(src) {
   };
   take(html, src.url);
   const found = events.length;
-  if (src.linkPattern && src.maxLinks) {
-    const re = new RegExp(src.linkPattern, 'gi');
+  const extra = new Set();
+  for (const rss of src.rssLinks || []) {
+    try {
+      const x = await get(rss);
+      for (const m of x.matchAll(/<link>\s*(?:<!\[CDATA\[)?\s*(https?:[^\]<\s]+)/gi)) extra.add(m[1]);
+    } catch (e) { log(`   RSS ${rss}: ${e.message}`); }
+  }
+  log(`   ссылок из RSS: ${extra.size}`);
+  if ((src.linkPattern || extra.size) && src.maxLinks) {
+    const re = new RegExp(src.linkPattern || '$^', 'gi');
     const links = new Set();
     const hrefRe = /href=["']([^"']+)["']/gi;
     let m;
@@ -116,7 +127,7 @@ async function scrapeSource(src) {
       if (u && u !== src.url && new URL(u).host === new URL(src.url).host && re.test(new URL(u).pathname)) links.add(u.split('#')[0]);
       re.lastIndex = 0;
     }
-    const list = [...links].slice(0, src.maxLinks);
+    const list = [...new Set([...links, ...extra])].filter(u => !/\/RSS$/i.test(u)).slice(0, src.maxLinks);
     let ok = 0;
     for (let i = 0; i < list.length; i += 5) {
       await Promise.all(list.slice(i, i + 5).map(async u => {
