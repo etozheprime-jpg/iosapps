@@ -33,7 +33,8 @@ jobs:
         continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
-        run: gh api "repos/${{ github.repository }}/pages" --jq '{url: .html_url, status, source}' || echo "Pages API недоступен для этого токена"
+        run: |
+          gh api "repos/${{ github.repository }}/pages" --jq '.html_url' || echo "Pages API недоступен для этого токена"
       - name: Закоммитить, если данные изменились
         run: |
           if git diff --quiet -- surmulys/data/events.json; then
