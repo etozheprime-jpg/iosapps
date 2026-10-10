@@ -106,7 +106,7 @@ function cardHtml(e, i) {
     <div class="top"><div class="time${e._multi || e._time ? '' : ' tbd'}">${esc(when)}${extra}</div><span class="cat">${c.icon} ${c.label}</span></div>
     <div class="body">
       <h3 class="title">${esc(e.title)}</h3>
-      <div class="meta">${e.venue ? `<i>📍 ${esc(e.venue)}</i>` : ''}${e.price ? `<i>🎟 ${esc(e.price)}</i>` : ''}<i>${esc(e.source || '')}</i></div>
+      <div class="meta">${e.venue ? `<i>📍 ${esc(e.venue)}</i>` : ''}${e.price ? `<i>🎟 ${/^0([.,]0+)?\s/.test(e.price) ? 'бесплатно' : esc(e.price)}</i>` : ''}<i>${esc(e.source || '')}</i></div>
       ${e.description ? `<p class="desc">${esc(e.description)}</p>` : ''}
       <div class="actions">
         ${url ? `<a class="btn main" href="${esc(url)}" target="_blank" rel="noopener noreferrer">Подробнее</a>` : ''}
