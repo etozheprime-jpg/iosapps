@@ -1,5 +1,5 @@
 // Šurmulys: оболочка — из кэша, события — сначала из сети (чтобы всегда была свежая сводка), без сети — из кэша.
-const VERSION = 'surmulys-v1';
+const VERSION = 'surmulys-v2';
 const SHELL = ['./', 'index.html', 'app.css', 'app.js', 'scene.js', 'vendor/three.module.min.js', 'manifest.webmanifest',
   'icons/icon.svg', 'icons/icon-192.png', 'icons/icon-512.png'];
 self.addEventListener('install', e => e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL)).then(() => self.skipWaiting())));

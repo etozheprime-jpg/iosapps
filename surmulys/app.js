@@ -103,7 +103,7 @@ function cardHtml(e, i) {
   return `<article class="card" style="--c:${c.color};--i:${i}" data-id="${esc(e.id)}">
     ${img ? `<div class="bgimg" style="background-image:url('${esc(img)}')"></div>` : ''}
     <div class="shine"></div>
-    <div class="top"><div class="time">${esc(when)}${extra}</div><span class="cat">${c.icon} ${c.label}</span></div>
+    <div class="top"><div class="time${e._multi || e._time ? '' : ' tbd'}">${esc(when)}${extra}</div><span class="cat">${c.icon} ${c.label}</span></div>
     <div class="body">
       <h3 class="title">${esc(e.title)}</h3>
       <div class="meta">${e.venue ? `<i>📍 ${esc(e.venue)}</i>` : ''}${e.price ? `<i>🎟 ${esc(e.price)}</i>` : ''}<i>${esc(e.source || '')}</i></div>

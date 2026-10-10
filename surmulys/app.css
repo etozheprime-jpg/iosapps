@@ -74,7 +74,7 @@ body{min-height:100svh;overflow-x:hidden;
 .day b{font-size:clamp(20px,5vw,26px);letter-spacing:-.01em;text-transform:none;color:var(--ink)}
 .day::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,var(--line),transparent)}
 .grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(min(100%,330px),1fr));perspective:1100px}
-.card{--c:var(--violet);position:relative;display:flex;flex-direction:column;justify-content:flex-end;min-height:190px;border-radius:24px;overflow:hidden;
+.card{--c:var(--violet);position:relative;display:flex;flex-direction:column;justify-content:flex-end;min-height:215px;padding-top:62px;border-radius:24px;overflow:hidden;
   border:1px solid var(--line);background:var(--glass2);backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);
   transform-style:preserve-3d;will-change:transform;transform:rotateX(0) rotateY(0);
   transition:transform .5s cubic-bezier(.2,.8,.2,1),box-shadow .5s,border-color .4s;
@@ -93,7 +93,8 @@ body{min-height:100svh;overflow-x:hidden;
 .card:hover .shine{opacity:1}
 .body{position:relative;z-index:3;padding:16px 18px 16px;transform:translateZ(30px)}
 .top{position:absolute;z-index:3;top:14px;left:16px;right:14px;display:flex;justify-content:space-between;align-items:center;transform:translateZ(40px)}
-.time{font-size:30px;font-weight:800;letter-spacing:-.02em;font-variant-numeric:tabular-nums;text-shadow:0 2px 18px rgba(0,0,0,.5)}
+.time{font-size:28px;line-height:1.1;font-weight:800;letter-spacing:-.02em;font-variant-numeric:tabular-nums;text-shadow:0 2px 18px rgba(0,0,0,.5)}
+.time.tbd{font-size:13px;font-weight:700;letter-spacing:.02em;color:var(--muted);text-shadow:none}
 .time small{font-size:12px;font-weight:700;color:var(--muted);margin-left:6px;letter-spacing:.04em}
 .cat{font-size:12px;font-weight:700;padding:6px 10px;border-radius:99px;background:color-mix(in srgb,var(--c) 28%,rgba(0,0,0,.4));border:1px solid color-mix(in srgb,var(--c) 60%,transparent)}
 .title{margin:0 0 6px;font-size:19px;line-height:1.2;font-weight:750;letter-spacing:-.01em;text-wrap:balance;
