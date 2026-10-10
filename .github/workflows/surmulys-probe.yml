@@ -14,15 +14,9 @@ jobs:
       - run: node surmulys/tools/probe.mjs
         env:
           URLS: >-
-            https://allevents.in/vilnius/music
-            https://allevents.in/vilnius/performing-arts
-            https://allevents.in/vilnius/all
-            https://allevents.in/vilnius/RSS
-            https://www.tiketa.lt/LT/Event/5379
-            https://www.tiketa.lt/LT/nuotaika_lt_renginiai_709
-            https://www.bilietai.lt/renginiai/koncertai
-            https://www.bilietai.lt/renginiai/visi
-            https://www.bilietai.lt/renginiai/teatras
-            https://www.filharmonija.lt/repertuaras/koncertai-vilniuje/53
-            https://www.govilnius.lt/visit-vilnius/events-vilnius
-            https://www.mo.lt/renginiai/
+            https://allevents.in/vilnius/RSS@@HEAD
+            https://allevents.in/vilnius@@"@type":\s*"Event"
+            https://www.tiketa.lt/LT/Event/5379@@2026-10-23T18:00
+            https://www.vilnius-events.lt/@@HEAD
+            https://www.vilnius-events.lt/lt/renginiai/@@HEAD
+            https://www.govilnius.lt/renginiai-vilniuje@@HEAD
