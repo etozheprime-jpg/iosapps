@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T07:14:40.006Z",
+ "generatedAt": "2026-11-10T19:42:54.798Z",
  "city": "Vilnius",
  "sources": [
   {
@@ -10,12 +10,7 @@
   {
    "source": "AllEvents",
    "ok": true,
-   "count": 206
-  },
-  {
-   "source": "Bilietai",
-   "ok": true,
-   "count": 41
+   "count": 255
   },
   {
    "source": "Bilietai",
@@ -25,27 +20,32 @@
   {
    "source": "Bilietai",
    "ok": true,
+   "count": 45
+  },
+  {
+   "source": "Bilietai",
+   "ok": true,
+   "count": 43
+  },
+  {
+   "source": "Bilietai",
+   "ok": true,
+   "count": 27
+  },
+  {
+   "source": "Bilietai",
+   "ok": true,
    "count": 41
   },
   {
    "source": "Bilietai",
    "ok": true,
-   "count": 25
+   "count": 18
   },
   {
    "source": "Bilietai",
    "ok": true,
-   "count": 39
-  },
-  {
-   "source": "Bilietai",
-   "ok": true,
-   "count": 16
-  },
-  {
-   "source": "Bilietai",
-   "ok": true,
-   "count": 39
+   "count": 41
   },
   {
    "source": "Vilnius Events",
@@ -68,6 +68,32 @@
    "category": "theatre"
   },
   {
+   "id": "0e9023ea20",
+   "title": "''Pigmalionas/Kas tave sukūrė''",
+   "start": "2026-10-23T15:00:00.000Z",
+   "end": "2026-12-19T15:00:00.000Z",
+   "venue": "Žvejų g. 2, Vilnius, Lithuania",
+   "address": "Žvejų gatvė 14a, LT-09310 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Spektaklis „Pigmalionas / Kas tave sukūrė“ Kas nutiktų, jei kažkas nuspręstų tave perkurti? Pakeisti tavo kalbą. Tavo išvaizdą. Tavo elgesį. Ir įrodyti, kad gali tapti visiškai kitu žmogumi. Šiuolaikiška George Bernard Shaw pjesės interpretacija, kurioje žmogus tampa eksperimentu",
+   "image": "https://cdn-az.allevents.in/events5/banners/3a8eb5ff674e4af89947c0a6eae92856e3ce498f313be02a09a88c9672e9ad10-rimg-w1200-h628-dc080808-gmir?v=1791823368",
+   "url": "https://allevents.in/vilnius/pigmalionas-kas-tave-suk%C5%ABr%C4%97/200030826473049",
+   "source": "AllEvents",
+   "category": "theatre"
+  },
+  {
+   "id": "dcf89a60fc",
+   "title": "Taip gimė žvaigždė | Vilnius",
+   "start": "2026-10-28T17:00:00.000Z",
+   "end": "2026-12-30T17:00:00.000Z",
+   "venue": "Compensa koncertų salė",
+   "address": "Kernavės gatvė 84, LT-08216 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Kaip gimsta nauja žvaigždė — ir kiek už ją sumokame? Vienas laukiamiausių metų spektaklių TAIP GIMĖ ŽVAIGŽDĖ žengia į sceną — premjera nuo spalio 8 d. visoje Lietuvoje Naujas muzikinis spektaklis „Taip gimė žvaigždė“ — šmaikšti, žiauri ir nepaprastai jaudinanti istorija apie šlov",
+   "image": "https://cdn-az.allevents.in/events7/banners/08d28e25cc4c3001a3ff531cced6de7bf0246e89e848fc4274ab95a8bb841231-rimg-w1200-h628-dce8e8e8-gmir?v=1788961507",
+   "url": "https://allevents.in/vilnius/taip-gim%C4%97-%C5%BEvaig%C5%BEd%C4%97-vilnius/200030445483350",
+   "source": "AllEvents",
+   "category": "film"
+  },
+  {
    "id": "fc3dc9d5bd",
    "title": "Candlelight: Geriausi Hans Zimmer kūriniai",
    "start": "2026-11-06T00:00:00+02:00",
@@ -79,6 +105,19 @@
    "url": "https://allevents.in/vilnius/candlelight-geriausi-hans-zimmer-k%C5%ABriniai/2700030035755043",
    "source": "AllEvents",
    "category": "concert"
+  },
+  {
+   "id": "c3608f1109",
+   "title": "TANGO INSTINKTAS",
+   "start": "2026-11-07T16:00:00.000Z",
+   "end": "2026-11-28T16:30:00.000Z",
+   "venue": "Gedimino pr. 64, 01111 Vilnius, Lithuania",
+   "address": "Gedimino prospektas 64, LT-01111 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Tango instinktas - kas tai? Tai yra kūno intelektas. Tai yra tai, kas lieka, kai nuimi visa kita. Jis gimsta iš rizikos, jautrumo, pasitikėjimo, tai bendravimas, kuris vyksta giliau nei kalba. Bet yra dar vienas sluoksnis — svarbiausias. Tango instinktas turi erotinį pradą. Tai n",
+   "image": "https://cdn-az.allevents.in/events5/banners/87d14c9f20e0723fde2bc53529a1c08653201b12b5b105a1f50edf33c274f49b-rimg-w1200-h630-dc080808-gmir?v=1792819913",
+   "url": "https://allevents.in/vilnius/tango-instinktas/200030899634253",
+   "source": "AllEvents",
+   "category": "other"
   },
   {
    "id": "2c2e5d74da",
@@ -121,32 +160,6 @@
    "category": "festival"
   },
   {
-   "id": "86b08e13bf",
-   "title": "Pasivaikščiojimas dieną Lukiškėse lietuvių kalba",
-   "start": "2026-11-10T10:00:00.000Z",
-   "end": "2026-11-10T12:00:00.000Z",
-   "venue": "Lukiškių kalėjimas 2.0",
-   "address": "Lukiškių skg. 6, Vilnius",
-   "description": "Dar niekada pabėgti į kalėjimą nebuvo taip paprasta. Istorinis ir aukšta tvora apjuostas Lukiškių kalėjimo kompleksas kviečia pasivaikščioti. Lukiškių kalėjimas nėra atsakymas į visus klausimus. Bet kas nenorėtų jo aplankyti? Besidomintys buvusio kalėjimo kasdieniu kalinių gyveni",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/HOEBKWSZAG/pasivaiksciojimas-diena-lukiskese-lietuviu-kalba",
-   "source": "Bilietai",
-   "category": "kids"
-  },
-  {
-   "id": "c414116e7a",
-   "title": "Guided prison tour in English",
-   "start": "2026-11-10T10:00:00.000Z",
-   "end": "2026-11-10T12:00:00.000Z",
-   "venue": "Lukiškių kalėjimas 2.0",
-   "address": "Lukiškių skg. 6, Vilnius",
-   "description": "Guided prison toursIt has never been so easy to escape to a prison.A historical Lukiškės prison complex used for imprisoning people for 115 years is finally welcoming you to explore life behind bars.Through the years this place was used by different regimes to lock up undesirable",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/BQ3EIVV2P6/guided-prison-tour-in-english",
-   "source": "Bilietai",
-   "category": "concert"
-  },
-  {
    "id": "a6d66c6f93",
    "title": "Tarp kodų ir klodų: pasivaikščiojimas etnografijos saugykloje",
    "start": "2026-11-10T16:00:00+02:00",
@@ -158,32 +171,6 @@
    "price": "8 €",
    "source": "Vilnius Events",
    "category": "kids"
-  },
-  {
-   "id": "763f3cc63f",
-   "title": "Diskusijų ciklas „Pilietiškumo namas“ Pilininko name",
-   "start": "2026-11-10T16:00:00.000Z",
-   "end": "2026-11-10T17:00:00.000Z",
-   "venue": "Pilininko namas",
-   "address": "Funicular To the Gediminas Hill, Arsenalo gatvė, LT-01100 Vilnius, Lietuva, Vilnius, VL",
-   "description": "Lietuvos nacionalinis muziejus kartu su portalu DELFI pradeda pilietiškumo ugdymui skirtą atvirų pokalbių ir diskusijų ciklą „Pilietiškumo namas“. Tai diskusijų ciklas, kviečiantis susitikti Pilininko name ir per atvirus pokalbius apmąstyti Lietuvos valstybės raidą, jos vertybini",
-   "image": "https://cdn-az.allevents.in/events6/banners/3605ba24c44235222dd355338dde5d9f07aea45997c80a9dcdb1af16b2a69f0d-rimg-w1200-h675-dc281818-gmir?v=1793683123",
-   "url": "https://allevents.in/vilnius/diskusij%C5%B3-ciklas-%E2%80%9Epilieti%C5%A1kumo-namas-pilininko-name/200030960819443",
-   "source": "AllEvents",
-   "category": "talk"
-  },
-  {
-   "id": "0ab9d93254",
-   "title": "Pokalbis su Donatu Jokūbaičiu „Ką šiandien reiškia Balio Gajausko laikysena?“",
-   "start": "2026-11-10T18:00:00+02:00",
-   "venue": "Pilininko namas",
-   "address": "Arsenalo g. 1, Vilnius, Lietuva",
-   "description": "Diskusijų ciklas „Pilietiškumo namas“ – tai Lietuvos nacionalinio muziejaus kartu su portalu DELFI inicijuotas pokalbių ciklas, kviečiantis apmąstyti Lietuvos valstybės raidą, jos vertybinius pamatus ir pilietiškumo formas šiandienos visuomenėje. Per susitikimus su kultūros, moks",
-   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/11/Vilnius-events-new-1-.jpg",
-   "url": "https://lnm.lt/renginiai/pokalbis-su-donatu-jokubaiciu-ka-siandien-reiskia-balio-gajausko-laikysena/",
-   "price": "0 €",
-   "source": "Vilnius Events",
-   "category": "expo"
   },
   {
    "id": "dcf619586c",
@@ -225,67 +212,17 @@
    "category": "talk"
   },
   {
-   "id": "50b15a6321",
-   "title": "INTERNATIONAL LADIES MEETUP",
-   "start": "2026-11-10T16:30:00.000Z",
-   "venue": "Gerosios Vilties",
-   "address": "Gerosios Vilties str.,Vilnius, Lithuania, Vilnius, VL",
-   "description": "Looking for a fun evening, new friends and some good conversations? Then come and join us! ❤️ Let's forget about everyday routines for a few hours, meet new people, laugh, play some funny games and simply enjoy a relaxed evening together. ✨ What to expect: 💬 Interesting conversa",
-   "image": "https://cdn-az.allevents.in/events5/banners/27666e5a31871fec5482b9f838f24d08d5c0fee4785d6c14dfe5fc3f9778f72f-rimg-w1200-h853-dcf8f8e8-gmir?v=1794010159",
-   "url": "https://allevents.in/vilnius/international-ladies-meetup/200030990422419",
-   "source": "AllEvents",
-   "category": "talk"
-  },
-  {
-   "id": "6d04cd4813",
-   "title": "VMT premjera | VASAROTOJŲ KARŠTINĖ",
-   "start": "2026-11-10T16:30:00.000Z",
-   "end": "2026-11-10T19:30:00.000Z",
-   "venue": "Valstybinis Vilniaus mažasis teatras",
-   "address": "Gedimino pr. 22, Vilnius",
-   "description": "Carlo Oswaldo GoldoniVASAROTOJŲ KARŠTINĖDviejų dalių komedija Premjera: 2026 m. rugsėjo 24–26 d.Režisierė – Gabrielė Tuminaitė „Pasaulis – knyga, iš kurios mokiausi daugiausiai“, taip rašė vienas didžiausių italų dramaturgijos meistrų Carlo Goldonis. Ir šis pasaulis jo kūryboje ",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/DMZTPA6XZA/vmt-premjera-vasarotoju-karstine",
-   "source": "Bilietai",
-   "category": "film"
-  },
-  {
-   "id": "be112cd456",
-   "title": "Eitvydo Doškaus filmai: ''Kita stotelė Paneriai'' premjera ir ''Čia buvo Vilnius'' susitinka vienoje programoje",
-   "start": "2026-11-10T16:30:00.000Z",
-   "end": "2026-11-10T17:30:00.000Z",
-   "venue": "SODAS 2123",
-   "address": "Vitebsko g. 23, Vilnius, Vilnius",
-   "description": "Operatoriaus ir režisieriaus Eitvydo Doškaus naujausias filmas „Kita stotelė Paneriai“ (premjera) ir Sidabrine gerve apdovanotas ir geriausiu trumpametražiu filmu pripažintas režisieriaus darbas „Čia buvo Vilnius“ susitiks vienoje programoje bei taps savotišku laiko ir erdvės dia",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/OAZZXQ2XOA/eitvydo-doskaus-filmai-kita-stotele-paneriai-premjera-ir-cia-buvo-vilnius-susitinka-vienoje-programoje",
-   "source": "Bilietai",
-   "category": "film"
-  },
-  {
-   "id": "a2087a3adc",
-   "title": "PREMJERA OKT | Vilniaus miesto teatras: ,,Šūdmala\" (rež. Goda Simonaitytė)",
-   "start": "2026-11-10T16:30:00.000Z",
-   "end": "2026-11-10T19:30:00.000Z",
-   "venue": "Oskaro Koršunovo teatras",
-   "address": "Ašmenos g. 8, Vilnius",
-   "description": "ŠŪDMALAPagal Godos Simonaitytės pjesę Oskaro Koršunovo teatras pristato premjerą pagal Godos Simonaitytės pjesę “Šūdmala”. Ši pjesė pernai metais skelbtame dramaturgų konkurse “Dramos teritorija” laimėjo pirmąją vietą. Įkvėpta filosofo Harry G.Frankfurto “šūdmalystės” sampratos, ",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/FBJRKQ2ECS/premjera-okt-vilniaus-miesto-teatras-sudmala-rez-goda-simonaityte",
-   "source": "Bilietai",
-   "category": "film"
-  },
-  {
-   "id": "c0978b1210",
-   "title": "Gulbių ežeras | Vilnius 2026",
-   "start": "2026-11-10T17:00:00.000Z",
-   "venue": "Vilnius, Lithuania",
-   "address": "Vilnius, Lithuania, Vilnius, VL",
-   "description": "Legendinis baletas „Gulbių ežeras“ atvyksta į Vilnių! Tai vienas žymiausių klasikinio baleto kūrinių pasaulyje, žavintis nepaprasta choreografija, jaudinančia meilės istorija ir nuostabia Piotro Čaikovskio muzika. Nepraleiskite galimybės patirti nepamirštamą klasikinio meno vakar",
-   "image": "https://cdn-az.allevents.in/events3/banners/31759ad489053bea76342b34cacbf85397ecf4b75649161c150d5b0f3f40bdd0-rimg-w1200-h675-dc080808-gmir?v=1790868718",
-   "url": "https://allevents.in/vilnius/gulbi%C5%B3-e%C5%BEeras-vilnius-2026/200030759872859",
-   "source": "AllEvents",
-   "category": "theatre"
+   "id": "0ab9d93254",
+   "title": "Pokalbis su Donatu Jokūbaičiu „Ką šiandien reiškia Balio Gajausko laikysena?“",
+   "start": "2026-11-10T18:00:00+02:00",
+   "venue": "Pilininko namas",
+   "address": "Arsenalo g. 1, Vilnius, Lietuva",
+   "description": "Diskusijų ciklas „Pilietiškumo namas“ – tai Lietuvos nacionalinio muziejaus kartu su portalu DELFI inicijuotas pokalbių ciklas, kviečiantis apmąstyti Lietuvos valstybės raidą, jos vertybinius pamatus ir pilietiškumo formas šiandienos visuomenėje. Per susitikimus su kultūros, moks",
+   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/11/Vilnius-events-new-1-.jpg",
+   "url": "https://lnm.lt/renginiai/pokalbis-su-donatu-jokubaiciu-ka-siandien-reiskia-balio-gajausko-laikysena/",
+   "price": "0 €",
+   "source": "Vilnius Events",
+   "category": "expo"
   },
   {
    "id": "107a27349e",
@@ -301,32 +238,6 @@
    "category": "night"
   },
   {
-   "id": "68e7426425",
-   "title": "LNDT | Juan Pablo Troncoso. GEISMAS, rež. Marco LAYERA",
-   "start": "2026-11-10T17:00:00.000Z",
-   "end": "2026-11-10T20:30:00.000Z",
-   "venue": "Lietuvos nacionalinis dramos teatras",
-   "address": "Gedimino pr. 4, Vilnius",
-   "description": "Režisierius — Marco LAYERAKūrybiniai asistentai ir choreografai — Carolina de la MAZA ir Humberto ESPINOZAScenografė — Barbora ŠULNIŪTĖKostiumų dailininkė — Marija PETRAITYTĖŠviesos dailininkas — Dainius URBONISKompozitorė — Gailė GRICIŪTĖVaizdo projekcijų autorius – Marco LAYERA",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/7NQCY5QAJ3/lndt-juan-pablo-troncoso-geismas-rez-marco-layera",
-   "source": "Bilietai",
-   "category": "theatre"
-  },
-  {
-   "id": "b3570b9d3c",
-   "title": "Gulbių ežeras | Vilnius",
-   "start": "2026-11-10T17:00:00.000Z",
-   "end": "2026-11-10T19:30:00.000Z",
-   "venue": "COMPENSA koncertų salė",
-   "address": "Kernavės g. 84, Vilnius",
-   "description": "International Festival Ballet&Festival Orchestra pristato grožio, elegancijos ir grakštumo pasaką „Gulbių ežeras“ Visų laikų geriausias klasikinio baleto kūrinys Muzika: P. I. ČaikovskisChoreografija: L. Ivanovas ir M. PetipaRedakcija: Elena AntsupovaScenografija ir kostiumai: V.",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/TEPL2ONEYQ/gulbiu-ezeras-vilnius",
-   "source": "Bilietai",
-   "category": "kids"
-  },
-  {
    "id": "8633ba0e4b",
    "title": "KEISTUOLIAI | Varnas",
    "start": "2026-11-10T17:00:00.000Z",
@@ -340,30 +251,17 @@
    "category": "kids"
   },
   {
-   "id": "cdca786dcb",
-   "title": "Nuostabūs dalykai. Teatras KITAS KAMPAS | Vilnius",
+   "id": "68e7426425",
+   "title": "LNDT | Juan Pablo Troncoso. GEISMAS, rež. Marco LAYERA",
    "start": "2026-11-10T17:00:00.000Z",
-   "end": "2026-11-10T19:00:00.000Z",
-   "venue": "Vilniaus lenkų kultūros namai",
-   "address": "Naugarduko g. 76, Vilnius",
-   "description": "Pagal Duncano Macmillano pjesęRežisierius – Kirilas GlušajevasVaidina, improvizuoja – Martynas NedzinskasDailininkas – Antanas DubraApšvietimas - Aurelijus DavidavičiusGarsas - Kristina Juškevičiūtė/Giedrius Ūsas/Rokas BarkauskasKompozitorius – Dmitrijus GolovanovasRežisieriaus a",
+   "end": "2026-11-10T20:30:00.000Z",
+   "venue": "Lietuvos nacionalinis dramos teatras",
+   "address": "Gedimino pr. 4, Vilnius",
+   "description": "Režisierius — Marco LAYERAKūrybiniai asistentai ir choreografai — Carolina de la MAZA ir Humberto ESPINOZAScenografė — Barbora ŠULNIŪTĖKostiumų dailininkė — Marija PETRAITYTĖŠviesos dailininkas — Dainius URBONISKompozitorė — Gailė GRICIŪTĖVaizdo projekcijų autorius – Marco LAYERA",
    "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/PS5L2C7G3H/nuostabus-dalykai-teatras-kitas-kampas-vilnius",
+   "url": "https://www.bilietai.lt/renginiai/7NQCY5QAJ3/lndt-juan-pablo-troncoso-geismas-rez-marco-layera",
    "source": "Bilietai",
    "category": "theatre"
-  },
-  {
-   "id": "c59b7aff8d",
-   "title": "Pasivaikščiojimas naktį Lukiškėse lietuvių kalba",
-   "start": "2026-11-10T17:00:00.000Z",
-   "end": "2026-11-10T19:00:00.000Z",
-   "venue": "Lukiškių kalėjimas 2.0",
-   "address": "Lukiškių skg. 6, Vilnius",
-   "description": "Dar niekada pabėgti į kalėjimą nebuvo taip paprasta. Istorinis ir aukšta tvora apjuostas Lukiškių kalėjimo kompleksas kviečia pasivaikščioti. Lukiškių kalėjimas nėra atsakymas į visus klausimus. Bet kas nenorėtų jo aplankyti? Besidomintys buvusio kalėjimo kasdieniu kalinių gyveni",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/ATGODPOHV4/pasivaiksciojimas-nakti-lukiskese-lietuviu-kalba",
-   "source": "Bilietai",
-   "category": "kids"
   },
   {
    "id": "36e0f0c67e",
@@ -379,19 +277,6 @@
    "category": "concert"
   },
   {
-   "id": "41f49061f3",
-   "title": "Varnas | Keistuolių teatras",
-   "start": "2026-11-10T19:00:00+02:00",
-   "venue": "Keistuolių teatras",
-   "address": "Laisvės pr. 60 , Vilnius, Lietuva",
-   "description": "„Ši teatrinė pasaka, kurią radau neapoliečių rinkinyje „Il cunto degli cunti“, perrašyta pagal senosios tragedijos formą, įtraukiant mano linksmas, talentingas kaukes, kurias norėjau išsaugoti žmonių, susirgusių melancholija, labui, padarė didžiulį stebuklą. Žiūrovai verkė ir juo",
-   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/07/nuotrauka_750x600.png",
-   "url": "https://keistuoliai.lt/renginys/varnas/",
-   "price": "13.70 €",
-   "source": "Vilnius Events",
-   "category": "theatre"
-  },
-  {
    "id": "81d74f4b0a",
    "title": "Gulbių ežeras",
    "start": "2026-11-10T19:00:00+02:00",
@@ -405,30 +290,30 @@
    "category": "theatre"
   },
   {
-   "id": "79f931c729",
-   "title": "PREMJERA | Klaipėdos jaunimo teatras | Juodvarnių seserys (rež. M. Mičiulytė) | VILNIUS",
-   "start": "2026-11-10T17:30:00.000Z",
-   "end": "2026-11-10T18:45:00.000Z",
-   "venue": "Lietuvos nacionalinis dramos teatras",
-   "address": "Gedimino pr. 4, Vilnius",
-   "description": "Tai fragmentiškas, vizualus ir poetiškas spektaklis, atveriantis retai matomą Lietuvos partizaninio karo pusę – moterų istorijas, jų tylų, bet lemtingą vaidmenį pasipriešinime.1944–1953 metų partizaninis karas dažniausiai pasakojamas per miške kovojusių vyrų istorijas, tačiau be ",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/E6MCP2VF6G/premjera-klaipedos-jaunimo-teatras-juodvarniu-seserys-rez-m-miciulyte-vilnius",
-   "source": "Bilietai",
-   "category": "film"
+   "id": "41f49061f3",
+   "title": "Varnas | Keistuolių teatras",
+   "start": "2026-11-10T19:00:00+02:00",
+   "venue": "Keistuolių teatras",
+   "address": "Laisvės pr. 60 , Vilnius, Lietuva",
+   "description": "„Ši teatrinė pasaka, kurią radau neapoliečių rinkinyje „Il cunto degli cunti“, perrašyta pagal senosios tragedijos formą, įtraukiant mano linksmas, talentingas kaukes, kurias norėjau išsaugoti žmonių, susirgusių melancholija, labui, padarė didžiulį stebuklą. Žiūrovai verkė ir juo",
+   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/07/nuotrauka_750x600.png",
+   "url": "https://keistuoliai.lt/renginys/varnas/",
+   "price": "13.70 €",
+   "source": "Vilnius Events",
+   "category": "theatre"
   },
   {
-   "id": "bb7f093268",
-   "title": "MAGIJA GYVAI | Iliuzionisto Algimanto Frankonio šou",
-   "start": "2026-11-10T18:00:00.000Z",
-   "end": "2026-11-10T19:00:00.000Z",
-   "venue": "Teatro KITAS KAMPAS kavinė-baras",
-   "address": "Malūnų g. 4, Vilnius",
-   "description": "Iliuzionistas Algimantas Frankonis – vienas ryškiausių moderniosios magijos kūrėjų Lietuvoje, nustebinęs tūkstančius žiūrovų visoje šalyje ir užsienyje. Jo pasirodymai apima viską – nuo didžiųjų scenų iki intymių magijos vakarų mažose erdvėse.MAGIJA GYVAI - tai interaktyvus magij",
+   "id": "74ed742b9f",
+   "title": "Guided prison tour in English",
+   "start": "2026-11-10T18:30:00.000Z",
+   "end": "2026-11-10T20:30:00.000Z",
+   "venue": "Lukiškių kalėjimas 2.0",
+   "address": "Lukiškių skg. 6, Vilnius",
+   "description": "Guided prison toursIt has never been so easy to escape to a prison.A historical Lukiškės prison complex used for imprisoning people for 115 years is finally welcoming you to explore life behind bars.Through the years this place was used by different regimes to lock up undesirable",
    "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/EAWDXXVBGV/magija-gyvai-iliuzionisto-algimanto-frankonio-sou",
+   "url": "https://www.bilietai.lt/renginiai/UKQA6ALCTV/guided-prison-tour-in-english",
    "source": "Bilietai",
-   "category": "theatre"
+   "category": "concert"
   },
   {
    "id": "17c6575291",
@@ -522,17 +407,16 @@
    "category": "theatre"
   },
   {
-   "id": "af7215406e",
-   "title": "VIP PARKINGAS | ARENA VILNIUS (Vilniaus ''Rytas'' - Nantero '''Nanterre 92'')",
+   "id": "5af01e4613",
+   "title": "Dedikacija Onai Šimaitei | VILNIUS",
    "start": "2026-11-11T16:00:00.000Z",
-   "end": "2026-11-11T20:00:00.000Z",
-   "venue": "Arena Vilnius",
-   "address": "Ozo g. 14, Vilnius",
-   "description": "Atvykite patogiai – rinkitės VIP požeminį parkingą!Parkingo žemėlapį rasite čia...Įsigykite VIP parkingo bilietą ir mėgaukitės išskirtiniu komfortu jau nuo pat atvykimo į renginį.- VIP požeminė automobilių aikštelė atidaroma likus 1,5 val. iki renginio pradžios- Patogus įvažiavim",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/TCRDKU47J4/vip-parkingas-arena-vilnius-vilniaus-rytas-nantero-nanterre-92",
-   "source": "Bilietai",
-   "category": "sport"
+   "venue": "Vilniaus universitetas / Vilnius University",
+   "address": "Universiteto gatvė 5, LT-01131 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Šiemet sukanka lygiai 60 metų, kai Vilniaus universiteto bibliotekininkei Onai Šimaitei už žydų gelbėjimą Antrojo pasaulinio karo metais buvo suteiktas Pasaulio tautų teisuolės (Righteous Among the Nations) vardas. Ji tapo pirmąja iš daugiau kaip 900 lietuvių, kuriems Izraelio Ya",
+   "image": "https://cdn-az.allevents.in/events8/banners/eff4511cddf49d612cb8d28310a45c54437a56a92d8f8c2ace95fc0894e518c4-rimg-w1200-h628-dc080808-gmir?v=1793017759",
+   "url": "https://allevents.in/vilnius/dedikacija-onai-%C5%A0imaitei-vilnius/200030916874720",
+   "source": "AllEvents",
+   "category": "other"
   },
   {
    "id": "5b40adcdde",
@@ -548,16 +432,29 @@
    "category": "concert"
   },
   {
-   "id": "a89deb1a01",
-   "title": "AKISTATA SU ŠEŠĖLIU. Rež. Tamara Trunova",
+   "id": "af7215406e",
+   "title": "VIP PARKINGAS | ARENA VILNIUS (Vilniaus ''Rytas'' - Nantero '''Nanterre 92'')",
+   "start": "2026-11-11T16:00:00.000Z",
+   "end": "2026-11-11T20:00:00.000Z",
+   "venue": "Arena Vilnius",
+   "address": "Ozo g. 14, Vilnius",
+   "description": "Atvykite patogiai – rinkitės VIP požeminį parkingą!Parkingo žemėlapį rasite čia...Įsigykite VIP parkingo bilietą ir mėgaukitės išskirtiniu komfortu jau nuo pat atvykimo į renginį.- VIP požeminė automobilių aikštelė atidaroma likus 1,5 val. iki renginio pradžios- Patogus įvažiavim",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/TCRDKU47J4/vip-parkingas-arena-vilnius-vilniaus-rytas-nantero-nanterre-92",
+   "source": "Bilietai",
+   "category": "sport"
+  },
+  {
+   "id": "c794d3cc00",
+   "title": "AKISTATA SU ŠEŠĖLIU (rež. Tamara Trunova)",
    "start": "2026-11-11T16:30:00.000Z",
    "end": "2026-11-11T20:00:00.000Z",
-   "venue": "Valstybinis jaunimo teatras",
-   "address": "Arklių g. 5, Vilnius",
-   "description": "Režisierė: Tamara TrunovaDramaturgija, režisūra, erdvės dizainas: Tamara TrunovaMuzika: Grupė „Mavka“Vaizdo projekcijos: Ruslan BerezovyiKostiumai: Daryna TatarovaJudesys: Anton VakhliovskyiGarsas: Anastasiia KhyzhniakRežisierės asistentė: Nataliya DubrovaProdiuserė: Kateryna Ian",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/5Y7KNLO3KV/akistata-su-seseliu-rez-tamara-trunova",
-   "source": "Bilietai",
+   "venue": "Arklių g. 5, LT-01305 Vilnius, Lithuania",
+   "address": "Arklių gatvė 5, LT-01305 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Lapkričio 11 d. Valstybiniame jaunimo teatre – Kyjivo akademinio dramos ir komedijos teatro kairiajame Dnipro krante spektaklis „Akistata su šešėliu“, režisuotas vienos ryškiausių šiuolaikinio Ukrainos teatro kūrėjų Tamaros Trunovos. „Akistata su šešėliu“ tyrinėja karo traumas, p",
+   "image": "https://cdn-az.allevents.in/events6/banners/2aa955a15927ea1d79e04b39356eb5776945f785023d7903cda5f141507e532c-rimg-w1200-h675-dc988858-gmir?v=1792113060",
+   "url": "https://allevents.in/vilnius/akistata-su-%C5%A0e%C5%A0%C4%96liu-re%C5%BE-tamara-trunova/200030840344401",
+   "source": "AllEvents",
    "category": "theatre"
   },
   {
@@ -638,6 +535,31 @@
    "category": "theatre"
   },
   {
+   "id": "2454872d91",
+   "title": "Animacijos perspektyvos ir ateitis | Lithuanian Animation Focus",
+   "start": "2026-11-11T17:00:00.000Z",
+   "venue": "Lukiškių kalėjimas 2.0",
+   "address": "Lukiškių skersgatvis 6, LT-01108 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Kviečiame į ketvirtąjį „Lithuanian Animation Focus“ renginį „Lukiškių kalėjime 2.0“! „Lithuanian Animation Focus“ – keturių renginių ciklas, kviečiantis iš arčiau pažinti lietuvišką animaciją per diskusijas ir specialiai atrinktų trumpametražių animacinių filmų programų peržiūras",
+   "image": "https://cdn-az.allevents.in/events5/banners/e5c0a987fe924be68649028c6b721f279b5a894c91f5b4784782abb2c3060def-rimg-w1200-h628-dce8e8e8-gmir?v=1788335160",
+   "url": "https://allevents.in/vilnius/animacijos-perspektyvos-ir-ateitis-lithuanian-animation-focus/200030647611855",
+   "source": "AllEvents",
+   "category": "film"
+  },
+  {
+   "id": "378198f88b",
+   "title": "KEISTUOLIAI | Kai aš buvau Prometėjas",
+   "start": "2026-11-11T17:00:00.000Z",
+   "end": "2026-11-11T18:10:00.000Z",
+   "venue": "Keistuolių teatras",
+   "address": "Laisvės pr. 60, Vilnius",
+   "description": "- Aš nesu Prometėjas, bet jei būčiau...- Jei Prometėjas būtų aš...- Manau, kad Prometėjas buvo...Beveik visi žinome graikų mitologijos pasakojimus apie Prometėją, nepaklususį Olimpo dievams ir mirtingiesiems dovanojusį ugnį. O jei reikėtų pačiam ar pačiai būti Prometėju, ar išdrį",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/7U7RFFHP54/keistuoliai-kai-as-buvau-prometejas",
+   "source": "Bilietai",
+   "category": "kids"
+  },
+  {
    "id": "3b0f0adacd",
    "title": "Roko amžius: gražiausios baladės",
    "start": "2026-11-11T17:00:00.000Z",
@@ -665,15 +587,41 @@
    "category": "concert"
   },
   {
-   "id": "378198f88b",
-   "title": "KEISTUOLIAI | Kai aš buvau Prometėjas",
+   "id": "4a6d433517",
+   "title": "LNDT | Juan Pablo Troncoso. GEISMAS, rež. Marco LAYERA",
    "start": "2026-11-11T17:00:00.000Z",
-   "end": "2026-11-11T18:10:00.000Z",
-   "venue": "Keistuolių teatras",
-   "address": "Laisvės pr. 60, Vilnius",
-   "description": "- Aš nesu Prometėjas, bet jei būčiau...- Jei Prometėjas būtų aš...- Manau, kad Prometėjas buvo...Beveik visi žinome graikų mitologijos pasakojimus apie Prometėją, nepaklususį Olimpo dievams ir mirtingiesiems dovanojusį ugnį. O jei reikėtų pačiam ar pačiai būti Prometėju, ar išdrį",
+   "end": "2026-11-11T20:30:00.000Z",
+   "venue": "Lietuvos nacionalinis dramos teatras",
+   "address": "Gedimino pr. 4, Vilnius",
+   "description": "Režisierius — Marco LAYERAKūrybiniai asistentai ir choreografai — Carolina de la MAZA ir Humberto ESPINOZAScenografė — Barbora ŠULNIŪTĖKostiumų dailininkė — Marija PETRAITYTĖŠviesos dailininkas — Dainius URBONISKompozitorė — Gailė GRICIŪTĖVaizdo projekcijų autorius – Marco LAYERA",
    "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/7U7RFFHP54/keistuoliai-kai-as-buvau-prometejas",
+   "url": "https://www.bilietai.lt/renginiai/MJD7PPGQRF/lndt-juan-pablo-troncoso-geismas-rez-marco-layera",
+   "source": "Bilietai",
+   "category": "theatre"
+  },
+  {
+   "id": "caab0b4817",
+   "title": "Urban Essentials 2026 | Atidarymas: LIMBO ir WHERE IS THE LINE?",
+   "start": "2026-11-11T17:00:00.000Z",
+   "end": "2026-11-11T18:00:00.000Z",
+   "venue": "MENŲ SPAUSTUVĖ",
+   "address": "Šiltadaržio g. 6, Vilnius",
+   "description": "Tarptautinis hiphopo šokio ir kultūros festivalis Urban Essentials 2026 kviečia į festivalio atidarymą – dviejų spektaklių vakarą.Šventinį renginį nuspalvins debiutinis italų-prancūzų choreografės Suzanne Degennaro solo šokio kūrinys „LIMBO“ po pasaulinės premjeros Prancūzijoje a",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/W4G4YPCBYA/urban-essentials-2026-atidarymas-limbo-ir-where-is-the-line",
+   "source": "Bilietai",
+   "category": "expo"
+  },
+  {
+   "id": "ce71feb50e",
+   "title": "Pasivaikščiojimas naktį Lukiškėse lietuvių kalba",
+   "start": "2026-11-11T17:00:00.000Z",
+   "end": "2026-11-11T19:00:00.000Z",
+   "venue": "Lukiškių kalėjimas 2.0",
+   "address": "Lukiškių skg. 6, Vilnius",
+   "description": "Dar niekada pabėgti į kalėjimą nebuvo taip paprasta. Istorinis ir aukšta tvora apjuostas Lukiškių kalėjimo kompleksas kviečia pasivaikščioti. Lukiškių kalėjimas nėra atsakymas į visus klausimus. Bet kas nenorėtų jo aplankyti? Besidomintys buvusio kalėjimo kasdieniu kalinių gyveni",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/P652R2TZVK/pasivaiksciojimas-nakti-lukiskese-lietuviu-kalba",
    "source": "Bilietai",
    "category": "kids"
   },
@@ -691,69 +639,17 @@
    "category": "night"
   },
   {
-   "id": "caab0b4817",
-   "title": "Urban Essentials 2026 | Atidarymas: LIMBO ir WHERE IS THE LINE?",
-   "start": "2026-11-11T17:00:00.000Z",
-   "end": "2026-11-11T18:00:00.000Z",
-   "venue": "MENŲ SPAUSTUVĖ",
-   "address": "Šiltadaržio g. 6, Vilnius",
-   "description": "Tarptautinis hiphopo šokio ir kultūros festivalis Urban Essentials 2026 kviečia į festivalio atidarymą – dviejų spektaklių vakarą.Šventinį renginį nuspalvins debiutinis italų-prancūzų choreografės Suzanne Degennaro solo šokio kūrinys „LIMBO“ po pasaulinės premjeros Prancūzijoje a",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/W4G4YPCBYA/urban-essentials-2026-atidarymas-limbo-ir-where-is-the-line",
-   "source": "Bilietai",
-   "category": "expo"
-  },
-  {
-   "id": "4a6d433517",
-   "title": "LNDT | Juan Pablo Troncoso. GEISMAS, rež. Marco LAYERA",
-   "start": "2026-11-11T17:00:00.000Z",
-   "end": "2026-11-11T20:30:00.000Z",
-   "venue": "Lietuvos nacionalinis dramos teatras",
-   "address": "Gedimino pr. 4, Vilnius",
-   "description": "Režisierius — Marco LAYERAKūrybiniai asistentai ir choreografai — Carolina de la MAZA ir Humberto ESPINOZAScenografė — Barbora ŠULNIŪTĖKostiumų dailininkė — Marija PETRAITYTĖŠviesos dailininkas — Dainius URBONISKompozitorė — Gailė GRICIŪTĖVaizdo projekcijų autorius – Marco LAYERA",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/MJD7PPGQRF/lndt-juan-pablo-troncoso-geismas-rez-marco-layera",
-   "source": "Bilietai",
+   "id": "ead79fa12e",
+   "title": "Urban Essentials 2026 | Atidarymas: dviejų spektaklių vakaras LIMBO ir IT AM",
+   "start": "2026-11-11T19:00:00+02:00",
+   "venue": "Menų spaustuvė",
+   "address": "Šiltadaržio g. 6 , Vilnius, Lietuva",
+   "description": "LIMBO | Suzanne Degennaro (Italija / Prancūzija) Kažkur tarp vidinio svaigulio ir fizinės manifestacijos, LIMBO tyrinėja nežinios būseną, buvimą tarp: nei išvykimą, nei atvykimą, o miglotą zoną, kurioje žmogus gyvena abejonėje. Įkvėpta vekingo (angl. waacking) šokio stiliaus, ats",
+   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/09/ue-atidarymas-double-bill-vilnius-events.png",
+   "url": "https://urbanessentials.lt/",
+   "price": "24 €",
+   "source": "Vilnius Events",
    "category": "theatre"
-  },
-  {
-   "id": "ce71feb50e",
-   "title": "Pasivaikščiojimas naktį Lukiškėse lietuvių kalba",
-   "start": "2026-11-11T17:00:00.000Z",
-   "end": "2026-11-11T19:00:00.000Z",
-   "venue": "Lukiškių kalėjimas 2.0",
-   "address": "Lukiškių skg. 6, Vilnius",
-   "description": "Dar niekada pabėgti į kalėjimą nebuvo taip paprasta. Istorinis ir aukšta tvora apjuostas Lukiškių kalėjimo kompleksas kviečia pasivaikščioti. Lukiškių kalėjimas nėra atsakymas į visus klausimus. Bet kas nenorėtų jo aplankyti? Besidomintys buvusio kalėjimo kasdieniu kalinių gyveni",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/P652R2TZVK/pasivaiksciojimas-nakti-lukiskese-lietuviu-kalba",
-   "source": "Bilietai",
-   "category": "kids"
-  },
-  {
-   "id": "6eefcb72bc",
-   "title": "Muzikinė programa „Su meile, kanklės“",
-   "start": "2026-11-11T19:00:00+02:00",
-   "venue": "„Organum“ koncertų salė",
-   "address": "Savanorių pr. 1, Vilnius, Lietuva",
-   "description": "Kiek skirtingų charakterių gali turėti kanklės? Lyriškos ir žaismingos, subtilios ir veržlios, skambančios solo, duetu ar susijungiančios į visą kanklių ansamblį. Muzikinė programa „Su meile, kanklės“ – kvietimas į jaukų pasimatymą su ansamblio „Lietuva“ orkestro kanklininkėmis, ",
-   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/11/Su-meile-kankle-s-Vilnius-events.jpg",
-   "url": "https://ansamblis-lietuva.lt/renginys/muzikine-programa-su-meile-kankles/",
-   "price": "16.5 €",
-   "source": "Vilnius Events",
-   "category": "concert"
-  },
-  {
-   "id": "3121bc860e",
-   "title": "Penkios tango impresijos",
-   "start": "2026-11-11T19:00:00+02:00",
-   "venue": "Lietuvos nacionalinė filharmonija",
-   "address": "Aušros Vartų g. 5 , Vilnius, Lietuva",
-   "description": "Atlikėjai: VALSTYBINIS VILNIAUS KVARTETAS TADAS MOTIEČIUS (akordeonas) Programa: JEAN SIBELIUS – Andante festivo, JS 34a–b styginių kvartetui EDVARD GRIEG – Styginių kvartetas Nr. 1 g-moll, op. 27 DIANA ČEMERYTĖ – „Jahre ohne Mozart“ („Metai be Mozarto“) styginių kvartetui ir ako",
-   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/09/11-11-VVK-Motiecius_750x600-Vilnius-event.png",
-   "url": "https://www.vilnius-events.lt/renginiai/penkios-tango-impresijos/",
-   "price": "0 €",
-   "source": "Vilnius Events",
-   "category": "expo"
   },
   {
    "id": "a946243863",
@@ -769,17 +665,30 @@
    "category": "kids"
   },
   {
-   "id": "ead79fa12e",
-   "title": "Urban Essentials 2026 | Atidarymas: dviejų spektaklių vakaras LIMBO ir IT AM",
+   "id": "3121bc860e",
+   "title": "Penkios tango impresijos",
    "start": "2026-11-11T19:00:00+02:00",
-   "venue": "Menų spaustuvė",
-   "address": "Šiltadaržio g. 6 , Vilnius, Lietuva",
-   "description": "LIMBO | Suzanne Degennaro (Italija / Prancūzija) Kažkur tarp vidinio svaigulio ir fizinės manifestacijos, LIMBO tyrinėja nežinios būseną, buvimą tarp: nei išvykimą, nei atvykimą, o miglotą zoną, kurioje žmogus gyvena abejonėje. Įkvėpta vekingo (angl. waacking) šokio stiliaus, ats",
-   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/09/ue-atidarymas-double-bill-vilnius-events.png",
-   "url": "https://urbanessentials.lt/",
-   "price": "24 €",
+   "venue": "Lietuvos nacionalinė filharmonija",
+   "address": "Aušros Vartų g. 5 , Vilnius, Lietuva",
+   "description": "Atlikėjai: VALSTYBINIS VILNIAUS KVARTETAS TADAS MOTIEČIUS (akordeonas) Programa: JEAN SIBELIUS – Andante festivo, JS 34a–b styginių kvartetui EDVARD GRIEG – Styginių kvartetas Nr. 1 g-moll, op. 27 DIANA ČEMERYTĖ – „Jahre ohne Mozart“ („Metai be Mozarto“) styginių kvartetui ir ako",
+   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/09/11-11-VVK-Motiecius_750x600-Vilnius-event.png",
+   "url": "https://www.vilnius-events.lt/renginiai/penkios-tango-impresijos/",
+   "price": "0 €",
    "source": "Vilnius Events",
-   "category": "theatre"
+   "category": "expo"
+  },
+  {
+   "id": "6eefcb72bc",
+   "title": "Muzikinė programa „Su meile, kanklės“",
+   "start": "2026-11-11T19:00:00+02:00",
+   "venue": "„Organum“ koncertų salė",
+   "address": "Savanorių pr. 1, Vilnius, Lietuva",
+   "description": "Kiek skirtingų charakterių gali turėti kanklės? Lyriškos ir žaismingos, subtilios ir veržlios, skambančios solo, duetu ar susijungiančios į visą kanklių ansamblį. Muzikinė programa „Su meile, kanklės“ – kvietimas į jaukų pasimatymą su ansamblio „Lietuva“ orkestro kanklininkėmis, ",
+   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/11/Su-meile-kankle-s-Vilnius-events.jpg",
+   "url": "https://ansamblis-lietuva.lt/renginys/muzikine-programa-su-meile-kankles/",
+   "price": "16.5 €",
+   "source": "Vilnius Events",
+   "category": "concert"
   },
   {
    "id": "d299dbd975",
@@ -794,6 +703,18 @@
    "category": "theatre"
   },
   {
+   "id": "7a2bdaa810",
+   "title": "KURTI NEGALIMA SUSTOTI | TAMSTA",
+   "start": "2026-11-11T17:30:00.000Z",
+   "venue": "A. Strazdelio g. 1, Vilnius, 02102 Vilnius, Lithuania",
+   "address": "A. Strazdelio gatvė 1, LT-02102 Vilnius, Lietuva, Vilnius, VL",
+   "description": "„Vilnius JJAZZ Ensemble“ organizuojamas konkursas „Kurti Negalima Sustoti“. Atrinkto kūrinio laukia visas profesionalaus muzikos pristatymo kelias – darbas su ansambliu ir kūrinio parengimas, profesionalus garso įrašas studijoje, gyvas atlikimas „Tamsta“ klube bei jo filmavimas. ",
+   "image": "https://cdn-az.allevents.in/events3/banners/20af3f25afa3a55e70ae507b8cb53ea92357b44aac9d1dc7f6a91aa0a0c08d86-rimg-w1200-h676-dc181818-gmir?v=1790401007",
+   "url": "https://allevents.in/vilnius/kurti-negalima-sustoti-tamsta/200030739795648",
+   "source": "AllEvents",
+   "category": "night"
+  },
+  {
    "id": "e9065c8619",
    "title": "BCL: Vilniaus ''Rytas'' - Nantero ''Nanterre 92''",
    "start": "2026-11-11T17:30:00.000Z",
@@ -804,6 +725,18 @@
    "url": "https://www.bilietai.lt/renginiai/PNJMMUNJYB/bcl-vilniaus-rytas-nantero-nanterre-92",
    "source": "Bilietai",
    "category": "sport"
+  },
+  {
+   "id": "e7d67bb18b",
+   "title": "Wednesday @Lucille with Dovilė",
+   "start": "2026-11-11T18:00:00.000Z",
+   "venue": "Rūdninkų g. 20, LT-1306 Vilnius, Lithuania",
+   "address": "Rūdninkų gatvė 18, LT-01135 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Some Wednesday nights are made for slowing down and listening. Dovilė brings an intimate evening of guitar, voice and songs that don’t need much else around them to make you stop and pay attention. ————————————————— Kai kurie trečiadienio vakarai tiesiog skirti sulėtinti tempą ir",
+   "image": "https://cdn-az.allevents.in/events8/banners/378bbd6a7b20cb821e2824fe797c53374288a2065d4e478cc339640838611200-rimg-w1200-h675-dc080808-gmir?v=1794153160",
+   "url": "https://allevents.in/vilnius/wednesday-lucille-with-dovil%C4%97/200031001774340",
+   "source": "AllEvents",
+   "category": "other"
   },
   {
    "id": "06952a1b74",
@@ -819,10 +752,22 @@
    "category": "night"
   },
   {
+   "id": "679969ba5c",
+   "title": "Grupės KODAMA debiutinio EP ,,Fankliuzija” pristatymo koncertas",
+   "start": "2026-11-11T20:00:00+02:00",
+   "venue": "Kostmosas",
+   "address": "Vokiečių g. 4, Vilnius, Lietuva",
+   "description": "Kai nežinai ko nori - KODAMA pasiūlys visko. Esam keturios labai rimtos miško sielos po tavo lova. Grojam funką, kartais ir sunkesnės muzikos paserviruojam.O išleidę savo debiutinį EP ,,Fankliuzija\" kviečiame visus klausiusius ir dar tik norinčius išgirsti į vestuves! Be visų jūs",
+   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/11/886894605_122126065856304889_8851028194846406174_n.jpg",
+   "url": "https://www.facebook.com/events/1463824682597507/",
+   "price": "0 €",
+   "source": "Vilnius Events",
+   "category": "concert"
+  },
+  {
    "id": "6f9873f186",
    "title": "Candlelight: Koncertas pagerbti Michael Jackson",
    "start": "2026-11-12T00:00:00+02:00",
-   "end": "2027-02-05T00:00:00+02:00",
    "venue": "Vilnius Town Hall",
    "address": "Didžioji gatvė 31, Vilnius// 01128, Vilnius, VL",
    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8wMzI5YzdmMC1kMzQ1LTExZjEtODI4OC1jMWE0M2FkOTlmNjktcmltZy13NTUwLWg1NTAtZGMwODA4MDgtZ21pci5qcGc_dj0xNzkzMjQyOTU3.avif",
@@ -902,7 +847,7 @@
    "start": "2026-11-12T15:00:00+02:00",
    "venue": "Senamiestis",
    "description": "„Atsargiai, Vilnius“ – tai bendras Lietuvos nacionalinio dailės muziejaus (LNDM) ir nepriklausomų teatro menininkų darbas apie žmogų mieste ir miestą žmoguje. Kūrinys gimė iš daugybės istorijų apie Vilniaus senamiesčio gatves, kuriose atsiskleidžia miesto sudėtingumas, prieštaros",
-   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/11/Atsargiai-Vilnius_Vilnius-events.jpg",
+   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/11/Atsargiai-Vilnius_Vilnius-events-1.jpg",
    "url": "https://kto.ekultura.lt/kto/lndm/",
    "price": "0 €",
    "source": "Vilnius Events",
@@ -940,9 +885,22 @@
    "start": "2026-11-12T17:00:00+02:00",
    "venue": "Miesto Laboratorija",
    "address": "Antakalnio g. 17, Vilnius, Lietuva",
-   "description": "VšĮ „Matematikos muziejus“ komanda kviečia į interaktyvų renginį, kuriame matematika atsiskleis įtraukiančiais ir netikėtais būdais! Kaip abstrakčios formulės padeda spręsti realaus pasaulio problemas? Kaip matematika veikia kompiuterius, dirbtinį intelektą ir sudėtingus algoritm",
-   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/10/MatematikosMuziejusInsta.png.jpg",
-   "url": "https://www.facebook.com/events/940260425592710",
+   "description": "VšĮ „Matematikos muziejus“ komanda kviečia į nemokamą interaktyvų renginį, kuriame matematika atsiskleis įtraukiančiais ir netikėtais būdais! Kaip abstrakčios formulės padeda spręsti realaus pasaulio problemas? Kaip matematika veikia kompiuterius, dirbtinį intelektą ir sudėtingus",
+   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/11/Galtono-stendas-scaled.jpg",
+   "url": "https://www.vilnius-events.lt/renginiai/pasl-pta-pasaulio-logika-matematikos-taikymai-2/",
+   "price": "0 €",
+   "source": "Vilnius Events",
+   "category": "expo"
+  },
+  {
+   "id": "a7a071b96a",
+   "title": "Kai praeitis atgyja: priešistorinis pasaulis “paleoart” tarp mokslo ir vaizduotės",
+   "start": "2026-11-12T17:30:00+02:00",
+   "venue": "Nacionalinis lankytojų centras",
+   "address": "Antakalnio g. 25, Vilnius, Lietuva",
+   "description": "Ar kada nors žiūrėjote į dinozauro skeletą ir bandėte įsivaizduoti, kaip jis atrodė būdamas gyvas? Ar jo oda buvo žvynuota, kokios spalvos jis galėjo būti ir ar iš tiesų atrodė taip, kaip esame įpratę matyti filmuose? Į šiuos klausimus atsakymų ieškosime kartu su dr. Darja Dankin",
+   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/11/NLC-postas-25-.png",
+   "url": "https://fb.me/e/6HIuKe962",
    "price": "0 €",
    "source": "Vilnius Events",
    "category": "expo"
@@ -957,19 +915,6 @@
    "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/10/MC-Lina-Lapelyt-Samb-riai-106-scaled.jpg",
    "url": "https://cac.lt/renginys/ekskursijos-po-paroda-samburiai-su-kuratoremis-2/",
    "price": "6 €",
-   "source": "Vilnius Events",
-   "category": "expo"
-  },
-  {
-   "id": "a7a071b96a",
-   "title": "Kai praeitis atgyja: priešistorinis pasaulis “paleoart” tarp mokslo ir vaizduotės",
-   "start": "2026-11-12T17:30:00+02:00",
-   "venue": "Nacionalinis lankytojų centras",
-   "address": "Antakalnio g. 25, Vilnius, Lietuva",
-   "description": "Ar kada nors žiūrėjote į dinozauro skeletą ir bandėte įsivaizduoti, kaip jis atrodė būdamas gyvas? Ar jo oda buvo žvynuota, kokios spalvos jis galėjo būti ir ar iš tiesų atrodė taip, kaip esame įpratę matyti filmuose? Į šiuos klausimus atsakymų ieškosime kartu su dr. Darja Dankin",
-   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/11/NLC-postas-25-.png",
-   "url": "https://fb.me/e/6HIuKe962",
-   "price": "0 €",
    "source": "Vilnius Events",
    "category": "expo"
   },
@@ -1065,17 +1010,41 @@
    "category": "theatre"
   },
   {
-   "id": "81fe653254",
-   "title": "Pažink save, suprask kitus. Veidoskaitos vakaras",
+   "id": "e7301d6b93",
+   "title": "Socialinis Dedukcijos žaidimas Blood on the Clocktower",
    "start": "2026-11-12T17:00:00.000Z",
-   "end": "2026-11-12T19:00:00.000Z",
-   "venue": "Šatrijos g. 14, Vilnius",
-   "address": "Zaidimu Stalai, LT-09300 Vilnius, Lietuva, Vilnius, VL",
-   "description": "Tavo veidas apie tave pasako daugiau, nei tu pats kada nors pasakojai. Kaip priimi sprendimus, kur sustoji, kas tave stumia į priekį, o kas pristabdo. Visa tai jau parašyta. Lieka išmokti skaityti. Per vieną vakarą susipažinsime su veidoskaitos principu – kaip ji veikia ir ką iš ",
-   "image": "https://cdn-az.allevents.in/events4/banners/bc7aae89884356a4063d6b76a8ff0b83abd18c227f58db3c502c98f62362046b-rimg-w1200-h628-dc080808-gmir?v=1793886014",
-   "url": "https://allevents.in/vilnius/pa%C5%BEink-save-suprask-kitus-veidoskaitos-vakaras/200030977194314",
+   "venue": "Liepkalnio g. 2",
+   "address": "Liepkalnio gatvė 2, LT-02103 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Sveiki! Kviečiame ateiti į Blood on the Clocktower sesiją! Pats žaidimas labai panašus į mafiją, tačiau: • Mirę žmonės toliau gali žaisti • Kiekvienas žaidėjas turi kokį nors sugebėjimą, kuris padeda išnarplioti (ar padaryti žaidimą sudėtingesnį) puzlę • Puikiai tinka žmonėms, ku",
+   "image": "https://cdn-az.allevents.in/events8/banners/304ed55d794eb188d826240e303794bae31196281570d8cd9461344e7cde83fd-rimg-w1200-h640-dc080808-gmir?v=1794010160",
+   "url": "https://allevents.in/vilnius/socialinis-dedukcijos-%C5%BEaidimas-blood-on-the-clocktower/200030990422620",
    "source": "AllEvents",
-   "category": "kids"
+   "category": "other"
+  },
+  {
+   "id": "49223a8dbc",
+   "title": "Lithuanian National Philharmonic Hall",
+   "start": "2026-11-12T17:00:00.000Z",
+   "venue": "Filharmonija",
+   "address": "Bang & Olufsen, Pasažo skersgatvis, LT-01305 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Some news for Lithuanian listeners, two concerts in November: 10th - Kaunas Philharmonic and 12th - Lithuanian Philharmonic Hall! https://kakava.lt/renginys/pianistas-kasparas-uinskas-solinis-recitalis/12602/26564",
+   "image": "https://cdn-az.allevents.in/events7/banners/9f47b0b341e2697790ca85dc506712fe140972be40d5fb4e37cf4fa369886f81-rimg-w1200-h1690-dc080808-gmir?v=1792860309",
+   "url": "https://allevents.in/vilnius/lithuanian-national-philharmonic-hall/200030903965609",
+   "source": "AllEvents",
+   "category": "concert"
+  },
+  {
+   "id": "844f7741cf",
+   "title": "KAMERINĖS MUZIKOS ŠVENTĖ SU FORTVIO",
+   "start": "2026-11-12T17:00:00.000Z",
+   "end": "2026-11-12T18:30:00.000Z",
+   "venue": "Šv. Kotrynos bažnyčia",
+   "address": "Vilniaus g. 30, Vilnius",
+   "description": "Lapkričio 12-osios vakarą Šv. Kotrynos bažnyčioje susitiks vieni ryškiausių Lietuvos kamerinės muzikos atlikėjų – fortepijoninis trio „FortVio“ ir Šv. Kristoforo kamerinis orkestras.„FortVio“ jau du dešimtmečius žavi publiką išskirtiniu muzikiniu jautrumu, nepriekaištinga technik",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/P4HCJ6LYQZ/kamerines-muzikos-svente-su-fortvio",
+   "source": "Bilietai",
+   "category": "festival"
   },
   {
    "id": "2cb598ce4d",
@@ -1091,19 +1060,6 @@
    "category": "theatre"
   },
   {
-   "id": "844f7741cf",
-   "title": "KAMERINĖS MUZIKOS ŠVENTĖ SU FORTVIO",
-   "start": "2026-11-12T17:00:00.000Z",
-   "end": "2026-11-12T18:30:00.000Z",
-   "venue": "Šv. Kotrynos bažnyčia",
-   "address": "Vilniaus g. 30, Vilnius",
-   "description": "Lapkričio 12-osios vakarą Šv. Kotrynos bažnyčioje susitiks vieni ryškiausių Lietuvos kamerinės muzikos atlikėjų – fortepijoninis trio FortVio ir Šv. Kristoforo kamerinis orkestras.„FortVio“ jau du dešimtmečius žavi publiką išskirtiniu muzikiniu jautrumu, nepriekaištinga technika ",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/P4HCJ6LYQZ/kamerines-muzikos-svente-su-fortvio",
-   "source": "Bilietai",
-   "category": "festival"
-  },
-  {
    "id": "86e816c544",
    "title": "Pasivaikščiojimas naktį Lukiškėse lietuvių kalba",
    "start": "2026-11-12T17:00:00.000Z",
@@ -1115,19 +1071,6 @@
    "url": "https://www.bilietai.lt/renginiai/U74JHNCZZV/pasivaiksciojimas-nakti-lukiskese-lietuviu-kalba",
    "source": "Bilietai",
    "category": "kids"
-  },
-  {
-   "id": "ceb4c654e0",
-   "title": "Urban Essentials 2026 | LOOP | Olivia Mitterhuemer (Austrija)",
-   "start": "2026-11-12T19:00:00+02:00",
-   "venue": "Menų spaustuvė",
-   "address": "Šiltadaržio g. 6 , Vilnius, Lietuva",
-   "description": "Po pasaulinės premjeros šių metų liepą Zalcburge austrų choreografės Olivia Mitterhuemer hauso šokio spektaklis „LOOP“ atvyksta į Vilnių – jį Lietuvos publikai pristato tarptautinis hiphopo šokio ir kultūros festivalis Urban Essentials 2026. Spektaklyje „LOOP“ keturi hauso šokėja",
-   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/09/ue-loop-vilnius-events.png",
-   "url": "http://www.urbanessentials.lt/",
-   "price": "24 €",
-   "source": "Vilnius Events",
-   "category": "film"
   },
   {
    "id": "992017e807",
@@ -1152,6 +1095,19 @@
    "image": "https://www.vilnius-events.lt/wp-content/uploads/2025/09/Kino-klasikos-seansai.jpeg",
    "url": "https://www.facebook.com/people/Kinotekos-sal%C4%97/61568113318561/",
    "price": "0 €",
+   "source": "Vilnius Events",
+   "category": "film"
+  },
+  {
+   "id": "ceb4c654e0",
+   "title": "Urban Essentials 2026 | LOOP | Olivia Mitterhuemer (Austrija)",
+   "start": "2026-11-12T19:00:00+02:00",
+   "venue": "Menų spaustuvė",
+   "address": "Šiltadaržio g. 6 , Vilnius, Lietuva",
+   "description": "Po pasaulinės premjeros šių metų liepą Zalcburge austrų choreografės Olivia Mitterhuemer hauso šokio spektaklis „LOOP“ atvyksta į Vilnių – jį Lietuvos publikai pristato tarptautinis hiphopo šokio ir kultūros festivalis Urban Essentials 2026. Spektaklyje „LOOP“ keturi hauso šokėja",
+   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/09/ue-loop-vilnius-events.png",
+   "url": "http://www.urbanessentials.lt/",
+   "price": "24 €",
    "source": "Vilnius Events",
    "category": "film"
   },
@@ -1195,17 +1151,30 @@
    "category": "theatre"
   },
   {
-   "id": "c0ecb53172",
-   "title": "KJETIL MULELID TRIO",
-   "start": "2026-11-12T20:00:00+02:00",
+   "id": "ab0340d6f5",
+   "title": "Kjetil Mulelid trio",
+   "start": "2026-11-12T18:00:00.000Z",
    "venue": "Jazz Cellar 11",
-   "address": "Aušros Vartų g. 11, Vilnius, Lietuva",
-   "description": "Kjetil Mulelid – pianoRune Nergaard – double bassAndreas Winther – drums (modern jazz, nordic jazz) „Vienas geriausių šiuolaikinio džiazo fortepijoninių trio Europoje“, „šiuolaikinių fortepijoninių trio elitas“, „tiesiog gražu ir gražiai paprasta“ – taip tarptautinė muzikos spaud",
-   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/11/VE-Main-maketas-700x422px-2-.png",
-   "url": "https://www.facebook.com/events/1762764885031598/",
+   "address": "Aušros Vartų gatvė 11, LT-01304 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Kjetil Mulelid – piano Rune Nergaard – double bass Andreas Winther – drums (modern jazz, nordic jazz) https://youtu.be/UaF9IPopMzs?si=Z2R0untzsjdCGbvx „Vienas geriausių šiuolaikinio džiazo fortepijoninių trio Europoje“, „šiuolaikinių fortepijoninių trio elitas“, „tiesiog gražu ir",
+   "image": "https://cdn-az.allevents.in/events6/banners/31d34ebfcca220d3f6807b00ff8433823f725ef3b827a4221724626e195c944d-rimg-w1200-h675-dce8e8e8-gmir?v=1792629728",
+   "url": "https://allevents.in/vilnius/kjetil-mulelid-trio/200030874769708",
    "price": "25 €",
-   "source": "Vilnius Events",
+   "source": "AllEvents",
    "category": "concert"
+  },
+  {
+   "id": "8038bfeefe",
+   "title": "atmospheric dnb by Oganes",
+   "start": "2026-11-12T20:00:00+02:00",
+   "venue": "Kostmosas",
+   "address": "Vokiečių g. 4, Vilnius, Lietuva",
+   "description": "Prabėgusių metų ketvirtadieniais turėjome Rastadienius. Tie, kas nuolat lankėsi, pastebėjo, kad šis renginių ciklas šiek tiek išsikvėpė ir panašu, kad nuo tos monotonijos pavargome tiek mes, tiek gerbėjai, todėl nusprendėme pasidaryti šiokią tokią pertrauką. Ir štai, vos poros mė",
+   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/11/903683738_1577505627514253_7102310620283067971_n.jpg",
+   "url": "https://www.facebook.com/events/1879090383087591/",
+   "price": "0 €",
+   "source": "Vilnius Events",
+   "category": "other"
   },
   {
    "id": "297a394dc0",
@@ -1325,6 +1294,18 @@
    "category": "theatre"
   },
   {
+   "id": "e444daeba4",
+   "title": "Vakaras, skirtas Irenos Vaišytės 100-mečiui",
+   "start": "2026-11-13T14:30:00.000Z",
+   "venue": "LMTA studijų miestelis",
+   "address": "Olandų gatvė 21a, LT-01100 Vilnius, Lietuva, Vilnius, VL",
+   "description": "2026 m. lapkričio 13 d., penktadienį, 16:30 val. LMTA Studijų miestelio Teatro salėje (Olandų g. 21A, Vilnius) VAKARAS, SKIRTAS IRENOS VAIŠYTĖS 100-MEČIUI Profesorės Irenos Vaišytės, universitetinės Teatro mokyklos kūrėjos 100-mečiui skirtas vakaras. Renginio metu vyks iškilminga",
+   "image": "https://cdn-az.allevents.in/events9/banners/ba94e82d644fb70b23a630d2a8f0637b1de05b5b5be213a10f824bb2df7430ea-rimg-w1200-h628-dc083838-gmir?v=1794011820",
+   "url": "https://allevents.in/vilnius/vakaras-skirtas-irenos-vai%C5%A1yt%C4%97s-100-me%C4%8Diui/200030990636000",
+   "source": "AllEvents",
+   "category": "theatre"
+  },
+  {
    "id": "deff80f40b",
    "title": "Ekskursija Gotikiniuose rūsiuose „Po skliautais: pamirštos Vilniaus istorijos“",
    "start": "2026-11-13T17:30:00+02:00",
@@ -1347,6 +1328,19 @@
    "description": "Galbūt bent kartą pagalvojai apie EROS. O gal tiesiog užkliuvo pavadinimas, nuotrauka ar kažkieno pasakojimas. Gal peržiūrėjai programą, pasižiūrėjai, kas vyks ir kas dalyvaus. Ir tai visiškai natūralu. Noras sužinoti daugiau yra tai, nuo ko prasideda kiekviena nauja patirtis. Ap",
    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNTdmNDgyNjQ4MzYxNjU4ZDRjZGU0MWYxNWMyNGU1MDk4NGMyMGI5MDhlYTViZTkxY2Y2NzE0YzIxNTJiMDE3My1yaW1nLXcxMjAwLWg2MjgtZGNmODI4MjgtZ21pcj92PTE3ODg3OTM2MjI.avif",
    "url": "https://allevents.in/vilnius/eros-2026/200030389059011",
+   "source": "AllEvents",
+   "category": "kids"
+  },
+  {
+   "id": "450024d16f",
+   "title": ",,Stiklinis žvėrynas\" pagal T.Williamso pjesę",
+   "start": "2026-11-13T16:00:00.000Z",
+   "end": "2026-11-13T18:15:00.000Z",
+   "venue": "A. Jakšto g. 9, LT01105 Vilnius, Lithuania",
+   "address": "A. Jakšto gatvė 9, LT-01105 Vilnius, Lietuva, Vilnius, VL",
+   "description": "„Stiklinis žvėrynas“ – tai spektaklis pagal ** a. dramaturgijos klasiko amerikiečio Tennessee Williamso to paties pavadinimo dramą, nuo kurios ir prasidėjo šio kūrėjo sėkmė bei pripažinimas. Autobiografiniais motyvais paremtos pjesės centre – šeima, atitrūkusi nuo didžiosios depr",
+   "image": "https://cdn-az.allevents.in/events3/banners/4ba1beecea534b131d55118e67457ebb40ce2655733cde764941db34a4960c94-rimg-w1200-h800-dc080808-gmir?v=1792819948",
+   "url": "https://allevents.in/vilnius/stiklinis-%C5%BEv%C4%97rynas-pagal-twilliamso-pjes%C4%99/200030899645728",
    "source": "AllEvents",
    "category": "kids"
   },
@@ -1417,6 +1411,31 @@
    "category": "theatre"
   },
   {
+   "id": "ccfc41e536",
+   "title": "SIAUBO LABIRINTAS | HORROR MAZE",
+   "start": "2026-11-13T16:30:00.000Z",
+   "end": "2026-11-13T21:00:00.000Z",
+   "venue": "VU Chemijos ir geomokslų fakultetas",
+   "address": "Naugarduko g. 24,Vilnius, Lithuania, Vilnius, VL",
+   "description": "🇱🇹| SLAUBO LABIRINTAS KVIEČIA… Penktadienis, 13-oji… Sakoma, kad ši diena neša nelaimes. O gal tiesiog dar niekada nebuvai mūsų labirinte? 👁️ Pasiruošk šiurpuliukams ir nepamiršk savo baisiausio įvaizdžio – kuo šiurpiau atrodysi, tuo geriau! PROGRAMA 18.30 – durų atidarymas ir",
+   "image": "https://cdn-az.allevents.in/events3/banners/e7f8ff37dd6c0779e116bc9e4dbe0066247bd6b432ba041197883546836eb4e9-rimg-w1200-h675-dc181818-gmir?v=1793941054",
+   "url": "https://allevents.in/vilnius/siaubo-labirintas-horror-maze/200030981122235",
+   "source": "AllEvents",
+   "category": "expo"
+  },
+  {
+   "id": "d40343c841",
+   "title": "Vieno teksto skaitymai. Vidas Morkūnas",
+   "start": "2026-11-13T16:30:00.000Z",
+   "venue": "šv. Kazimiero g. 8, 01127 Vilnius, Lithuania",
+   "address": "Šv. Kazimiero gatvė 8, LT-01127 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Antrasis renginių ciklo „Vieno teksto skaitymai“ susitikimas, kuriame savo kūrinį skaitys rašytojas Vidas Morkūnas. Kviečiame atrasti trumposios prozos žanrą kaip itin tinkamą mūsų laikams. Neretai mažesnės apimties tekstai talpina didesnį ir įdomesnį turinį nei storiausios knygo",
+   "image": "https://cdn-az.allevents.in/events10/banners/e6dee50c75e58b05677a2912da6f5afd58a58711d62846aa7f0eb4b20b56c533-rimg-w1200-h628-dc686858-gmir?v=1793296103",
+   "url": "https://allevents.in/vilnius/vieno-teksto-skaitymai-vidas-mork%C5%ABnas/200030935099523",
+   "source": "AllEvents",
+   "category": "talk"
+  },
+  {
    "id": "d58e5dd4a2",
    "title": "Pasivaikščiojimas naktį Lukiškėse lietuvių kalba",
    "start": "2026-11-13T16:30:00.000Z",
@@ -1428,19 +1447,6 @@
    "url": "https://www.bilietai.lt/renginiai/ENSEEGJMD3/pasivaiksciojimas-nakti-lukiskese-lietuviu-kalba",
    "source": "Bilietai",
    "category": "kids"
-  },
-  {
-   "id": "e2848b402a",
-   "title": "Tapybos vakaras: Juoda katė",
-   "start": "2026-11-13T16:30:00.000Z",
-   "end": "2026-11-13T19:30:00.000Z",
-   "venue": "Dvi taurės meno tapybos studija - dvaras",
-   "address": "S. Konarskio g. 35A, Vilnius",
-   "description": "Penktadienis trylika. Studijoje šį vakarą tapome juodą katę. Kviečiame praleisti vakarą pramoginėje tapybos studijoje. Čia atsipalaiduosite po darbo dienos, pabendrausite su draugais ar naujais pažįstamais, pasilinksminsite, o gal pabūsite su savo mintimis. Nesvarbu, koks jūsų ti",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/6THQU3576B/tapybos-vakaras-juoda-kate",
-   "source": "Bilietai",
-   "category": "other"
   },
   {
    "id": "1f832096a4",
@@ -1456,17 +1462,17 @@
    "category": "other"
   },
   {
-   "id": "d1827782b7",
-   "title": "PREMJERA Judesio spektaklis „Vienat“",
-   "start": "2026-11-13T18:30:00+02:00",
-   "venue": "Vilniaus senasis teatras",
-   "address": "J. Basanavičiaus g. 13, Vilnius, Lietuva",
-   "description": "Judesio spektaklis „Vienat“ apmąsto laimės ir harmonijos ieškančios žmonijos nuolatinį judėjimą susinaikinimo link ir jos unikalų gebėjimą nuolat atsikurti po katastrofų. Spektaklio kūrėjai atsigręžia į atmintį ir žmogaus kūną kaip istorijos liudytoją. Spektaklio pavadinimui pasi",
-   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/11/Vienat-700x422-1.jpg",
-   "url": "https://vsteatras.lt/spektakliai/vienat",
-   "price": "23.10 €",
-   "source": "Vilnius Events",
-   "category": "film"
+   "id": "e2848b402a",
+   "title": "Tapybos vakaras: Juoda katė",
+   "start": "2026-11-13T16:30:00.000Z",
+   "end": "2026-11-13T19:30:00.000Z",
+   "venue": "Dvi taurės meno tapybos studija - dvaras",
+   "address": "S. Konarskio g. 35A, Vilnius",
+   "description": "Penktadienis trylika. Studijoje šį vakarą tapome juodą katę. Kviečiame praleisti vakarą pramoginėje tapybos studijoje. Čia atsipalaiduosite po darbo dienos, pabendrausite su draugais ar naujais pažįstamais, pasilinksminsite, o gal pabūsite su savo mintimis. Nesvarbu, koks jūsų ti",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/6THQU3576B/tapybos-vakaras-juoda-kate",
+   "source": "Bilietai",
+   "category": "other"
   },
   {
    "id": "c39e280764",
@@ -1482,6 +1488,19 @@
    "category": "concert"
   },
   {
+   "id": "d1827782b7",
+   "title": "PREMJERA Judesio spektaklis „Vienat“",
+   "start": "2026-11-13T18:30:00+02:00",
+   "venue": "Vilniaus senasis teatras",
+   "address": "J. Basanavičiaus g. 13, Vilnius, Lietuva",
+   "description": "Judesio spektaklis „Vienat“ apmąsto laimės ir harmonijos ieškančios žmonijos nuolatinį judėjimą susinaikinimo link ir jos unikalų gebėjimą nuolat atsikurti po katastrofų. Spektaklio kūrėjai atsigręžia į atmintį ir žmogaus kūną kaip istorijos liudytoją. Spektaklio pavadinimui pasi",
+   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/11/Vienat-700x422-1.jpg",
+   "url": "https://vsteatras.lt/spektakliai/vienat",
+   "price": "23.10 €",
+   "source": "Vilnius Events",
+   "category": "film"
+  },
+  {
    "id": "548c073c4e",
    "title": "LVSO | Lukas Geniušas skambina L. van Beethoveną",
    "start": "2026-11-13T17:00:00.000Z",
@@ -1494,18 +1513,6 @@
    "price": "20 €",
    "source": "AllEvents",
    "category": "concert"
-  },
-  {
-   "id": "109a6b523a",
-   "title": "CIOS/LUCKY STRIKE/CONTRA98",
-   "start": "2026-11-13T17:00:00.000Z",
-   "venue": "nArauti",
-   "address": "Konstitucijos pr. 23,Vilnius, Lithuania, Vilnius, VL",
-   "description": "PUNK ROCK TRIJADA in Vilnius Pankroko vakarėlis sostinėje su svečiais iš Ukrainos. Išreikškime palaikymą ukrainiečiams, kovojantiems prieš okupacinį režimą. 🇺🇦 🇺🇦 CIOS - Oi!/street punk kolektyvas iš Ukrainos, Chmelnyckio miesto. https://open.spotify.com/artist/5X1LFJJfXuE4Sc",
-   "image": "https://cdn-az.allevents.in/events7/banners/edffbac584c42b063551e68d57b265978ab5b0343775a0230211b047b556a967-rimg-w948-h1280-dc080808-gmir?v=1789770412",
-   "url": "https://allevents.in/vilnius/cios-lucky-strike-contra98/200030714296952",
-   "source": "AllEvents",
-   "category": "night"
   },
   {
    "id": "49ebc93d3d",
@@ -1612,6 +1619,18 @@
    "category": "sport"
   },
   {
+   "id": "a99b5e8275",
+   "title": "Friday @Lucille with Sherman's Trio",
+   "start": "2026-11-13T18:00:00.000Z",
+   "venue": "Rūdninkų g. 20, LT-1306 Vilnius, Lithuania",
+   "address": "Rūdninkų gatvė 18, LT-01135 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Three musicians. Plenty of blues. No quiet Friday planned. Sherman, Robertas and Rokas take over Lucille with guitars, rhythm and the kind of chemistry that can turn one song into a whole conversation on stage. ————————————————— Trys muzikantai. Daug bliuzo. Ramaus penktadienio n",
+   "image": "https://cdn-az.allevents.in/events7/banners/89f4e4411b644681e4538921628c3b9fc4a63627beedd000b37a315cd1d2234c-rimg-w1200-h675-dc280808-gmir?v=1794153172",
+   "url": "https://allevents.in/vilnius/friday-lucille-with-shermans-trio/200031001774952",
+   "source": "AllEvents",
+   "category": "concert"
+  },
+  {
    "id": "5975c26d6f",
    "title": "(Vilnius) Vagelis. Aikštelė",
    "start": "2026-11-13T18:00:00.000Z",
@@ -1665,6 +1684,18 @@
    "category": "night"
   },
   {
+   "id": "677d63cf06",
+   "title": "Miles Davis tribute - Celebtrating 100 years anniversary",
+   "start": "2026-11-13T18:30:00.000Z",
+   "venue": "Jazz Cellar 11",
+   "address": "Aušros Vartų gatvė 11, LT-01304 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Dominykas Vyšniauskas - trumpet Artūras Daunys - keys Deimantas Balys - guitar Ernest Germanovič - bass Augustas Baronas - drums (modern jazz, fusion jazz) Nedaug muzikantų džiazo skambesį keitė tiek kartų, kiek Milesas Davisas. Nuo cool jazz ir modalinių eksperimentų iki elektri",
+   "image": "https://cdn-az.allevents.in/events8/banners/03f744b52f0aece331af4cf7c558a96ebf1dc3cd7e0698d5fc34334c77f33085-rimg-w1200-h675-dce8e8e8-gmir?v=1792126466",
+   "url": "https://allevents.in/vilnius/miles-davis-tribute-celebtrating-100-years-anniversary/200030841961827",
+   "source": "AllEvents",
+   "category": "expo"
+  },
+  {
    "id": "46401d9a0e",
    "title": "PAPILDOMAS KONCERTAS | Paryžiaus Klasika: EDITH PIAF, DALIDA, JOE DASSIN, PIERRE BACHELET, ALAIN DELON | atlieka Violette De Bartillat su gy",
    "start": "2026-11-13T18:30:00.000Z",
@@ -1698,7 +1729,7 @@
    "venue": "Menu fabrikas Loftas",
    "address": "Menu fabrikas Loftas, Vilnius, VL, Lithuania, Vilnius, VL",
    "description": "The UK's biggest Reggaeton Party is returning to Vilnius this November! Come and celebrate all things Reggaeton with 500+ other Reggaeton lovers at the incredible Loftas. Top international DJ's playing Strictly Reggaeton music all night with music from Bad Bunny, Daddy Yankee, Fe",
-   "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEwL2Jhbm5lcnMvNWEwYjYzMDAtZGNkMC0xMWYxLWE1M2ItZTczZTdmNWM0NmJjLXJpbWctdzEyMDAtaDYyOC1kYzA4MDgwOC1nbWlyLmpwZz92PTE3OTQyOTIyODQ.avif",
+   "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czcvYmFubmVycy9hMDZjYjgzMC1kZDM5LTExZjEtYjBhNC1jMTE0NGRhMTBhZjEtcmltZy13MTIwMC1oNjI4LWRjMDgwODA4LWdtaXIuanBnP3Y9MTc5NDMzNzQ5OQ.avif",
    "url": "https://allevents.in/vilnius/reggaeton-party-lithuania-november/3600030659113823",
    "source": "AllEvents",
    "category": "night"
@@ -1728,6 +1759,18 @@
    "price": "0 €",
    "source": "Vilnius Events",
    "category": "night"
+  },
+  {
+   "id": "3ed6ae6f80",
+   "title": "TUŠAS: Mountak / Une /",
+   "start": "2026-11-13T20:00:00.000Z",
+   "venue": "Pylimo g. 58, 01307 Vilnius, Lithuania",
+   "address": "Pylimo gatvė 58, LT-01307 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Lapkričio 13-osios naktį dedikuojam besibaigiančiam rudeniui – ačiū ir viso gero. Nuo lietaus nubėgęs tušas bėgs toliau – šiurpu per odą, seratoninu per kraują, tiesiai į džiaugsmo reikalaujančias smegenis. Ir džiaugsmo jos gaus, nes šokių aikštelėje, nors ir ne pilnam sąstate, m",
+   "image": "https://cdn-az.allevents.in/events6/banners/21884904277567112810c95469b88c5fb1c3ccb7969a5862f26d85f31e2957eb-rimg-w1200-h1200-dc180808-gmir?v=1793654767",
+   "url": "https://allevents.in/vilnius/tu%C5%A0as-mountak-une/200030958802507",
+   "source": "AllEvents",
+   "category": "other"
   },
   {
    "id": "adacf5a691",
@@ -1773,7 +1816,6 @@
    "id": "ccc5f9f053",
    "title": "The Jazz Room: Kelionė į Naujojo Orleano širdį",
    "start": "2026-11-14T00:00:00+02:00",
-   "end": "2026-12-12T00:00:00+02:00",
    "venue": "Royal Theatre",
    "address": "A. Jakšto g. 9, Vilnius// 01105, Vilnius, VL",
    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy9lZTUwNjhjMC1kMzQ0LTExZjEtODI4OC1jMWE0M2FkOTlmNjktcmltZy13NTUwLWg1NTAtZGMxODA4MDgtZ21pci5qcGc_dj0xNzkzMjQyOTU1.avif",
@@ -1781,6 +1823,19 @@
    "price": "20.40 €",
    "source": "AllEvents",
    "category": "concert"
+  },
+  {
+   "id": "08cd8039ea",
+   "title": "Meškinų muziejuje ''PLUSHY B 55''",
+   "start": "2026-11-14T08:00:00.000Z",
+   "end": "2026-11-14T13:00:00.000Z",
+   "venue": "Raganiukės teatras",
+   "address": "S. Stanevičiaus g. 24, Vilnius",
+   "description": "Naujas Meškinų muziejus „PLUSHY B 55“!SVARBU. Su šiuo įsigytu bilietu galėsite atvykti nurodytą dieną jums patogiu metu. Muziejus veiks nuo 10 val. iki 15 val.Į šio bilieto kainą neįeina gido programa. Tai savarankiško lankymo muziejuje bilietasVilniuje atidarytas muziejus, kuria",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/LFDP67AXJ7/meskinu-muziejuje-plushy-b-55",
+   "source": "Bilietai",
+   "category": "expo"
   },
   {
    "id": "5c91ef0955",
@@ -1796,43 +1851,42 @@
    "category": "expo"
   },
   {
-   "id": "acf9c81063",
-   "title": "Ateik ir žaisk, stalo žaidimų diena",
-   "start": "2026-11-14T11:00:00+02:00",
-   "venue": "Lietuvos nacionalinė Martyno Mažvydo biblioteka",
-   "address": "Gedimino pr. 51 , Vilnius, Lietuva",
-   "description": "Lietuvos nacionalinėje Martyno Mažvydo bibliotekoje kviečiame atrasti erdvę, kurioje knygos susitinka su žaidimais, kūryba ir gyvu bendravimu. Šią ypatingą renginio dieną lankytojų lauks „Ateik ir žaisk“ stalo žaidimų erdvė, kurioje bus galima ne tik apžiūrėti žaidimus, bet ir ju",
-   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/11/Ateik-ir-Zaisk_Vilnius_20261114.png",
-   "url": "https://kaulas.lt/event/96/ateik-ir-zaisk",
-   "price": "0 €",
-   "source": "Vilnius Events",
+   "id": "7c2509118b",
+   "title": "Mažylių šeštadienis",
+   "start": "2026-11-14T09:00:00.000Z",
+   "end": "2026-11-14T10:00:00.000Z",
+   "venue": "Vilniaus g. 41, 01119 Vilnius, Lithuania",
+   "address": "Vilniaus gatvė 41, LT-01119 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Kviečiame tėvelius su mažyliais šeštadienio rytą pasinerti į muzikos garsus. Atrasdami, tyrinėdami skirtingas garso prigimtis, kartu su tėveliais garsų pagalba kurdami skirtingas atmosferas, įveikdami nesudėtingas žaidimo užduotis, mažyliai minkštais žingsneliais įžengia į muziko",
+   "image": "https://cdn-az.allevents.in/events9/banners/e233a408b03b193fd41eb4b127b938cf0e98f607dde11632b1e3993fc8106eb5-rimg-w1200-h628-dcf8f8f8-gmir?v=1793008440",
+   "url": "https://allevents.in/vilnius/ma%C5%BEyli%C5%B3-%C5%A1e%C5%A1tadienis/200030916190500",
+   "source": "AllEvents",
+   "category": "kids"
+  },
+  {
+   "id": "726d3c50f1",
+   "title": "SCA kryptys | Diskusija: „Kūrybinis tandemas: prodiuseris ir režisierius“",
+   "start": "2026-11-14T09:00:00.000Z",
+   "venue": "Asociacija LATGA",
+   "address": "J. Basanavičiaus gatvė 4b, LT-01118 Vilnius, Lietuva, Vilnius, VL",
+   "description": "„SCA kryptys“ – Europos kino festivalio „Scanorama“ kino industrijos renginių programa, kviečianti profesionalus, pradedančiuosius kūrėjus ir kinu besidominčius žiūrovus gilintis į kūrybos procesus bei kino industrijos aktualijas. Susitikimuose, diskusijose ir dirbtuvėse Lietuvos",
+   "image": "https://cdn-az.allevents.in/events4/banners/c339b1ff60bf697e7e8125137ce589480e28406e455ad44010fc4cfdc239084c-rimg-w1200-h629-dc58b8e8-gmir?v=1793296241",
+   "url": "https://allevents.in/vilnius/sca-kryptys-diskusija-%E2%80%9Ek%C5%ABrybinis-tandemas-prodiuseris-ir-re%C5%BEisierius/200030935107441",
+   "source": "AllEvents",
    "category": "talk"
   },
   {
-   "id": "72457b1bf7",
-   "title": "Mezgėjų brančas ir turgelis: lapkritis",
-   "start": "2026-11-14T11:00:00+02:00",
-   "venue": "Miesto Laboratorija",
-   "address": "Antakalnio g. 17, Vilnius, Lietuva",
-   "description": "MEZGĖJŲ BRANČAS – TURGELIS GRĮŽTA! Lygiai prieš metus susitikome pirmą kartą – akys raibo nuo mezginių grožio, mezginiai keliavo į naujus namus, o kai kurie laimingai sugrįžo į senuosius. Ar kartojame? Žinoma, kartojame! Lapkričio 14 d. | 11–14 val. Miesto laboratorija Mezgėjos, ",
-   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/10/mezgeju-brancas-lapkritis.jpg",
-   "url": "https://www.facebook.com/events/1487149683012250",
-   "price": "0 €",
-   "source": "Vilnius Events",
-   "category": "expo"
-  },
-  {
-   "id": "3847c79779",
-   "title": "RE: JEWEL Dirbtuvės – antras papuošalo gyvenimas kartu su PearlBar",
-   "start": "2026-11-14T11:00:00+02:00",
-   "venue": "Pilies gatvė",
-   "address": "Pilies g. 2, Vilnius, Lietuva",
-   "description": "RE:JEWEL dirbtuvės Papuošalams – antras gyvenimas. Ar turi papuošalų, kurių jau nebenešioji, bet vis dar gaila atsisveikinti? O gal stalčiuje guli senų karolių vėrinys, nutrūkęs apyrankės siūlas ar atskiri papuošalų elementai, laukiantys savo eilės? Kviečiu į RE:JEWEL papuošalų a",
-   "image": "https://www.vilnius-events.lt/wp-content/uploads/2026/10/IMG_2930-scaled.jpeg",
-   "url": "https://facebook.com/events/s/-pearlbar-rejewel-senu-papuosa/4416823681914232/",
-   "price": "45 €",
-   "source": "Vilnius Events",
-   "category": "talk"
+   "id": "5ef2fc5fa4",
+   "title": "Pasivaikščiojimas dieną Lukiškėse lietuvių kalba",
+   "start": "2026-11-14T09:00:00.000Z",
+   "end": "2026-11-14T11:00:00.000Z",
+   "venue": "Lukiškių kalėjimas 2.0",
+   "address": "Lukiškių skg. 6, Vilnius",
+   "description": "Dar niekada pabėgti į kalėjimą nebuvo taip paprasta. Istorinis ir aukšta tvora apjuostas Lukiškių kalėjimo kompleksas kviečia pasivaikščioti. Lukiškių kalėjimas nėra atsakymas į visus klausimus. Bet kas nenorėtų jo aplankyti? Besidomintys buvusio kalėjimo kasdieniu kalinių gyveni",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/SGMLTBXBHV/pasivaiksciojimas-diena-lukiskese-lietuviu-kalba",
+   "source": "Bilietai",
+   "category": "kids"
   },
   {
    "id": "21d867ff55",
@@ -1844,20 +1898,6 @@
    "description": "Urban Essentials grįžta į Vilnių lapkričio 11–15! 🔥Kasmetinis tarptautinis festivalis sugrįžta švęsti hiphopo šokio ir kultūros įvairiaspalviškumą. Ateik šokti, stebėti šokio kovų, būti kartu ir kalbėtis – kūnu ir žodžiais. 💜Programoje penkios dienos, kupinos energijos ir judes",
    "image": "https://www.bilietai.lt/#/schema/image/1",
    "url": "https://www.bilietai.lt/renginiai/Y5RZBDB7QA/urban-essentials-2026-ziurovas-antros-dienos-bilietas",
-   "source": "Bilietai",
-   "category": "theatre"
-  },
-  {
-   "id": "c63cc92699",
-   "title": "CIRKULIACIJA: GRENSGEVAL (Belgija) | ''MURMUR''",
-   "start": "2026-11-14T10:00:00.000Z",
-   "end": "2026-11-14T11:50:00.000Z",
-   "venue": "Naujosios Vilnios kultūros centras",
-   "address": "Gerovės g. 1, Vilnius",
-   "description": "GRENSGEVAL (Belgija) | „MURMUR“ Lapkričio 13, 18:00 | Lapkričio 14, 12:00 | Naujosios Vilnios kultūros centrasTrupė: Grensgeval (Belgija)Pavadinimas: MurmurTrukmė: 50 min.Kam skirta: nuo 4 m.Aprašas:„Murmur“ – tai akrobatinis garso teatro spektaklis, kuris įtraukia pojūčius ir ža",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/OQESMNCGZD/cirkuliacija-grensgeval-belgija-murmur",
-   "price": "0 €",
    "source": "Bilietai",
    "category": "theatre"
   },
@@ -1888,30 +1928,83 @@
    "category": "kids"
   },
   {
-   "id": "ee52fc34cd",
-   "title": "FREE SALSA DAY SOCIAL + beginner lesson",
-   "start": "2026-11-14T12:30:00.000Z",
-   "end": "2026-11-14T15:00:00.000Z",
-   "venue": "Vilnius Outlet",
-   "address": "V. Pociūno g. 8,Vilnius, Lithuania, Vilnius, VL",
-   "description": "💃 NEMOKAMA SALSA DIENA VILNIUS OUTLET! 🕺 Niekada nešokai Salsos? Ateik ir išbandyk visiškai nemokamai! Jau šoki? Užsuk į dieninį Salsa vakarėlį – pasišokti, susitikti su šokėjais ir gerai praleisti šeštadienio popietę. ❤️ Mūsų formatas: 🕝 14:30 – NEMOKAMA SALSA PAMOKA PRADINUK",
-   "image": "https://cdn-az.allevents.in/events5/banners/c82666b24bbe96d16d45df54187a6c03fb73760ae34effa68c751248555e430d-rimg-w1200-h675-dce8e8c8-gmir?v=1793543008",
-   "url": "https://allevents.in/vilnius/free-salsa-day-social-beginner-lesson/200030949448828",
-   "source": "AllEvents",
-   "category": "night"
-  },
-  {
-   "id": "3b75953245",
-   "title": "''Pigmalionas/Kas tave sukūrė''",
-   "start": "2026-11-14T15:00:00.000Z",
-   "end": "2026-11-14T17:00:00.000Z",
-   "venue": "Teatro krantas",
-   "address": "Žvejų g. 2, Vilnius",
-   "description": "Spektaklis „Pigmalionas / Kas tave sukūrė“ Kas nutiktų, jei kažkas nuspręstų tave perkurti? Pakeisti tavo kalbą.Tavo išvaizdą.Tavo elgesį.Ir įrodyti, kad gali tapti visiškai kitu žmogumi.Šiuolaikiška George Bernard Shaw pjesės interpretacija, kurioje žmogus tampa eksperimentu.Gėl",
+   "id": "c63cc92699",
+   "title": "CIRKULIACIJA: GRENSGEVAL (Belgija) | ''MURMUR''",
+   "start": "2026-11-14T10:00:00.000Z",
+   "end": "2026-11-14T11:50:00.000Z",
+   "venue": "Naujosios Vilnios kultūros centras",
+   "address": "Gerovės g. 1, Vilnius",
+   "description": "GRENSGEVAL (Belgija) | „MURMUR“ Lapkričio 13, 18:00 | Lapkričio 14, 12:00 | Naujosios Vilnios kultūros centrasTrupė: Grensgeval (Belgija)Pavadinimas: MurmurTrukmė: 50 min.Kam skirta: nuo 4 m.Aprašas:„Murmur“ – tai akrobatinis garso teatro spektaklis, kuris įtraukia pojūčius ir ža",
    "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/VMVB5V2DND/pigmalionas-kas-tave-sukure",
+   "url": "https://www.bilietai.lt/renginiai/OQESMNCGZD/cirkuliacija-grensgeval-belgija-murmur",
+   "price": "0 €",
    "source": "Bilietai",
    "category": "theatre"
+  },
+  {
+   "id": "9a2b7762fc",
+   "title": "Exclusive Lukiškės Prison Experience: Story You Can Taste",
+   "start": "2026-11-14T10:00:00.000Z",
+   "end": "2026-11-14T11:30:00.000Z",
+   "venue": "Lukiškių kalėjimas 2.0",
+   "address": "Lukiškių skg. 6, Vilnius",
+   "description": "History is not only seen and heard. It can also be smelled, and from now on - tasted.A historical Lukiškės prison complex used for imprisoning people for 115 years invites you to an exclusive experience where authentic history meets a sensory culinary journey.Through the decades,",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/CG6ZVALZXX/exclusive-lukiskes-prison-experience-story-you-can-taste",
+   "source": "Bilietai",
+   "category": "other"
+  },
+  {
+   "id": "64e9886d05",
+   "title": "Šampano diena",
+   "start": "2026-11-14T10:00:00.000Z",
+   "end": "2026-11-14T19:00:00.000Z",
+   "venue": "Vilniaus Rotušė",
+   "address": "Didžioji gatvė 31, Vilnius",
+   "description": "Jau vienuoliktą kartą rengiama didžiausia Lietuvoje Šampano paroda „49 mln...“ suburia svarbiausius šalies importuotojus, pristatančius šampaną, cavą, franciacortą, crémant bei išskirtinius angliškus ir ispaniškus putojančius vynus.MALONUS PRAŠYMAS: eidami į parodą nesikvėpinkite",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/OAH3QS5BIS/sampano-diena",
+   "source": "Bilietai",
+   "category": "expo"
+  },
+  {
+   "id": "06a4c27d0c",
+   "title": "Guided prison tour in English",
+   "start": "2026-11-14T10:30:00.000Z",
+   "end": "2026-11-14T12:30:00.000Z",
+   "venue": "Lukiškių kalėjimas 2.0",
+   "address": "Lukiškių skg. 6, Vilnius",
+   "description": "Guided prison toursIt has never been so easy to escape to a prison.A historical Lukiškės prison complex used for imprisoning people for 115 years is finally welcoming you to explore life behind bars.Through the years this place was used by different regimes to lock up undesirable",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/S6FQZ33RG4/guided-prison-tour-in-english",
+   "source": "Bilietai",
+   "category": "concert"
+  },
+  {
+   "id": "2fdb9d85f5",
+   "title": "Istorinė-literatūrinė ekskursija AMOR OMNIA VINCIT arba 3 žymiausios LDK meilės istorijos",
+   "start": "2026-11-14T11:00:00.000Z",
+   "end": "2026-11-14T13:00:00.000Z",
+   "venue": "Vilniaus senamiestis",
+   "address": "Universiteto g. 3, Vilnius, Vilnius",
+   "description": "Ekskursijas veda, tarptautinį pripažinimą pelnęs didžiosiose scenose Gyvosios Istorijos spektaklių autorius. Jo “Šambalos Raiteliai” pripažinti UNESCO ir šiuo metu surenka didžiulius žiūrovų srautus ypač Azijos scenose,kur ypač vertinamas šis MANAS žanras. Marijus Tumas 1asis “Ma",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/5T4WPBS2AI/istorine-literaturine-ekskursija-amor-omnia-vincit-arba-3-zymiausios-ldk-meiles-istorijos",
+   "source": "Bilietai",
+   "category": "expo"
+  },
+  {
+   "id": "599f4a92a5",
+   "title": "WILNO - zaprasza na warsztaty z pedagogiki zabawy dla nauczycieli :)",
+   "start": "2026-11-14T14:00:00.000Z",
+   "end": "2026-11-14T17:00:00.000Z",
+   "venue": "Gimnazjum im. św. Jana Pawła II w Wilnie",
+   "address": "V. Druskio g. 11 ,Vilnius, Lithuania, Vilnius, VL",
+   "description": "WARSZTATY TANECZNE - \"Tańce na różne okazje, cz. II\" Zapraszamy na zajęcia, które mają być zachętą do aktywności ruchowej dzieci. Prowadzącym jest mgr Zbigniew Żołądziejewski – dyplomowany instruktor tańca w Ośrodku Doskonalenia Nauczycieli Bingo w Zielonej Górze. Warsztaty są sk",
+   "image": "https://cdn-az.allevents.in/events4/banners/2b537653e9ebe07b8c0bdf56bd0e225d3184d0f132df12adbeb376724b712ac0-rimg-w1200-h900-dc886848-gmir?v=1793008417",
+   "url": "https://allevents.in/vilnius/wilno-zaprasza-na-warsztaty-z-pedagogiki-zabawy-dla-nauczycieli/200030916183537",
+   "source": "AllEvents",
+   "category": "other"
   },
   {
    "id": "679b9006dd",
@@ -1923,6 +2016,19 @@
    "description": "Spektaklis „Geras tėtis“ – jaudinanti ir linksma istorija su tikra mašina scenoje!Spektaklis „Geras tėtis“, pastatytas pagal populiaraus britų rašytojo Davido Walliamso knygą, – tai nuotykių, humoro ir jaudinančių akimirkų kupina istorija apie berniuką Frenką ir jo tėtį Gilbertą.",
    "image": "https://www.bilietai.lt/#/schema/image/1",
    "url": "https://www.bilietai.lt/renginiai/TVYIUTF6E7/geras-tetis",
+   "source": "Bilietai",
+   "category": "theatre"
+  },
+  {
+   "id": "3b75953245",
+   "title": "''Pigmalionas/Kas tave sukūrė''",
+   "start": "2026-11-14T15:00:00.000Z",
+   "end": "2026-11-14T17:00:00.000Z",
+   "venue": "Teatro krantas",
+   "address": "Žvejų g. 2, Vilnius",
+   "description": "Spektaklis „Pigmalionas / Kas tave sukūrė“ Kas nutiktų, jei kažkas nuspręstų tave perkurti? Pakeisti tavo kalbą.Tavo išvaizdą.Tavo elgesį.Ir įrodyti, kad gali tapti visiškai kitu žmogumi.Šiuolaikiška George Bernard Shaw pjesės interpretacija, kurioje žmogus tampa eksperimentu.Gėl",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/VMVB5V2DND/pigmalionas-kas-tave-sukure",
    "source": "Bilietai",
    "category": "theatre"
   },
@@ -1952,6 +2058,19 @@
    "price": "0 €",
    "source": "Bilietai",
    "category": "film"
+  },
+  {
+   "id": "8c3d9d1c69",
+   "title": "EN LA YECA I Vilniaus tango teatras",
+   "start": "2026-11-14T16:30:00.000Z",
+   "end": "2026-11-14T18:00:00.000Z",
+   "venue": "La Casa Del Tango, Gedimino pr. 64",
+   "address": "Gedimino pr. 64, Vilnius",
+   "description": "TANGO EN LA YECAIntriguojantis pasimatymas su tango.Tango – tai miesto šokis, neatsiejama Buenos Airių megapolio kultūros ir naktinio gyvenimo dalis. Jis gimė gatvėje – ten, kur liejosi jausmai, kur skambėjo muzika, kur aistra ir nostalgija tapo neatskiriama kasdienybės dalimi. T",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/HU7FCHZAMZ/en-la-yeca-i-vilniaus-tango-teatras",
+   "source": "Bilietai",
+   "category": "theatre"
   },
   {
    "id": "32c991090b",
@@ -2006,6 +2125,30 @@
    "category": "concert"
   },
   {
+   "id": "86355dbc87",
+   "title": "BLOOD + SUN | SOCIETY OF THE SILVER CROSS | LINNEA HJERTÉN | SODAS 2123",
+   "start": "2026-11-14T17:00:00.000Z",
+   "venue": "SODAS 2123",
+   "address": "Vitebsko gatvė 23, LT-11350 Vilnius, Lietuva, Vilnius, VL",
+   "description": "EN BELOW Aetheric Recordings pristato Lapkričio 14 d., Sodas2123 Durys 19:00 Muzika 20:00 Bilietai parduodami tik prie įėjimo. 20 €. Blood and Sun – tai tamsiojo folkloro (dark folk) projektas, kurio autorius ir branduolys – Luke Tromiczak, kūrinius atliekantis kartu su besikeiči",
+   "image": "https://cdn-az.allevents.in/events5/banners/b6b667e7c9fd65ddc01133f26f5cf2d911a01762de1ab4877c872b81db603029-rimg-w1200-h628-dc080808-gmir?v=1788695625",
+   "url": "https://allevents.in/vilnius/blood-sun-society-of-the-silver-cross-linnea-hjert%C3%89n-sodas-2123/200030554251132",
+   "source": "AllEvents",
+   "category": "concert"
+  },
+  {
+   "id": "d58ed2bb0f",
+   "title": "Club Italiano #11 Italian 60s Beat 🔴🟢🟡🔵 🎶🇮🇹",
+   "start": "2026-11-14T17:00:00.000Z",
+   "venue": "Baltas Ūsas",
+   "address": "Šv. Ignoto gatvė 16, LT-01144 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Renginys vyks lietuvių, anglų, lietuvių ir italų kalbomis. Lietuviškas vertimas žemiau 🇱🇹 ⬇️ 🇮🇹 Club Italiano #11: Italian 60s Beat 🎶🇮🇹🌼 Ciao, amici. This November, Club Italiano is going back to the 60s. Not 1860. 1960. Think La Dolce Vita, Vespas, sunglasses, miniskirts",
+   "image": "https://cdn-az.allevents.in/events9/banners/59a29f986b6988586da46c2bdd63d71a74b57317372603f3e73037dc902b4739-rimg-w1200-h675-dcf89828-gmir?v=1793008392",
+   "url": "https://allevents.in/vilnius/club-italiano-11-italian-60s-beat/200030916176112",
+   "source": "AllEvents",
+   "category": "night"
+  },
+  {
    "id": "ef909dacd3",
    "title": "ŠVIESOS MUZIKA | Hector Berlioz Fantastinė simfonija",
    "start": "2026-11-14T17:00:00.000Z",
@@ -2016,6 +2159,44 @@
    "image": "https://www.bilietai.lt/#/schema/image/1",
    "url": "https://www.bilietai.lt/renginiai/GXSSWA2DFY/sviesos-muzika-hector-berlioz-fantastine-simfonija",
    "source": "Bilietai",
+   "category": "concert"
+  },
+  {
+   "id": "9e9a0a57c1",
+   "title": "Naubertas Jasinskas. VELNIO NUOTAKA, rež. Naubertas Jasinskas",
+   "start": "2026-11-14T17:00:00.000Z",
+   "end": "2026-11-14T20:00:00.000Z",
+   "venue": "Lietuvos nacionalinis dramos teatras",
+   "address": "Gedimino pr. 4, Vilnius",
+   "description": "Dramaturgas, režisierius — Naubertas JASINSKASDramaturgijos konsultantė — Marija KAVTARADZEScenografė — Sigita ŠIMKŪNAITĖKostiumų dailininkė — Sandra STRAUKAITĖKompozitoriai — Dominykas DIGIMAS, Miglė PALKEVIČIŪTĖ-MIGLUMAChoreografė — Oksana GRIAZNOVAŠviesos dailininkas — Dainius",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/AAZ7VGSPHM/naubertas-jasinskas-velnio-nuotaka-rez-naubertas-jasinskas",
+   "source": "Bilietai",
+   "category": "theatre"
+  },
+  {
+   "id": "1f7ded228f",
+   "title": "Dideli pinigai / Большие деньги",
+   "start": "2026-11-14T17:00:00.000Z",
+   "end": "2026-11-14T19:20:00.000Z",
+   "venue": "Vilniaus lenkų kultūros namai",
+   "address": "Naugarduko g. 76, Vilnius",
+   "description": "„Dideli pinigai“Itin juokinga dviejų veiksmų komedija „Dideli pinigai“. Tikra dovana lengvų komedijų mėgėjams! Juoksis visi – nuo 12 iki 112 metų. Septyni aktoriai scenoje suvaidins svaiginančią istoriją. Pagrindinis herojus, paprastas tarnautojas, netikėtai tampa milijonieriumi.",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/ZS2WIPJDIC/dideli-pinigai-bolsie-dengi",
+   "source": "Bilietai",
+   "category": "theatre"
+  },
+  {
+   "id": "a9438c3ee1",
+   "title": "Mindaugas Stumbras Trio",
+   "start": "2026-11-14T17:30:00.000Z",
+   "venue": "Muzikos stotis",
+   "address": "Geležinkelio gatvė 6, LT-02100 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Subtili džiazo estetika, asmeninės istorijos ir veržli improvizacijos laisvė – pasiruoškite įtraukiančiai muzikos kelionei! Kviečiame išgirsti vieno ryškiausių Lietuvos gitaristų - Mindaugo Stumbro trio gyvai ir patirti unikalų koncertą, kuriame kiekvienas kūrinys pasakoja savo i",
+   "image": "https://cdn-az.allevents.in/events5/banners/55a848b2b5701b5621454bc63955831a500d9abcb71db0829b5844fd7e299777-rimg-w1200-h628-dc080808-gmir?v=1792188133",
+   "url": "https://allevents.in/vilnius/mindaugas-stumbras-trio/200030844984415",
+   "source": "AllEvents",
    "category": "concert"
   },
   {
@@ -2031,14 +2212,26 @@
    "category": "concert"
   },
   {
-   "id": "c9c31aff86",
-   "title": "AFTER PARTY | DJ Très Sticky x DJ Mab’ish x DJ KhanFu x DJ Lucas Benjamin",
+   "id": "8a668add49",
+   "title": "SIPAS + ARKLIO GALIA | TAMSTA",
+   "start": "2026-11-14T18:00:00.000Z",
+   "venue": "A. Strazdelio g. 1, Vilnius, 02102 Vilnius, Lithuania",
+   "address": "A. Strazdelio gatvė 1, LT-02102 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Lapkričio keturioliktąją Tamstoje rėksningomis triukšmadarystėmis užsiims dvi skirtingos, bet taip pat sunkiai suvaldomos ketveriukės iš paralelinio Lietuvos alternatyvios muzikos pasaulio. Žviegs gitaros, baubs bosai, dundės būgnai, o mikrofonų membranas kankins baisiausios voka",
+   "image": "https://cdn-az.allevents.in/events5/banners/fcfc9f4262ac0c226b283e26484c1ab2c0c5592cb4b98d0e1f72e380fdcab362-rimg-w1200-h531-dc281838-gmir?v=1791822381",
+   "url": "https://allevents.in/vilnius/sipas-arklio-galia-tamsta/200030826344522",
+   "source": "AllEvents",
+   "category": "night"
+  },
+  {
+   "id": "f0ee12e92c",
+   "title": "🎸🇪🇸 SPANISH GUITAR NIGHT AT TIKI TAKA! ❤️‍🔥",
    "start": "2026-11-14T19:00:00.000Z",
-   "venue": "Lukiškių kalėjimas 2.0",
-   "address": "Lukiškių skersgatvis 6, LT-01108 Vilnius, Lietuva, Vilnius, VL",
-   "description": "The 2vs2 battles may be over, but the dancing doesn’t stop! 🌪️ Join us at Kupolas for a night with a stellar DJ line-up behind the decks. DJ Mab’ish (FR/BE), DJ KhanFu (UK), DJ Lucas Benjamin (NL) & DJ Très Sticky (LT) will be spinning tracks to keep the energy high and your fee",
-   "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy9hOThkZGViMDllZTI4NzgyNjc5MTlkZWJkNzFiNmQzYzI0NWU0ZWE1ZmQzYjMzMDIzZjllYjVhM2YzN2M4NDE2LXJpbWctdzEyMDAtaDYyOC1kYzY4Mjg4OC1nbWlyP3Y9MTc5NDE1MzE1OQ.avif",
-   "url": "https://allevents.in/vilnius/after-party-dj-tr%C3%A8s-sticky-x-dj-mabish-x-dj-khanfu-x-dj-lucas-benjamin/200031001774139",
+   "venue": "Goštauto g. 8, 01108 Vilnius, Lithuania",
+   "address": "A. Goštauto gatvė 8, LT-01108 Vilnius, Lietuva, Vilnius, VL",
+   "description": "🎸🇪🇸 SPANISH GUITAR NIGHT AT TIKI TAKA! ❤️‍🔥 Get ready for an unforgettable evening of Spanish music, beautiful guitar melodies, and the passion of Spain! 💃🔥 On November 14th at 21:00, join us at Tiki Taka for a special live concert featuring Marcos & Nico, two artists from ",
+   "image": "https://cdn-az.allevents.in/events4/banners/f383f617800376d5f83b473ed998805c28e603ebabbf012370ed0d8e676cee87-rimg-w1200-h675-dc080808-gmir?v=1792860298",
+   "url": "https://allevents.in/vilnius/spanish-guitar-night-at-tiki-taka/200030903964658",
    "source": "AllEvents",
    "category": "night"
   },
@@ -2054,6 +2247,31 @@
    "url": "https://allevents.in/vilnius/kavabanga-depo-kolibri-in-vilnius/3300030725300941",
    "source": "AllEvents",
    "category": "expo"
+  },
+  {
+   "id": "fc1d256703",
+   "title": "KAVABANGA DEPO KOLIBRI",
+   "start": "2026-11-14T20:00:00.000Z",
+   "venue": "Žirmūnų g. 106D, Вильнюс, Литва",
+   "address": "Žirmūnų gatvė 106d, LT-09121 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Apie renginį Lapkričio 14 d. 23:00 „Studio 23“ scenoje – Kavabanga Depo Kolibri. Legendinis trio iš Ukrainos, daugiau nei 12 metų kuriantis muziką, kuri surinko milijonus perklausų ir pelnė ištikimų gerbėjų visoje Europoje. Vakaro metu skambės didžiausi hitai ir naujausi kūriniai",
+   "image": "https://cdn-az.allevents.in/events9/banners/a58543a6f1c19014be60515eb605c41626120ffd1b762e69d50319b07fa3b6fe-rimg-w1080-h1350-dc080808-gmir?v=1793008447",
+   "url": "https://allevents.in/vilnius/kavabanga-depo-kolibri/200030916192807",
+   "source": "AllEvents",
+   "category": "concert"
+  },
+  {
+   "id": "52cb2513fa",
+   "title": "IŠPARDUOTA I NEREGĖTAS PASAULIS | interaktyvus šokio spektaklis 6-18 mėn. mažyliams",
+   "start": "2026-11-15T09:00:00.000Z",
+   "end": "2026-11-15T10:45:00.000Z",
+   "venue": "Menų spaustuvė/ Arts Printing House",
+   "address": "Šiltadaržio gatvė 6, LT-01124 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Detalės sudaro visumą, kontrastai kuria dinamiką, judesiai veda į šokį. Taip aplinkinį pasaulį ir gyvenimą suvokia kūdikiai. Interaktyvus, sensoriškai draugiškas šokio spektaklis „Neregėtas pasaulis“ yra kupinas įvairiausių judesių, spalvų ir paviršių, žadinančių mažylių pojūčius",
+   "image": "https://cdn-az.allevents.in/events3/banners/4669d679bd6b1836feeec6200da638bb0848f452cd081cf6d9e3ecd9654904dd-rimg-w1200-h800-dc080808-gmir?v=1792092379",
+   "url": "https://allevents.in/vilnius/i%C5%A0parduota-i-nereg%C4%96tas-pasaulis-interaktyvus-%C5%A1okio-spektaklis-6-18-m%C4%97n-ma%C5%BEyliams/200030839063020",
+   "source": "AllEvents",
+   "category": "kids"
   },
   {
    "id": "4bffe226d5",
@@ -2113,11 +2331,11 @@
    "start": "2026-11-15T14:00:00.000Z",
    "end": "2026-11-15T16:00:00.000Z",
    "venue": "Muzikos magijos klubas",
-   "address": "Šv. Stepono g. 12, Vilnius",
+   "address": "Domus Cupri, Šv. Stepono gatvė, LT-01138 Vilnius, Lietuva, Vilnius, VL",
    "description": "Klasika, avangardas, džiazas, elektroninė muzika... Šios etiketės padeda orientuotis muzikos pasaulyje, tačiau kartais ir trukdo. Išgirdę nepažįstamo žanro pavadinimą, neretai iš anksto nusprendžiame: „Tai ne man.“ O juk už jo gali slypėti muzika, kuri mus nustebintų, sujaudintų ",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/Y3TYAMBBY4/perzengiant-zanru-ribas-irasu-perklausa",
-   "source": "Bilietai",
+   "image": "https://cdn-az.allevents.in/events7/banners/dae5820022a252bd96301b94381a70950a8f49d66991452a860718e49ef0a6ca-rimg-w1200-h628-dc083838-gmir?v=1793294321",
+   "url": "https://allevents.in/vilnius/per%C5%BEengiant-%C5%BEanr%C5%B3-ribas-%C4%AFra%C5%A1%C5%B3-perklausa/200030935007642",
+   "source": "AllEvents",
    "category": "night"
   },
   {
@@ -2147,6 +2365,18 @@
    "category": "theatre"
   },
   {
+   "id": "37dee21279",
+   "title": "CLAUDIO JACOMUCCI (Italija) | Akordeono garsinės tapatybės transformacijos",
+   "start": "2026-11-15T16:00:00.000Z",
+   "venue": "LMTA Lietuvos muzikos ir teatro akademija",
+   "address": "Gedimino prospektas 42, LT-01110 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Italų akordeonistas ir kompozitorius Claudio Jacomucci žengia gerokai toliau nei įprastos instrumento atlikimo technikos. Jo kūrybiniai ieškojimai atvedė prie unikalaus, paties suprojektuoto ir pagaminto mikrotoninio bei preparuoto akordeono prototipo, atveriančio iki šiol akorde",
+   "image": "https://cdn-az.allevents.in/events8/banners/1d00bd0a74e0dc9894f6806f788006e2611c2d78c4961e5599382fd223d1db88-rimg-w1200-h675-dc080808-gmir?v=1793008390",
+   "url": "https://allevents.in/vilnius/claudio-jacomucci-italija-akordeono-garsin%C4%97s-tapatyb%C4%97s-transformacijos/200030916175711",
+   "source": "AllEvents",
+   "category": "theatre"
+  },
+  {
    "id": "d6aa551d07",
    "title": "Urban Essentials 2026 | Šokio spektaklis GROOVE | Jonas Frey (Vokietija)",
    "start": "2026-11-15T16:00:00.000Z",
@@ -2158,6 +2388,18 @@
    "url": "https://www.bilietai.lt/renginiai/ERDCDDESVC/urban-essentials-2026-sokio-spektaklis-groove-jonas-frey-vokietija",
    "source": "Bilietai",
    "category": "theatre"
+  },
+  {
+   "id": "03c8b4040a",
+   "title": ",,Ašara Dievo aky\" Just.Marcinkevičiaus kūrybos vakaras",
+   "start": "2026-11-15T17:00:00.000Z",
+   "venue": "LVSO koncertų salė",
+   "address": "Vilniaus gatvė 6, LT-01102 Vilnius, Lietuva, Vilnius, VL",
+   "description": "\"Tautos sąžine\", \"širdžių poetu\" vadinto poeto - Justino Marcinkevičiaus kūrybai atminti skirtas vakaras. Skambės visų pamėgtos poeto eilės ir jo eilėmis parašytos dainos. Tai vakaras, kurio neužmiršta nei vienas, tai vakaras, kuris paliečia kiekvieno atėjusio širdį, Ateikite, pr",
+   "image": "https://cdn-az.allevents.in/events8/banners/054664320634d97c2fe2c24eb015b3dadf0d4a1984b3065399726bd09dcc5f2f-rimg-w1200-h337-dcb8b8a8-gmir?v=1788707123",
+   "url": "https://allevents.in/vilnius/a%C5%A1ara-dievo-aky-justmarcinkevi%C4%8Diaus-k%C5%ABrybos-vakaras/200030570904227",
+   "source": "AllEvents",
+   "category": "concert"
   },
   {
    "id": "7bed808f7f",
@@ -2184,6 +2426,18 @@
    "category": "night"
   },
   {
+   "id": "bfe2009382",
+   "title": "Tarptautinis baleto simpoziumas 2026",
+   "start": "2026-11-16T10:00:00.000Z",
+   "venue": "Lietuvos nacionalinis operos ir baleto teatras",
+   "address": "A. Vienuolio gatvė 1, LT-01104 Vilnius, Lietuva, Vilnius, VL",
+   "description": "2026 m. lapkričio 16 d. Lietuvos nacionaliniame operos ir baleto teatre vyksiantis Tarptautinis baleto simpoziumas skirtas baleto artistų fizinei ir psichologinei sveikatai stiprinti, traumų prevencijai, profesiniam meistriškumui bei tvariam karjeros planavimui. PROGRAMA ir REGIS",
+   "image": "https://cdn-az.allevents.in/events2/banners/5eaf6efcf516e2ae8d6a57946154a5b7c63b666b0ac7e536ce054c449f3aa82e-rimg-w1200-h628-dc080808-gmir?v=1793296474",
+   "url": "https://allevents.in/vilnius/tarptautinis-baleto-simpoziumas-2026/200030935120234",
+   "source": "AllEvents",
+   "category": "theatre"
+  },
+  {
    "id": "fca3f14881",
    "title": "K-POP FOREVER!",
    "start": "2026-11-16T17:00:00.000Z",
@@ -2195,6 +2449,18 @@
    "url": "https://www.bilietai.lt/renginiai/WZGI55ICCC/k-pop-forever",
    "source": "Bilietai",
    "category": "expo"
+  },
+  {
+   "id": "6c2d98e7c7",
+   "title": "Svečias iš Italijos: Renzo Ruggieri (akordeonas) meistriškumo kursai ir seminaras",
+   "start": "2026-11-17T11:00:00.000Z",
+   "venue": "Gedimino pr. 42, LT-01110 Vilnius, Lithuania",
+   "address": "Gedimino prospektas 42, LT-01110 Vilnius, Lietuva, Vilnius, VL",
+   "description": "2026 m. lapkričio 17 d., antradienį, 13:00–14:30 val. LMTA Didžiojoje salėje (Gedimino pr. 42, Vilnius) SVEČIAS IŠ ITALIJOS: RENZO RUGGIERI (AKORDEONAS) Meistriškumo kursai ir seminaras I DALIS Renzo Ruggieri kūrinio darbas su LMTA akordeonų orkestru II DALIS Seminaras „Džiazo su",
+   "image": "https://cdn-az.allevents.in/events1/banners/2c1c2a396e5633821221ead034d07c1afbae2eee94175977d8cbc948989b0c2c-rimg-w1200-h628-dc080848-gmir?v=1794334499",
+   "url": "https://allevents.in/vilnius/sve%C4%8Dias-i%C5%A1-italijos-renzo-ruggieri-akordeonas-meistri%C5%A1kumo-kursai-ir-seminaras/200031019617159",
+   "source": "AllEvents",
+   "category": "talk"
   },
   {
    "id": "c24324b749",
@@ -2210,6 +2476,31 @@
    "category": "kids"
   },
   {
+   "id": "29a5e75037",
+   "title": "Vilnius JUG Meetup #95",
+   "start": "2026-11-17T16:30:00.000Z",
+   "end": "2026-11-17T18:00:00.000Z",
+   "venue": "Didžioji gatvė 28, LT-01128 Vilnius, Lietuva",
+   "address": "Didžioji gatvė 28, LT-01128 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Talks (Event language - ENGLISH): Bruno Souza, a recognized Java Evangelist and Java Champion, as well as a board member of the Java Community Process, founder and lead of SouJava, the Brazilian Java Users Society will be back at Vilnius JUG. Since 1995, he has been helping Java ",
+   "image": "https://cdn-az.allevents.in/events10/banners/5bf13f8c0b560bc864625ebafc9ed97f0e148f6c7a6af326c6d5b7136b97c562-rimg-w1200-h675-dc181818-gmir?v=1794313417",
+   "url": "https://allevents.in/vilnius/vilnius-jug-meetup-95/200031018000438",
+   "source": "AllEvents",
+   "category": "talk"
+  },
+  {
+   "id": "a0ae0b9dc6",
+   "title": "„Drogi do wolności” – koncert muzyki polskiej",
+   "start": "2026-11-17T16:30:00.000Z",
+   "venue": "Naugarduko 76, 03202 Vilnius, Lithuania",
+   "address": "Naugarduko gatvė 76, LT-03203 Vilnius, Lietuva, Vilnius, VL",
+   "description": "🇵🇱🤝🇱🇹 Jedna scena. Artyści z Polski i Litwy. Różne pokolenia, doświadczenia i muzyczne wrażliwości. 17 listopada połączy ich polska muzyka – ta, która przez wieki opowiadała o tęsknocie, nadziei, pamięci i pragnieniu wolności. Koncert „Drogi do wolności” będzie wyjątkowym sp",
+   "image": "https://cdn-az.allevents.in/events4/banners/026d98e992fb375a25bcd4a413a8e0024983770d7244465675aa383a42fb6bee-rimg-w1200-h630-dc080808-gmir?v=1793296493",
+   "url": "https://allevents.in/vilnius/%E2%80%9Edrogi-do-wolno%C5%9Bci-koncert-muzyki-polskiej/200030935122953",
+   "source": "AllEvents",
+   "category": "concert"
+  },
+  {
    "id": "e6cd9bfefe",
    "title": "K-Pop Forever! | Vilnius | Papildomas pasirodymas",
    "start": "2026-11-17T17:00:00.000Z",
@@ -2222,17 +2513,41 @@
    "category": "expo"
   },
   {
-   "id": "94a4fff4d2",
-   "title": "KEISTUOLIAI | Aido Giniočio solinis koncertas",
+   "id": "151599214c",
+   "title": "Con:trust – nuo Mocarto iki Edo Sheerano. Be ribų.",
    "start": "2026-11-17T17:00:00.000Z",
-   "end": "2026-11-17T18:30:00.000Z",
-   "venue": "Keistuolių teatras",
-   "address": "Laisvės pr. 60, Vilnius",
-   "description": "Režisierius, aktorius Aidas Giniotis – visiems gerai pažįstamas tekstų bei dainų kūrėjas savo solo koncertą po ilgo laiko sugros Vilniuje, Keistuolių teatre. Atvirai ir nuoširdžiai, šmaikščiai ir betarpiškai skambės dainos iš Keistuolių teatro legendinių spektaklių, visiems gerai",
+   "venue": "Šv. Kotrynos bažnyčia. Renginių salė",
+   "address": "Vynine Kotryna, Klaipėdos gatvė, LT-01117 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Kas nutinka, kai du akordeonistai nusprendžia nepaisyti muzikos žanrų ribų? Kai W. A. Mozart elegancija susitinka su Ed Sheeran ritmais, romantika – su šiuolaikinės muzikos eksperimentais, o visame pasaulyje atpažįstamos melodijos įgauna netikėtą skambesį? Atsakymą lapkričio 17-ą",
+   "image": "https://cdn-az.allevents.in/events10/banners/2345dbcd826b03c58054f6d32582ae33ca933123a3976da3777bd4063758a3bf-rimg-w1200-h675-dc080808-gmir?v=1792819946",
+   "url": "https://allevents.in/vilnius/con-trust-nuo-mocarto-iki-edo-sheerano-be-rib%C5%B3/200030899645127",
+   "source": "AllEvents",
+   "category": "expo"
+  },
+  {
+   "id": "baa2dd758c",
+   "title": "Šedevrų Verpetas collective (Ukraina/Lietuva) | „Tracing the Bounded“ Premjera! | Vilnius",
+   "start": "2026-11-17T17:00:00.000Z",
+   "venue": "Naujosios Vilnios kultūros centras",
+   "address": "Gerovės g. 1,Vilnius, Lithuania, Vilnius, VL",
+   "description": "„Tracing the Bounded“ – judesio spektaklis ir instaliacija, tyrinėjanti liminalumą kaip transformacijos, dezorientacijos ir virsmo erdvę. Derindamas šiuolaikinį šokį, cirką ir vizualiąją instaliaciją, kūrinys nagrinėja, kaip pereinamosiose būsenose – tiek asmeninėse, tiek kolekty",
+   "image": "https://cdn-az.allevents.in/events10/banners/b5599a1966dd1b8ee5142fea27d57479c9badb537be4f90bbde1d5ed6af34c17-rimg-w1200-h628-dcf8f8e8-gmir?v=1791123339",
+   "url": "https://allevents.in/vilnius/%C5%A0edevr%C5%B3-verpetas-collective-ukraina-lietuva-%E2%80%9Etracing-the-bounded-premjera-vilnius/200030772374840",
+   "source": "AllEvents",
+   "category": "film"
+  },
+  {
+   "id": "3eb76eef1a",
+   "title": "K-POP FOREVER!",
+   "start": "2026-11-17T17:00:00.000Z",
+   "end": "2026-11-17T19:00:00.000Z",
+   "venue": "COMPENSA koncertų salė",
+   "address": "Kernavės g. 84, Vilnius",
+   "description": "Lapkričio 17 d. skelbiamas papildomas „K-Pop Forever!“ pasirodymas Vilniuje!Lapkričio 16 ir 17 d. Vilniuje, koncertų salėje „Compensa“, bus surengtas įspūdingas, energijos kupinas šou „K-Pop Forever!“. Pirmą kartą į Lietuvą atvyksiantis projektas žada tikrą šiuolaikinės popkultūr",
    "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/4W4SHXK37D/keistuoliai-aido-giniocio-solinis-koncertas",
+   "url": "https://www.bilietai.lt/renginiai/VSJ5IISNL4/k-pop-forever",
    "source": "Bilietai",
-   "category": "concert"
+   "category": "expo"
   },
   {
    "id": "95ae5178bf",
@@ -2248,17 +2563,17 @@
    "category": "concert"
   },
   {
-   "id": "3eb76eef1a",
-   "title": "K-POP FOREVER!",
+   "id": "94a4fff4d2",
+   "title": "KEISTUOLIAI | Aido Giniočio solinis koncertas",
    "start": "2026-11-17T17:00:00.000Z",
-   "end": "2026-11-17T19:00:00.000Z",
-   "venue": "COMPENSA koncertų salė",
-   "address": "Kernavės g. 84, Vilnius",
-   "description": "Lapkričio 17 d. skelbiamas papildomas „K-Pop Forever!“ pasirodymas Vilniuje!Lapkričio 16 ir 17 d. Vilniuje, koncertų salėje „Compensa“, bus surengtas įspūdingas, energijos kupinas šou „K-Pop Forever!“. Pirmą kartą į Lietuvą atvyksiantis projektas žada tikrą šiuolaikinės popkultūr",
+   "end": "2026-11-17T18:30:00.000Z",
+   "venue": "Keistuolių teatras",
+   "address": "Laisvės pr. 60, Vilnius",
+   "description": "Režisierius, aktorius Aidas Giniotis – visiems gerai pažįstamas tekstų bei dainų kūrėjas savo solo koncertą po ilgo laiko sugros Vilniuje, Keistuolių teatre. Atvirai ir nuoširdžiai, šmaikščiai ir betarpiškai skambės dainos iš Keistuolių teatro legendinių spektaklių, visiems gerai",
    "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/VSJ5IISNL4/k-pop-forever",
+   "url": "https://www.bilietai.lt/renginiai/4W4SHXK37D/keistuoliai-aido-giniocio-solinis-koncertas",
    "source": "Bilietai",
-   "category": "expo"
+   "category": "concert"
   },
   {
    "id": "492d34bb43",
@@ -2336,6 +2651,31 @@
    "category": "film"
   },
   {
+   "id": "7d6044f7a8",
+   "title": "🎶 Handpan for beginners: an introductory class in English 🇺🇸",
+   "start": "2026-11-18T16:30:00.000Z",
+   "end": "2026-11-18T18:30:00.000Z",
+   "venue": "Lietuvos Handpan Akademija",
+   "address": "Savanorių prospektas 18, LT-03159 Vilnius, Lietuva, Vilnius, VL",
+   "description": "🎶 HANDPAN FOR BEGINNERS: AN INTRODUCTORY CLASS IN ENGLISH Have you never played a musical instrument before? That’s absolutely fine! You can discover the handpan completely from scratch. All you need is curiosity and a willingness to try something new. On November 18 at 18:30, I",
+   "image": "https://cdn-az.allevents.in/events5/banners/a6db4a1a70e7950d2139ed9ed6f2d949bff58c44d80780187690a31dc9322ea9-rimg-w1200-h800-dca8a8a8-gmir?v=1793008395",
+   "url": "https://allevents.in/vilnius/handpan-for-beginners-an-introductory-class-in-english/200030916177115",
+   "source": "AllEvents",
+   "category": "theatre"
+  },
+  {
+   "id": "625a064b8e",
+   "title": "Menininko ir kino kūrėjo dr. Ondřej Vavrečka (Čekija) paskaita „Intelektuariumas“",
+   "start": "2026-11-18T16:30:00.000Z",
+   "venue": "Gedimino pr. 42, LT-01110 Vilnius, Lithuania",
+   "address": "Gedimino prospektas 42, LT-01110 Vilnius, Lietuva, Vilnius, VL",
+   "description": "2026 m. lapkričio 18 d., trečiadienį, 18:30–20:30 val. LMTA Juliaus Juzeliūno erdvinio garso sferoje (Gedimino pr. 42, Vilnius, III a.) MENININKO IR KINO KŪRĖJO DR. ONDŘEJ VAVREČKA (ČEKIJA) PASKAITA „INTELEKTUARIUMAS“ Menininko ir kino kūrėjo Ondřej Vavrečka (FAMU, Čekija) paskai",
+   "image": "https://cdn-az.allevents.in/events4/banners/55d7b4e0051bf560b84605ddb1c77b656589d1acc6c75d8516cadc8ec3f19746-rimg-w1200-h628-dce84828-gmir?v=1793313618",
+   "url": "https://allevents.in/vilnius/menininko-ir-kino-k%C5%ABr%C4%97jo-dr-ond%C5%99ej-vavre%C4%8Dka-%C4%8Cekija-paskaita-%E2%80%9Eintelektuariumas/200030936224618",
+   "source": "AllEvents",
+   "category": "film"
+  },
+  {
    "id": "46f4fd552f",
    "title": "MKČ26 | Festivalio atidarymo koncertas Vilniuje | Fortepijono legenda CYPRIEN KATSARIS",
    "start": "2026-11-18T17:00:00.000Z",
@@ -2346,19 +2686,6 @@
    "url": "https://allevents.in/vilnius/mk%C4%8C26-festivalio-atidarymo-koncertas-vilniuje-fortepijono-legenda-cyprien-katsaris/200029933310549",
    "source": "AllEvents",
    "category": "expo"
-  },
-  {
-   "id": "951b7bd278",
-   "title": "Nino Katamadze and Band",
-   "start": "2026-11-18T17:00:00.000Z",
-   "end": "2026-11-18T19:00:00.000Z",
-   "venue": "LVSO koncertų salė",
-   "address": "Vilniaus g. 6, Vilnius",
-   "description": "Nino Katamadzė – viena geriausių gruzinų dainininkių, dainų autorių ir kompozitorių. Pasaulinės muzikos žvaigždė, išaugusi nuo džiazo standartų iki unikalaus, nepriklausomo dainavimo stiliaus. „Olei“, „Once in the Street“, „Beauty“, „Will Come as Snow“, „Suliko“ – kiekvieną iš ši",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/BLA47YZ2K5/nino-katamadze-and-band",
-   "source": "Bilietai",
-   "category": "concert"
   },
   {
    "id": "d45de12bee",
@@ -2372,6 +2699,19 @@
    "url": "https://www.bilietai.lt/renginiai/J657OPAUZG/vaida-striaupaite-beinariene-tarp-penkliniu-autorinis-vakaras",
    "source": "Bilietai",
    "category": "night"
+  },
+  {
+   "id": "951b7bd278",
+   "title": "Nino Katamadze and Band",
+   "start": "2026-11-18T17:00:00.000Z",
+   "end": "2026-11-18T19:00:00.000Z",
+   "venue": "LVSO koncertų salė",
+   "address": "Vilniaus g. 6, Vilnius",
+   "description": "Nino Katamadzė – viena geriausių gruzinų dainininkių, dainų autorių ir kompozitorių. Pasaulinės muzikos žvaigždė, išaugusi nuo džiazo standartų iki unikalaus, nepriklausomo dainavimo stiliaus. „Olei“, „Once in the Street“, „Beauty“, „Will Come as Snow“, „Suliko“ – kiekvieną iš ši",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/BLA47YZ2K5/nino-katamadze-and-band",
+   "source": "Bilietai",
+   "category": "concert"
   },
   {
    "id": "014519c7ca",
@@ -2452,6 +2792,18 @@
    "category": "kids"
   },
   {
+   "id": "b31117b22e",
+   "title": "„Dialogai su Čiurlioniu“ | Povilas Ušinskis",
+   "start": "2026-11-19T16:00:00.000Z",
+   "venue": "Savičiaus g. 11, 01013 Vilnius, Lithuania",
+   "address": "Savičiaus gatvė 11, LT-01127 Vilnius, Lietuva, Vilnius, VL",
+   "description": "2026-ųjų koncertų ciklą „Dialogai su Čiurlioniu“ užbaigs pianistas Povilas Ušinskis. Lapkričio 19 d. M. K. Čiurlionio namuose jis pristatys programą, skirtą M. K. Čiurlionio muzikai ir žodžiui. 🎹 Koncerto programoje skambės M. K. Čiurlionio fortepijoninė kūryba iš skirtingų jo k",
+   "image": "https://cdn-az.allevents.in/events6/banners/874068ce56873a2422840014584a2cef94823b18a61857bf6c90e8f4b0ec8478-rimg-w1200-h676-dc584848-gmir?v=1793008387",
+   "url": "https://allevents.in/vilnius/%E2%80%9Edialogai-su-%C4%8Ciurlioniu-povilas-u%C5%A1inskis/200030916174807",
+   "source": "AllEvents",
+   "category": "concert"
+  },
+  {
    "id": "6bef5ab16e",
    "title": "Napalm Death [UK] / Master (US/CZ) / Brat [US] / Goatburner [FI] // Loftas // 11.19",
    "start": "2026-11-19T17:00:00.000Z",
@@ -2463,6 +2815,30 @@
    "url": "https://allevents.in/vilnius/napalm-death-uk-master-us-cz-brat-us-goatburner-fi-loftas-1119/200030041339036",
    "source": "AllEvents",
    "category": "night"
+  },
+  {
+   "id": "981f9444d5",
+   "title": "Live Music Evening",
+   "start": "2026-11-19T17:00:00.000Z",
+   "venue": "Gediminas Ave. 7, Vilnius, Vilnius, Lithuania",
+   "address": "Gedimino prospektas 7, LT-01103 Vilnius, Lietuva, Vilnius, VL",
+   "description": "🚨Stop right there! You have been Caught Red-Handed! We all know you were there, caught in the middle of the act. But this time, there's no escaping the rhythm. It is an event that would truly be a crime to miss. It is all going to be about mystery that takes the lead, talented a",
+   "image": "https://cdn-az.allevents.in/events9/banners/c55f9f4813279b6e1cdd347b6adf3325eb4acc87360339571d562e0358327448-rimg-w1200-h675-dc080808-gmir?v=1794010157",
+   "url": "https://allevents.in/vilnius/live-music-evening/200030990422017",
+   "source": "AllEvents",
+   "category": "concert"
+  },
+  {
+   "id": "87ce834e8f",
+   "title": "PREMJERA ,,NIEKADA TAVĘS NEPALIKSIU”",
+   "start": "2026-11-19T17:00:00.000Z",
+   "venue": "Žvejų g. 2, 09310 Vilnius, Lithuania",
+   "address": "Žvejų gatvė 14a, LT-09310 Vilnius, Lietuva, Vilnius, VL",
+   "description": "🎭Premjera ,,Niekada tavęs nepaliksiu\"!🎭 Pagal Kristinos Gudonytės pjesę sukurtame spektaklyje susitinka gyvieji ir mirusieji, praeitis ir dabartis, skirtingos kartos bei jų požiūriai į meilę, laisvę ir gyvenimo prasmę. Pagrindinė herojė Indrė netikėtai susiduria su savo mirusio",
+   "image": "https://cdn-az.allevents.in/events8/banners/23f023755ad708e396d961e7f56fd4b4f971c9e1087997fcf13b21cf2f1f59be-rimg-w851-h315-dc180838-gmir?v=1792860278",
+   "url": "https://allevents.in/vilnius/premjera-niekada-tav%C4%98s-nepaliksiu/200030903961339",
+   "source": "AllEvents",
+   "category": "film"
   },
   {
    "id": "7a6d69049c",
@@ -2478,19 +2854,6 @@
    "category": "other"
   },
   {
-   "id": "361b25bd87",
-   "title": "(PERKELTAS į Šv. Kotrynos bažnyčią) MKČ26 | ''ŠOKANČIOS ARFOS'' | AISTĖ BALIUNYTĖ IR GIEDRA JULIJA TUTKUTĖ",
-   "start": "2026-11-19T17:00:00.000Z",
-   "end": "2026-11-19T18:00:00.000Z",
-   "venue": "Vilniaus Rotušė",
-   "address": "Didžioji gatvė 31, Vilnius",
-   "description": "Atnaujinta 2026.10.29Pranešame, kad renginys „MKČ26 | ''ŠOKANČIOS ARFOS'' | AISTĖ BALIUNYTĖ IR GIEDRA JULIJA TUTKUTĖ“, kuris įvyks 2026 m. lapkričio 19 d. 19:00 val., iš Vilniaus Rotušės yra perkeltas į Šv. Kotrynos bažnyčią, adresu Vilniaus g. 30, Vilnius.Bilietai lieka galioti ",
-   "image": "https://www.bilietai.lt/#/schema/image/1",
-   "url": "https://www.bilietai.lt/renginiai/KN2RI7ZIBP/perkeltas-i-sv-kotrynos-baznycia-mkc26-sokancios-arfos-aiste-baliunyte-ir-giedra-julija-tutkute",
-   "source": "Bilietai",
-   "category": "other"
-  },
-  {
    "id": "b52baeecc8",
    "title": "World Hits Symphony | Universe Orchestra | Vilnius",
    "start": "2026-11-19T17:00:00.000Z",
@@ -2502,6 +2865,19 @@
    "url": "https://www.bilietai.lt/renginiai/YA54QQAKZJ/world-hits-symphony-universe-orchestra-vilnius",
    "source": "Bilietai",
    "category": "concert"
+  },
+  {
+   "id": "361b25bd87",
+   "title": "(PERKELTAS į Šv. Kotrynos bažnyčią) MKČ26 | ''ŠOKANČIOS ARFOS'' | AISTĖ BALIUNYTĖ IR GIEDRA JULIJA TUTKUTĖ",
+   "start": "2026-11-19T17:00:00.000Z",
+   "end": "2026-11-19T18:00:00.000Z",
+   "venue": "Vilniaus Rotušė",
+   "address": "Didžioji gatvė 31, Vilnius",
+   "description": "Atnaujinta 2026.10.29Pranešame, kad renginys „MKČ26 | ''ŠOKANČIOS ARFOS'' | AISTĖ BALIUNYTĖ IR GIEDRA JULIJA TUTKUTĖ“, kuris įvyks 2026 m. lapkričio 19 d. 19:00 val., iš Vilniaus Rotušės yra perkeltas į Šv. Kotrynos bažnyčią, adresu Vilniaus g. 30, Vilnius.Bilietai lieka galioti ",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/KN2RI7ZIBP/perkeltas-i-sv-kotrynos-baznycia-mkc26-sokancios-arfos-aiste-baliunyte-ir-giedra-julija-tutkute",
+   "source": "Bilietai",
+   "category": "other"
   },
   {
    "id": "5885938408",
@@ -2594,6 +2970,44 @@
    "category": "other"
   },
   {
+   "id": "7a04abeb36",
+   "title": "Opera kūdikiams „Baroko paukštė“",
+   "start": "2026-11-20T08:00:00.000Z",
+   "venue": "Aušros Vartų g. 5, 01304 Vilnius, Lithuania",
+   "address": "Aušros Vartų gatvė 5, LT-01304 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Laukia neįprasta premjera. Opera kūdikiams „Baroko paukštė“ – tai muzikinė patirtis patiems mažiausiems žiūrovams ir jų tėveliams. Šiame spektaklyje barokinė muzika susitinka su judesiu, vaizduote ir jutiminiu teatro pasauliu. Žiūrovai, sėdėdami arti atlikėjų, gali laisvai reaguo",
+   "image": "https://cdn-az.allevents.in/events8/banners/124316a5fccd1b4419698e21720b751f426b59d7d6550aae41b0562f9a9d1f35-rimg-w1200-h628-dcf85808-gmir?v=1792902310",
+   "url": "https://allevents.in/vilnius/opera-k%C5%ABdikiams-%E2%80%9Ebaroko-pauk%C5%A1t%C4%97/200030906052611",
+   "source": "AllEvents",
+   "category": "theatre"
+  },
+  {
+   "id": "d8fdef4478",
+   "title": "Trans Day of Remembrance talk+dinner: solidarity and intersectional organizing",
+   "start": "2026-11-20T16:00:00.000Z",
+   "end": "2026-11-20T19:00:00.000Z",
+   "venue": "Šeimyniškių g. 16, Vilnius",
+   "address": "Šeimyniškių gatvė 16, LT-09312 Vilnius, Lietuva, Vilnius, VL",
+   "description": "On November 20 (Friday) at 6PM, after the Trans Day of Remembrance vigil, join us for dinner and a talk on solidarity and intersectional organizing at the Luna16 community center in Vilnius (Šeimyniškių g. 16). For this talk, we invited trans/nonbinary activists and artists with ",
+   "image": "https://cdn-az.allevents.in/events10/banners/4d8cbed4ac76bcb7b3fc53d36c9a2d03ff4628ca0a9c1c18a1c52daaa9ddc167-rimg-w1200-h655-dcf8f8f8-gmir?v=1794078743",
+   "url": "https://allevents.in/vilnius/trans-day-of-remembrance-talkdinner-solidarity-and-intersectional-organizing/200030994971523",
+   "source": "AllEvents",
+   "category": "kids"
+  },
+  {
+   "id": "88244b8ff9",
+   "title": "Koncertas ''Laiškai Grafui''",
+   "start": "2026-11-20T16:00:00.000Z",
+   "end": "2026-11-20T17:00:00.000Z",
+   "venue": "Trakų Vokės dvaro sodyba",
+   "address": "Žalioji a. 2A, Vilnius",
+   "description": "Muzikiniai laiškai grafui Trakų Vokės dvareDainininkė ir dainų kūrėja Aušrinė Apanavičiūtė kviečia į elegantišką, romantikos ir atradimų kupiną koncertą Trakų Vokės dvare. Šį vakarą muzika ves per septynias pasaulio šalis, o kiekvienas kūrinys taps vis nauju laišku grafui – kupin",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/RBAEYJGDDY/koncertas-laiskai-grafui",
+   "source": "Bilietai",
+   "category": "concert"
+  },
+  {
    "id": "474b251e4e",
    "title": "\"The Tiger Lillies\" | Vilnius",
    "start": "2026-11-20T17:00:00.000Z",
@@ -2602,6 +3016,31 @@
    "description": "Kabareto pankai – grupė „The Tiger Lillies“ sugrįžta į Lietuvą „The Tiger Lillies“ – britų muzikinis trio, kurį 1989 m. įkūrė Martynas Jacques'as. Jų muzika dažnai apibūdinama kaip unikalus tamsaus kabareto, pankroko, šansono ir operos elementų mišinys, tyrinėjantis makabriškas i",
    "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czIvYmFubmVycy8wOTM2MjU3NmJjZWQyZTFiZjFkYWUxOWE0ZjZjODAwZTQ2NmM0ODhiMzM5MGVhYTUwZjBkZDYyNjRjNmJiYjRjLXJpbWctdzEyMDAtaDY3NS1kYzA4MDgwOC1nbWlyP3Y9MTc4Njk3MjM0Mg.avif",
    "url": "https://allevents.in/vilnius/the-tiger-lillies-vilnius/200030247008559",
+   "source": "AllEvents",
+   "category": "theatre"
+  },
+  {
+   "id": "962f4ecfcb",
+   "title": "Tomo Kutavičiaus solinis koncertas",
+   "start": "2026-11-20T17:00:00.000Z",
+   "venue": "Muzikos magijos klubas",
+   "address": "Šv. Stepono g. 12,Vilnius, Lithuania, Vilnius, VL",
+   "description": "Kompozitorius, improvizuojantis pianistas Tomas Kutavičius – vienas iš tų retų kūrėjų, kurie kuria tyliai, be afišavimo ir be noro išsiskirti viešojoje erdvėje. Jam pakanka savos muzikos ir ją įkvepiančios Mūzos – nematomo, bet stipraus impulso, kuriam jis ištikimai atsiduoda ir ",
+   "image": "https://cdn-az.allevents.in/events1/banners/a41f85f501607a1ced2e259530b7773f5bfefe8036015da1b8c417ef14c9176f-rimg-w1200-h628-dc083838-gmir?v=1793294302",
+   "url": "https://allevents.in/vilnius/tomo-kutavi%C4%8Diaus-solinis-koncertas/200030935003823",
+   "source": "AllEvents",
+   "category": "concert"
+  },
+  {
+   "id": "565a2e0de6",
+   "title": "Vienas vakaras – du spektakliai | Jörg Müller (Vokietija) | Accompany ME (Prancūzija/Lietuva)",
+   "start": "2026-11-20T17:00:00.000Z",
+   "end": "2026-11-20T18:35:00.000Z",
+   "venue": "Dūmų fabrikas",
+   "address": "Dūmų g. 5,Vilnius, Lithuania, Vilnius, VL",
+   "description": "Vienas vakaras – du spektakliai Jörg Müller (Vokietija) | „MOBILE“ + Accompany ME (Prancūzija/Lietuva) | „THE ONION TECHNIQUE“ Black box versijos PREMJERA \\\\\\\\ „Mobile“ – tai nesenstantis šiuolaikinio cirko kūrinys, garsėjantis savo paprastumu, tikslumu ir tyliu grožiu. Autorius ",
+   "image": "https://cdn-az.allevents.in/events5/banners/d3c796e0aa96a52e505829d188e955c1a53bd93828190b64a21a054f0b8ec19a-rimg-w1200-h628-dcf8f8e8-gmir?v=1789240332",
+   "url": "https://allevents.in/vilnius/vienas-vakaras-du-spektakliai-j%C3%B6rg-m%C3%BCller-vokietija-accompany-me-pranc%C5%ABzija-lietuva/200030690442712",
    "source": "AllEvents",
    "category": "theatre"
   },
@@ -2645,6 +3084,18 @@
    "category": "concert"
   },
   {
+   "id": "d514ac0991",
+   "title": "Groove Mechanica",
+   "start": "2026-11-20T20:00:00.000Z",
+   "venue": "Geležinkelio g. 6, 02100 Vilnius, Lithuania",
+   "address": "Geležinkelio gatvė 6, LT-02100 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Į Peroną įvažiuoja nauja vakarėlių serija – GROOVE MECHANICA! Lapkričio 20-ąją įjungsim variklius ir pasinersim į house, groove bei funk ritmus. Už vairo – FUTULINER ir VERBA. Maršrutas aiškus, kryptis – gera muzika, o greičio apribojimų šokių aikštelėje nebus! Įėjimas nemokamas!",
+   "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czEvYmFubmVycy83ZDVmMTBlNzBmNmUxZjA4MzdmNTYxYjZkYzAxNWNiYjZhMjZiMjFmOWRhMWM1NzQ4YTgxMjZiMmFmYzkxZjg1LXJpbWctdzEyMDAtaDYyOC1kY2Y4ZDg3OC1nbWlyP3Y9MTc5NDMxMzQxMQ.avif",
+   "url": "https://allevents.in/vilnius/groove-mechanica/200031017999231",
+   "source": "AllEvents",
+   "category": "night"
+  },
+  {
    "id": "62d134d61a",
    "title": "KVEPALŲ DIENA Paskui nosį",
    "start": "2026-11-21T08:00:00.000Z",
@@ -2682,6 +3133,18 @@
    "url": "https://allevents.in/vilnius/draug%C5%B3-spinta-vinta%C5%BEo-mug%C4%97/200030935149340",
    "source": "AllEvents",
    "category": "festival"
+  },
+  {
+   "id": "da6a0d525d",
+   "title": "Ekskursija \"Pirmosios ponios: tarp santuokos, valstybės ir savęs\"",
+   "start": "2026-11-21T09:00:00.000Z",
+   "venue": "Tilto g. 6, Vilnius",
+   "address": "Tilto gatvė 6, LT-01101 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Tapti pirmąja šalies ponia reiškia gauti pareigas be pareigybių aprašymo. Niekur neparašyta, koks tai darbas ir kaip jį atlikti teisingai, tačiau labai greitai pastebima, jei jis atliekamas „ne taip“. Kas tos moterys, kurioms teko gyventi tarp santuokos, valstybės ir savęs? ⚖️. S",
+   "image": "https://cdn-az.allevents.in/events10/banners/32f3b329bf5acda3ecb15e4ad09e06c7f37fcc427011b589def6774c803514e7-rimg-w1200-h675-dc681808-gmir?v=1793296843",
+   "url": "https://allevents.in/vilnius/ekskursija-pirmosios-ponios-tarp-santuokos-valstyb%C4%97s-ir-sav%C4%99s/200030935149744",
+   "source": "AllEvents",
+   "category": "expo"
   },
   {
    "id": "f6d4aac8fb",
@@ -2748,6 +3211,31 @@
    "category": "festival"
   },
   {
+   "id": "300a3b4541",
+   "title": "Future cello: ELEKTRONINĖ SIMFONIJA",
+   "start": "2026-11-21T17:00:00.000Z",
+   "venue": "Šv. Kotrynos bažnyčia. Renginių salė",
+   "address": "Vilniaus g. 30,Vilnius, Lithuania, Vilnius, VL",
+   "description": "Elektroninė simfonija „Atgimimas“ – dviejų dalių Future Cello koncertas, kuriame violončelė tampa vartais į kitą pasaulį. Violončelės skambesys, elektronika, akustiniai instrumentai ir nežemiškų garsų sluoksniai, kuriantys nuolat besikeičiančią, beveik kosminę emocinę kelionę. Mu",
+   "image": "https://cdn-az.allevents.in/events4/banners/9c4dd45acb6bb62cd0ed5d204e9808b0fba93ec1bbfefe0a80458bd6ed88dbf7-rimg-w1200-h675-dcc8c8c8-gmir?v=1792629733",
+   "url": "https://allevents.in/vilnius/future-cello-elektronin%C4%96-simfonija/200030874770513",
+   "source": "AllEvents",
+   "category": "concert"
+  },
+  {
+   "id": "9fd3f91f7d",
+   "title": "INSHI (Ukraina) | „Reves“",
+   "start": "2026-11-21T18:00:00.000Z",
+   "end": "2026-11-21T19:15:00.000Z",
+   "venue": "Menų spaustuvė/ Arts Printing House",
+   "address": "Šiltadaržio g. 6,Vilnius, Lithuania, Vilnius, VL",
+   "description": "Rêves – tremtyje sukurtas darbas, pasakojantis apie atkaklumą ir meistriškumą. Tai karo sukrėstos jaunystės liudijimas ir stiprus Ukrainos cirko kokybės pavyzdys. Šviesotamsos atmosferoje artistai atskleidžia savo įsipareigojimą ir vidinę įtampą. Nuo kolektyvinių scenų iki solo n",
+   "image": "https://cdn-az.allevents.in/events9/banners/ffe5f8811ccdab7b4d9aebc532791c5a347fae48304390047ca8c066d4668370-rimg-w1200-h628-dcf8f8e8-gmir?v=1788646556",
+   "url": "https://allevents.in/vilnius/inshi-ukraina-%E2%80%9Ereves/200030457258000",
+   "source": "AllEvents",
+   "category": "kids"
+  },
+  {
    "id": "bd914c6cd3",
    "title": "CIRKULIACIJA: INSHI (Ukraina) | ''Reves''",
    "start": "2026-11-21T18:00:00.000Z",
@@ -2761,6 +3249,19 @@
    "category": "kids"
   },
   {
+   "id": "a3e2b708e7",
+   "title": "Love Me Like a Pop Song",
+   "start": "2026-11-21T20:00:00.000Z",
+   "end": "2026-11-22T05:00:00.000Z",
+   "venue": "Švitrigailos g. 7, 03110 Vilnius, Lithuania",
+   "address": "Švitrigailos gatvė 7, LT-03110 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Mylėk mane kaip pop dainą. Su įsimenančiu priedainiu, trupučiu dramos ir tuo jausmu, kai norisi kartoti dar kartą. „Love Me Like a Pop Song“ skirtas visiems, kurių meilės gyvenimas bent kartą priminė muzikos klipą: gražus apšvietimas, stiprios emocijos ir ne visada logiškas scena",
+   "image": "https://cdn-az.allevents.in/events7/banners/d6b40420273c133b6d0429b043a8b06ca7dc24051ded23022ec0d3eeb898a8c4-rimg-w1200-h628-dc080808-gmir?v=1793941061",
+   "url": "https://allevents.in/vilnius/love-me-like-a-pop-song/200030981122843",
+   "source": "AllEvents",
+   "category": "expo"
+  },
+  {
    "id": "583dcbf650",
    "title": "GATHER MARKET /// VILNIUS",
    "start": "2026-11-22T08:00:00.000Z",
@@ -2771,6 +3272,20 @@
    "url": "https://allevents.in/vilnius/gather-market-vilnius/200030949455903",
    "source": "AllEvents",
    "category": "festival"
+  },
+  {
+   "id": "b831441953",
+   "title": "OUR CHOICE / НАШ ВИБІР / НАШ ВЫБАР",
+   "start": "2026-11-22T10:30:00.000Z",
+   "end": "2026-11-22T17:30:00.000Z",
+   "venue": "Zolak Micro Art Residence, Vytenio g. 50D, Vilnius",
+   "address": "Vytenio g. 50D, Vilnius, Vilnius County",
+   "description": "OUR CHOICE / НАШ ВИБІР / НАШ ВЫБАРСпільнотний день про майбутнє, можливості та наші реальні історії — для українців, білорусів та всіх, хто живе в Литві.Три частини дня:• THE FUTURE WE CHOOSE (13:15–14:45) — форсайт: уявляємо майбутнє через 10–15 років і шукаємо конкретні кроки. ",
+   "image": "https://cdn2.allevents.in/thumbs/thumb6abe1b963723c.jpg",
+   "url": "https://allevents.in/vilnius/our-choice-%D0%9D%D0%90%D0%A8-%D0%92%D0%98%D0%91%D0%86%D0%A0-%D0%9D%D0%90%D0%A8-%D0%92%D0%AB%D0%91%D0%90%D0%A0-tickets/80002566517222",
+   "price": "0.00 LTL",
+   "source": "AllEvents",
+   "category": "expo"
   },
   {
    "id": "cf7e59c603",
@@ -2952,15 +3467,40 @@
    "category": "other"
   },
   {
-   "id": "e1f28a08d0",
-   "title": "Lėtos mados klubas",
-   "start": "2026-11-27T15:00:00.000Z",
-   "end": "2026-11-27T16:00:00.000Z",
-   "venue": "Vilniaus apskrities Adomo Mickevičiaus viešoji biblioteka",
-   "address": "Trakų g. 10,Vilnius, Lithuania, Vilnius, VL",
-   "description": "📍 Lapkričio 27 d. nuo 17 iki 19 val. antrame bibliotekos aukšte esančioje Kūrybos laboratorijoje (Trakų g. 10) vyks Lėtos mados klubas. Tai renginys, kurio metu kviečiame atsinešti savo taisytiną ar atnaujinimo laukiančią aprangą: skylėtas kelnes, prairusias siūles, pamestas sag",
-   "image": "https://cdn-az.allevents.in/events6/banners/c89932a9c233b4a6f428734686dbdad9e506564ad18b5af3d6a652941960fdee-rimg-w1200-h675-dce8e8e8-gmir?v=1793899983",
-   "url": "https://allevents.in/vilnius/l%C4%97tos-mados-klubas/200030977711504",
+   "id": "42367711fa",
+   "title": "RIEŠUTŲ DUONA | Keistuoliai",
+   "start": "2026-11-25T17:00:00.000Z",
+   "end": "2026-12-09T17:00:00.000Z",
+   "venue": "Keistuolių Teatras",
+   "address": "Vilnius, VL",
+   "description": "Bilietai – https://www.bilietai.lt/renginiai/LYSNSFQJDA/keistuoliai-riesutu-duona RIEŠUTŲ DUONA pagal Sauliaus Šaltenio to paties pavadinimo apysaką N-12 Sauliaus Šaltenio apysaka besiremiantis spektaklis pasakoja apie Andrių Šatą, jauną nedideliame praeito amžiaus vidurio Lietuv",
+   "image": "https://cdn-az.allevents.in/events3/banners/035f43029fabe43cb56658635d5623638b03dac730eff22f2c5e24b7c08364bd-rimg-w1200-h628-dc181818-gmir?v=1792504199",
+   "url": "https://allevents.in/vilnius/rie%C5%A0ut%C5%B2-duona-keistuoliai/200030862466700",
+   "source": "AllEvents",
+   "category": "kids"
+  },
+  {
+   "id": "e429959a64",
+   "title": "Hooligan Prayer • Evening with Aron Fogelström and Julia Wiger-Nordås",
+   "start": "2026-11-26T16:30:00.000Z",
+   "venue": "Naujasis teatras",
+   "address": "A. Jakšto gatvė 7, LT-01105 Vilnius, Lietuva, Vilnius, VL",
+   "description": "🟠 On November 26 at 6 pm, SODAS 2123 invites you to gather at Naujasis Teatras (A. Jakšto St. 9, Vilnius), where voices, sounds, moving images, and speculative narratives will intertwine. Across two experimental performances, personal stories will collide with political fantasie",
+   "image": "https://cdn-az.allevents.in/events5/banners/132c088f02aa9b923d8428d892efa5ad2e17911edee2157e1e66ffcb49f46218-rimg-w1200-h675-dc181828-gmir?v=1794010158",
+   "url": "https://allevents.in/vilnius/hooligan-prayer-%E2%80%A2-evening-with-aron-fogelstr%C3%B6m-and-julia-wiger-nord%C3%A5s/200030990422218",
+   "source": "AllEvents",
+   "category": "theatre"
+  },
+  {
+   "id": "b32d146da4",
+   "title": "VB26 pristato: Joelis Aškinis performansas „Dabar-tuoj-bet kada“",
+   "start": "2026-11-27T16:00:00.000Z",
+   "end": "2026-11-27T16:20:00.000Z",
+   "venue": "Elastica",
+   "address": "Geležinkelio gatvė 6, LT-02100 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Vilniaus performanso meno bienalė (VB26) vyks lapkričio 19–29 d. Per du ilguosius savaitgalius skirtingose Vilniaus erdvėse numatyta 12 pasirodymų, kuriuos surengs menininkai iš Lietuvos ir užsienio. Visą bienalės programą rasite čia: https://vilniusbiennial.com/lt/programa/ 📍 J",
+   "image": "https://cdn-az.allevents.in/events8/banners/9db4214787047ab674bbfaaa353bcee8eb96d6541e23aba292ac3dfbf1237b78-rimg-w1200-h801-dc181808-gmir?v=1794279870",
+   "url": "https://allevents.in/vilnius/vb26-pristato-joelis-a%C5%A1kinis-performansas-%E2%80%9Edabar-tuoj-bet-kada/200031015600030",
    "source": "AllEvents",
    "category": "night"
   },
@@ -2971,7 +3511,7 @@
    "end": "2026-11-27T21:59:00.000Z",
    "venue": "Klubas nArauti",
    "address": "Konstitucijos pr. 23, Vilnius",
-   "description": "LITHUANIA BEATBOX BATTLE 2026Lapkričio 27 dieną Lietuvos beatbox bendruomenė susitiks klube **NarAuti**, kur vyks 19-asis oficialus Lietuvos beatbox čempionatas!Šiemet dalyviai varžysis trijose kategorijose: **Solo, Tag Team ir U16**, kovodami dėl Lietuvos čempionų titulų bei gal",
+   "description": "LITHUANIAN BEATBOX BATTLE 2026Lapkričio 27 dieną Lietuvos beatbox bendruomenė susitiks klube narAuti, kur vyks 19-asis oficialus Lietuvos beatbox čempionatas!Šiemet dalyviai varžysis trijose kategorijose: Solo, Tag Team ir U16, kovodami dėl Lietuvos čempionų titulų bei galimybės ",
    "image": "https://www.bilietai.lt/#/schema/image/1",
    "url": "https://www.bilietai.lt/renginiai/SGVVHGYEPW/official-lithuanian-and-latvian-beatbox-battle",
    "source": "Bilietai",
@@ -3001,6 +3541,19 @@
    "url": "https://allevents.in/vilnius/wielkie-wile%C5%84skie-andrzejki-2026-i-haddaway-i-dralban-i-jenny-from-ace-of-base-i-masters-i-imperium/200030351063415",
    "source": "AllEvents",
    "category": "concert"
+  },
+  {
+   "id": "5ee7fcc277",
+   "title": "Improvizacinis spektaklis „Ofiso Pasaulis“ #1",
+   "start": "2026-11-27T17:00:00.000Z",
+   "end": "2026-11-27T18:15:00.000Z",
+   "venue": "Vileišio18",
+   "address": "P. Vileišio gatvė 18n, LT-10306 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Kava, laiškai, susirinkimas, kompiuterio ekranas, kolegos vakarykštė atąskaita, vėl kava...Kiekvieną rytą pradedame su mintimi, šiandien bus kitaip, tačiau vėl sugrįžtame į gerai pažįstamą ritmą. „Ofiso pasaulis“ - tai ironiškas, šiltas ir skaudžiai atpažįstamas žvilgsnis į darbo",
+   "image": "https://cdn-az.allevents.in/events3/banners/eb95f23616b90096977ffabbb8eaee25f4fc0575be5c9f85420c75db8d59bfa4-rimg-w1200-h848-dcf8f8f8-gmir?v=1793293765",
+   "url": "https://allevents.in/vilnius/improvizacinis-spektaklis-%E2%80%9Eofiso-pasaulis-1/200030934971226",
+   "source": "AllEvents",
+   "category": "theatre"
   },
   {
    "id": "3051becff4",
@@ -3052,6 +3605,18 @@
    "url": "https://allevents.in/vilnius/15min-forumas-%E2%80%9Eo-kaip-sveikata/200030949456614",
    "source": "AllEvents",
    "category": "talk"
+  },
+  {
+   "id": "30473eb04b",
+   "title": "REPO OPERA pagal G. Orwell „1984“",
+   "start": "2026-11-28T17:00:00.000Z",
+   "venue": "MO Betonas",
+   "address": "Savanoriu Pr. 174b, Račių gatvė, LT-03156 Vilnius, Lietuva, Vilnius, VL",
+   "description": "Žymiausias G. Orwello romanas „1984“ teatro lauke atgims repo operos pavidalu. Tragiška ir kartu viltinga dviejų žmonių meilės istorija vystysis tarp sąmonę naikinančios sistemos ir tiesos bei atminties likučių. Ji bus papasakota pasitelkiant veržlų repą scenoje, gatvės šokį kūne",
+   "image": "https://cdn-az.allevents.in/events10/banners/5815e3b7c205bb3bf2b87132228fe12e2bb8c70a5cf76eba73136669670c00a9-rimg-w1200-h628-dc080808-gmir?v=1788214969",
+   "url": "https://allevents.in/vilnius/repo-opera-pagal-g-orwell-%E2%80%9E1984/200030570152336",
+   "source": "AllEvents",
+   "category": "theatre"
   },
   {
    "id": "da6474eb2f",
@@ -3126,6 +3691,30 @@
    "url": "https://www.bilietai.lt/renginiai/2Q6U2HSMFE/mkc26-viva-italia-alessandra-ammara-roberto-prosseda",
    "source": "Bilietai",
    "category": "concert"
+  },
+  {
+   "id": "8da67dd83e",
+   "title": "Free Finga in Vilnius",
+   "start": "2026-12-02T00:00:00+02:00",
+   "venue": "Kablys",
+   "address": "Kablys, Vilnius, VL, Lithuania, Vilnius, VL",
+   "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8zNDM4YTQyMC1kN2QxLTExZjEtYjAzZi05N2EzMDkxZTQ1MDYtcmltZy13MTIwMC1oNTE0LWRjMDgwODA4LWdtaXIud2VicD92PTE3OTM3NDI5MTg.avif",
+   "url": "https://allevents.in/vilnius/free-finga-in-vilnius/3300030725888432",
+   "source": "AllEvents",
+   "category": "night"
+  },
+  {
+   "id": "b81530468e",
+   "title": "Patirtinis spektaklis ''Kolonija Antika'' (rež. P. Markevičius)",
+   "start": "2026-12-02T16:30:00.000Z",
+   "end": "2026-12-02T18:15:00.000Z",
+   "venue": "Lukiškių kalėjimas 2.0",
+   "address": "Lukiškių skg. 6, Vilnius",
+   "description": "Patirtinis spektaklis „Kolonija Antika“Rež. P. MarkevičiusKolonija Antika atveria vartus miesto svečiams! Įžengus pro sunkias metalines Lukiškių kalėjimo II korpuso duris atsidursi izoliuotame mitiniame mieste-kolonijoje. Tai – ne tokia tolima distopija, kaip gali pasirodyti iš p",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/TSZ7M2FTXT/patirtinis-spektaklis-kolonija-antika-rez-p-markevicius",
+   "source": "Bilietai",
+   "category": "theatre"
   },
   {
    "id": "5de61ea7b5",
@@ -3204,19 +3793,6 @@
    "category": "concert"
   },
   {
-   "id": "11bb5d7d6a",
-   "title": "Free Finga in Vilnius",
-   "start": "2026-12-04T18:00:00.000Z",
-   "end": "2026-12-04T00:00:00+02:00",
-   "venue": "Kablys",
-   "address": "Kablys, Vilnius, VL, Lithuania, Vilnius, VL",
-   "description": "🎶 Don't Miss Free Finga Live in Vilnius on Friday, December 4, 2026! 🎶 Are you ready to experience Free Finga like never before? With chart-topping hits like Vienas, Beržas (feat. Monika Liu) and Nepyk Ant Manęs and 20.8K+ devoted fans, Free Finga is taking over Kablys this Fri",
-   "image": "https://cdn-ip.allevents.in/s/rs:fill:500:250/g:sm/sh:100/aHR0cHM6Ly9jZG4tYXouYWxsZXZlbnRzLmluL2V2ZW50czMvYmFubmVycy8zNDM4YTQyMC1kN2QxLTExZjEtYjAzZi05N2EzMDkxZTQ1MDYtcmltZy13MTIwMC1oNTE0LWRjMDgwODA4LWdtaXIud2VicD92PTE3OTM3NDI5MTg.avif",
-   "url": "https://allevents.in/vilnius/free-finga-in-vilnius/3300030725888432",
-   "source": "AllEvents",
-   "category": "expo"
-  },
-  {
    "id": "bfd9f9326d",
    "title": "Chris Norman in Vilnius",
    "start": "2026-12-04T18:00:00.000Z",
@@ -3228,6 +3804,19 @@
    "url": "https://allevents.in/vilnius/chris-norman-in-vilnius/3300030725188102",
    "source": "AllEvents",
    "category": "concert"
+  },
+  {
+   "id": "11bb5d7d6a",
+   "title": "Free Finga in Vilnius",
+   "start": "2026-12-04T18:00:00.000Z",
+   "end": "2026-12-04T20:00:00.000Z",
+   "venue": "Kablys",
+   "address": "Kablys, Vilnius, VL, Lithuania, Vilnius, VL",
+   "description": "🎶 Don't Miss Free Finga Live in Vilnius on Friday, December 4, 2026! 🎶 Are you ready to experience Free Finga like never before? With chart-topping hits like Vienas, Beržas (feat. Monika Liu) and Nepyk Ant Manęs and 20.8K+ devoted fans, Free Finga is taking over Kablys this Fri",
+   "image": "https://cdn-az.allevents.in/events3/banners/3438a420-d7d1-11f1-b03f-97a3091e4506-rimg-w1200-h514-dc080808-gmir.webp?v=1793742918",
+   "url": "https://allevents.in/vilnius/free-finga-in-vilnius/3300030725888432",
+   "source": "AllEvents",
+   "category": "expo"
   },
   {
    "id": "5432065e81",
@@ -3482,19 +4071,6 @@
    "category": "other"
   },
   {
-   "id": "6446807ef7",
-   "title": "UPTOWN Christmas'26 | Paskutinės minutės mugė",
-   "start": "2026-12-18T09:00:00.000Z",
-   "end": "2026-12-20T20:00:00.000Z",
-   "venue": "LOFTAS",
-   "address": "Švitrigailos gatvė 29, LT-03209 Vilnius, Lietuva, Vilnius, VL",
-   "description": "Lėtos Kalėdos. Laikas sulėtėja pačiu laiku. ✨ Trys dienos, kai Kalėdos neskuba. Gruodžio 19–21 d. Loftas virsta vieta, kur dovanų ieškoti malonu: lėtai, su draugais ir karštu puodeliu rankose. Čia rasi dovanas su istorija savo artimiesiems. Čia dovanas kuria tie, kurie stovi už p",
-   "image": "https://cdn-az.allevents.in/events4/banners/8a7b060800ff8537589894624af1db3884ac6c6be4b515643777221959f87479-rimg-w1200-h628-dc183828-gmir?v=1793900478",
-   "url": "https://allevents.in/vilnius/uptown-christmas26-paskutin%C4%97s-minut%C4%97s-mug%C4%97/200030977757818",
-   "source": "AllEvents",
-   "category": "festival"
-  },
-  {
    "id": "f9fb673716",
    "title": "''ADMITA'' Lietuvos plaukimo čempionatas | 2 diena",
    "start": "2026-12-19T07:00:00.000Z",
@@ -3642,6 +4218,19 @@
    "url": "https://www.bilietai.lt/renginiai/RMPQ5ISZR5/lkl-vilniaus-rytas-siauliu-siauliai",
    "source": "Bilietai",
    "category": "sport"
+  },
+  {
+   "id": "3601a16bc1",
+   "title": "BOOK FEST VILNIUS",
+   "start": "2027-02-25T08:00:00.000Z",
+   "end": "2027-02-28T16:00:00.000Z",
+   "venue": "Šiuolaikinio meno centras",
+   "address": "Vokiečių g. 2, Vilnius",
+   "description": "BOOK FEST VILNIUSKnygos skaito miestą.2027 m. vasario 25–28 dienomis pačiame Vilniaus centre, Šiuolaikinio meno centre, pirmą kartą vyks BOOK FEST VILNIUS – naujos kartos tarptautinis literatūros festivalis, kuriame knygos susitinka su menu, muzika, aktualiais pokalbiais ir miest",
+   "image": "https://www.bilietai.lt/#/schema/image/1",
+   "url": "https://www.bilietai.lt/renginiai/WQVMZO526F/book-fest-vilnius",
+   "source": "Bilietai",
+   "category": "festival"
   }
  ]
 }
